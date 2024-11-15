@@ -6,6 +6,6 @@ The F-100D manual is written in markdown. You can find a [cheatsheet here](https
 
 Be sure to make use of links wherever possible to make it easy to navigate and put images where you would expect even if you don't have an image yet.
 
-The exact structure is too be discussed.
+The exact structure is to be discussed.
 
 ![gif-test](gunsight.gif)
