@@ -1,0 +1,10 @@
+[book]
+authors = ["Grinnelli Designs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DCS F-100 Manual"
+
+[output.html]
+
+[output.pdf]

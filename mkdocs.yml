@@ -1,0 +1,27 @@
+site_name: DCS F-100D Manual
+plugins:
+    - search
+    #- offline
+    #- with-pdf:
+    #    headless_chrome_path: C:/Program Files/Google/Chrome/Application/chrome.exe
+    #    render_js: true
+    - print-site:
+        print_page_title: 'Manual'
+        enumerate_headings: false
+        toc_depth: 1
+
+theme:
+  name: readthedocs
+  custom_dir: 'custom_theme/'  # or any other theme
+  features:
+    - navigation.instant
+
+docs_dir: src
+
+nav:
+    - Weapon Systems:
+      - A-4 Gunsight: ./Weapon System/a-4-gunsight.md
+      - AIM-9 Sidewinder: ./Weapon System/aim-9-sidewinder.md
+      - Armament Control Panels: ./Weapon System/armament-control-panels.md
+      - Basic Armament System Circuitry: ./Weapon System/basic-armament-system-circuitry.md
+      - Aircraft Weapons Release System: ./Weapon System/aircraft-weapons-release-system.md
