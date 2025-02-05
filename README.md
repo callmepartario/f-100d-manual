@@ -8,4 +8,4 @@ Be sure to make use of links wherever possible to make it easy to navigate and p
 
 The exact structure is to be discussed.
 
-![gif-test](gunsight.gif)
+![gif-test](src/Weapon%20System/gunsight.gif)
