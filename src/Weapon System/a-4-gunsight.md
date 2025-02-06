@@ -32,6 +32,8 @@ A line depressed by some angle from the [True 0 Prediction Sight Line](#true-0-p
 
 A line depressed by 1.1 mils from the [0 Predication Sight Line](#0-prediction-sight-line-0psl) to account for bullet drop at approximately 850 feet.
 
+This sight line is what is used when the sight is electrically or mechanically caged.
+
 ## Controls
 
 ### Mechanical Cage Lever

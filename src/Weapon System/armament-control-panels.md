@@ -9,6 +9,34 @@ These consist of:
 - [Armament Selector Panel](#armament-selector-panel)
 - [Pylon Loading Control Panel](#pylon-loading-control-panel)
 
+## Gun Missile Switch
+
+The gun missile switch controls electrical power for the upper, lower guns and the missiles.
+
+Gun missile firing circuits are inhibited when weight is on the wheels.
+
+![Gun Missile Switch](./img/gun_missile_switch.png)
+
+With the gun missile switch in any position the gun camera can be actuated by using the first trigger detent.
+
+Placing the switch to missiles powers the sidewinders and energises the trigger provided the [Missile Master](./aim-9-sidewinder.md#missile-master) is in the ready position. Pulling the second trigger detent while energised will fire a sidewinder and step to the next sidewinder pylon.
+
+The gun missile switch allows either the upper, lower or all guns to be fired by selecting the respective setting.
+
+With the switch in any of upper, lower, all: the trigger is energised, and pulling the second detent will fire the selected guns.
+
+The pod position is unused on the F-100D.
+
+## Status Display Lights
+
+The status display lights indicate various information about the current state of the weapon system.
+
+![Status Display Lights Image](./img/status_display_lights.png)
+
+| Light | Purpose |
+| TER EMPTY | This indicates (if a TER is mounted on an inner pylon) if a TER is empty of bombs
+| CBU EMPTY | This indicates (if a CBU Dispenser is mounted) if the CBU dispenser is fully depleted
+| Missile | This indicates if a missile is ready to be fired. The missiles are listed in firing order.
 
 ## Armament Selector Panel
 

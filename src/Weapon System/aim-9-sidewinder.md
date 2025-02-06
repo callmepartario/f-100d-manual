@@ -62,9 +62,9 @@ This three position switch is normally in the standby position with it spring lo
 
 Actuating reset will reset the firing order of the sidewinders moving the firing order back to the first sidewinder (left pylon right sub-pylon).
 
-Standby will maintain the sidewinder in a warmed up state while keeping the missile safe.
+Standby will maintain the sidewinder in a warmed up state while keeping the missile safe. The audio can still be heard in this position.
 
-Ready will arm the sidewinder for launch bringing it to the read position.
+Ready will arm the sidewinder for launch bringing it to the ready state.
 
 ### Safe Launch
 
@@ -78,14 +78,20 @@ Pressing this switch will fire all sidewinders safe (no fuzing or guidance) in t
 TODO Gun-Missile Switch
 -->
 
-The [Gun-Missile Switch]() in the Missile position provides warmup and gyro power to the missiles. The [Missile Master Switch]() sets the ready state of the missiles. In the RESET position the firing sequence is reset. In the STBY position missile audio can be heard but the firing circuits are not armed.
+The [Gun-Missile Switch](./armament-control-panels.md#gun-missile-switch) in the Missile position provides warmup and gyro power to the missiles. The [Missile Master Switch](#missile-master) sets the ready state of the missiles. In the STBY the sidewinder is kept warmed up and ready. In this position missile audio can be heard but the firing circuits are not armed.
 
-Sidewinder volume can be adjusted using the Missile Control [Volume Control]().
+Sidewinder volume can be adjusted using the Missile Control [Volume Control](#missile-volume-control).
 
 ### Firing
 
-To arm the missiles check the [Gun-Missile Switch]() is in the Missile position and put the [Missile Master Switch]() into the READY position.
+To arm the missiles check the [Gun-Missile Switch](./armament-control-panels.md#gun-missile-switch) is in the Missile position and put the [Missile Master Switch](#missile-master) into the READY position.
 
-A Sidewinder tone should be heard and the [status display lights]() should indicate a Sidewinder ready to be fired.
+A Sidewinder tone should be heard and the [status display lights](./armament-control-panels.md#status-display-lights) should indicate a Sidewinder ready to be fired.
+
+Below is the order in which sidewinders are fired, this also corresponds to the light displayed on the [status display lights](./armament-control-panels.md#status-display-lights).
+
+![Sidewinder Firing Order](./img/sidewinder_firing_order.png)
 
 ### Jettison
+
+Jettison of sidewinders is not possible the conventional way due to them being mounted on a rail. Thus to be jettisoned they must be fired un-armed without guidance. To do this simply press and hold the [Safe Launch](#safe-launch) for the duration of the jettison process. This will cause the sidewinders to launch one by one with 0.5 second intervals until all the sidewinders are safely jettisoned.
