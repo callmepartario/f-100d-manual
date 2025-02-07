@@ -14,21 +14,23 @@ These consist of:
 
 ## Gun Missile Switch
 
-The gun missile switch controls electrical power for the upper, lower guns and the missiles.
+The gun missile switch controls electrical power for the upper, lower guns and the missiles. 
 
-Gun missile firing circuits are inhibited when weight is on the wheels.
 
 ![Gun Missile Switch](./img/gun_missile_switch.png)
 
-With the gun missile switch in any position the gun camera can be actuated by using the first trigger detent.
+| Position | Description
+|----------|-------------
+| MISSILES | The missile selection provides power to the [Missile Control Panel](./aim-9-sidewinder.md#controls) and thus the missiles. Reference [AIM-9 Sidewinder Section](aim-9-sidewinder.md) for missile operation.
+| SAFE     | Removes power from the weapons system rendering it **safe**.
+| UPPER    | Energises the second trigger detent and **arms** upper guns.
+| ALL      | Energises the second trigger detent and **arms** upper and lower guns (all).
+| LOWER    | Energises the second trigger detent and **arms** lower guns.
+| POD      | Pod selection is unused on the F-100D 
 
-Placing the switch to missiles powers the sidewinders and energises the trigger provided the [Missile Master](./aim-9-sidewinder.md#missile-master) is in the ready position. Pulling the second trigger detent while energised will fire a sidewinder and step to the next sidewinder pylon.
+**Note: Gun missile firing circuits are inhibited when weight is on the wheels.**
 
-The gun missile switch allows either the upper, lower or all guns to be fired by selecting the respective setting.
-
-With the switch in any of upper, lower, all: the trigger is energised, and pulling the second detent will fire the selected guns.
-
-The pod position is unused on the F-100D.
+With the gun missile switch in any position the gun camera can be actuated by using the first trigger detent. See the [Gun Camera Section]() for details.
 
 ## Status Display Lights
 
