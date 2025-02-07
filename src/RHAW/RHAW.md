@@ -49,7 +49,13 @@ The band is the first category the AN/APR-25 uses to sort threats. Different det
 
 It is important to discuss pulse repetition frequency as it is important for categorising threats and is important to radar operation.
 
-The pulse repetition frequency of an radar is 
+The pulse repetition frequency of an radar is the frequency at which a radar sends pulses. There are three broad ranges of pulse repetition frequency.
+
+| Category | Pulse Repetition Frequency Range (kHz) | Description
+|----------|----------------------------------------|-------------
+| HIGH     | 30 - 300+                              | Primarily used in pulse doppler radars. Older pulse doppler radars only have high pulse repetition frequency modes. These saturate the AN/APR-25 and give a constant tone at the maximum frequency the AN/APR-25 audio generator can create.
+| MEDIUM   | 3 - 30                                 | Used in modern pulse doppler radars. Medium pulse repetition frequencies are modulated this means the pulse repetition frequnecy is quickly varied giving them complex patterns. This can give complex digital sounding tones from the audio generator of the AN/APR-25.
+| LOW      | <3                                     | Used in older pulse and moving target indicator radars. This frequency is also commonly used for ground mapping radars. Older radars use something called pulse repetition frequency jittering to reduce un-wanted clutter, this jitter is the random changing of the pulse repetition frequency and can result in a buzzing sound being heard in the AN/APR-25 audio.
 
 ## Billboard
 
