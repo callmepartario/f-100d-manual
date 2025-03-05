@@ -1,0 +1,6 @@
+services:
+  web:
+    image: ghcr.io/grinnellidesigns/f100-manual:latest
+    build: .
+    ports:
+      - 3555:80
