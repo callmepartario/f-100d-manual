@@ -202,6 +202,12 @@ td, th {
  }
 */
 
+
+.wy-nav-content {
+    max-width: 1080px !important;
+ }
+
+
  .wy-table-responsive table td, .wy-table-responsive table th {
     white-space: normal !important;
 }

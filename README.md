@@ -9,3 +9,19 @@ Be sure to make use of links wherever possible to make it easy to navigate and p
 The exact structure is to be discussed.
 
 ![gif-test](src/Weapon%20System/gunsight.gif)
+
+## Install
+
+`pip install mkdocs`
+
+`pip install mkdocs-print-site-plugin`
+
+## View
+
+`mkdocs serve`
+
+## Build
+
+`mkdocs build`
+
+Output html file is in site/print_page, material theme should be used for links to work.
