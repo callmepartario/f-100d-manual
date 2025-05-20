@@ -1,5 +1,7 @@
 # F-100D Manual
 
+[View Here](https://f100d.manuals.gd.sloanphillippi.com/)
+
 The F-100D manual is written in markdown. You can find a [cheatsheet here](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet). Try to avoid using complicated markdown features because we need to be able to render the manual in the imgui if/when we do the in-game manual project.
 
 ![test-image](plane.png)
