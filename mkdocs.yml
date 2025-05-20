@@ -1,7 +1,7 @@
 site_name: DCS F-100D Manual
 plugins:
     - search
-    - offline
+    #- offline
     #- with-pdf:
     #    headless_chrome_path: C:/Program Files/Google/Chrome/Application/chrome.exe
     #    render_js: true
@@ -11,7 +11,7 @@ plugins:
         toc_depth: 1
 
 theme:
-  name: material
+  name: readthedocs
   custom_dir: 'custom_theme/'  # or any other theme
   features:
     - navigation.instant
