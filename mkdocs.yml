@@ -22,6 +22,7 @@ nav:
     - Introduction:
       - Overview: ./Introduction/introduction.md
     - General Systems:
+      - Electrical: ./Electrical/electrical.md
       - Hydraulics:
         - Introduction: ./Hydraulics/introduction.md
         - Utility: ./Hydraulics/utility.md

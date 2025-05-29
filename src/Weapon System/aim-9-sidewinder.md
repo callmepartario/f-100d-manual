@@ -28,9 +28,7 @@ Importantly the max launch G was increased from 2 G to 7.33 G to allow launching
 
 #### AIM-9J
 
-This variant was introduced in 1972 and improved on the AIM-9E by increasing the seeker max track rate again.
-
-The time between launch and missile maneuver was reduced to 0.3 seconds from 0.5 in previous versions.
+This variant was introduced in 1972 and improved on the AIM-9E by increasing the seeker max track rate again. The time between launch and missile maneuver was reduced to 0.3 seconds from 0.5 in previous versions.
 
 ## Controls
 
