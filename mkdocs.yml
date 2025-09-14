@@ -23,6 +23,9 @@ nav:
     - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
+      - Special Options: ./Introduction/special-options.md
+      - Research Series: ./Introduction/research-series.md
+      - Official Soundtrack: ./Introduction/official-soundtrack.md
     - General Systems:
       - Electrical: ./Electrical/electrical.md
       - Hydraulics:
