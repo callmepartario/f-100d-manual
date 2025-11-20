@@ -27,6 +27,9 @@ Manual Topic List:
 - J4 Compass
 - MD1 Gyro
 - MD-1 Oxygen Regulator
+- Seek Silence System
+- APX-72 IFF
+- J-4 Compass
 
 Additional Things:
 

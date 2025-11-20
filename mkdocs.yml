@@ -31,12 +31,16 @@ nav:
       - Hydraulics:
         - Introduction: ./Hydraulics/introduction.md
         - Utility: ./Hydraulics/utility.md
-      - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md  
+      - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md
+      - AN/APX-72 IFF: ./APX-72 IFF/iff.md
+    - Navigation Systems:
+      - J-4 Compass: ./J-4 Compass/j4compass.md   
     - Radio Systems:
         - ARC-34 UHF Command Radio: ./ARC-34 Command Radio/command-radio.md
         - ARA-50 ADF System: ./ARA-50 ADF/adf-radio.md
         - ARN-6 Radio Compass: ./ARN-6 Radio Compass/radio-compass.md
         - ARN-72 TACAN: ./ARN-72 TACAN/tacan.md
+        - Seek Silence System: ./Seek Silence System/seek-silence.md 
     - Defensive Systems:
       - AN/APR-25 RHAW: ./RHAW/RHAW.md
     - Weapon Systems:
