@@ -6,7 +6,7 @@ The seek silence system permits either normal operation of the [AN/ARC-34 comman
 
 ## Controls
 
-![radio image](./img/seek_silence.PNG) <!-- REPLACE THIS IMAGE -->
+![seek silence image](./img/seek_silence.PNG) <!-- REPLACE THIS IMAGE -->
 
 1. [Power Switch](#power-switch)
 2. [Function Switch](#function-switch)
