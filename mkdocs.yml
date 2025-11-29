@@ -35,7 +35,7 @@ nav:
       - AN/APX-72 IFF: ./APX-72 IFF/iff.md
       - Lighting Control Panel: ./Lighting Control Panel/lighting-control-panel.md
     - Navigation Systems:
-      - J-4 Compass: ./J-4 Compass/j4compass.md
+      - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md
       - B-26 Navigation Computer: ./Navigation Computer/navigation-computer.md
     - Radio Systems:
         - ARC-34 UHF Command Radio: ./ARC-34 Command Radio/command-radio.md
