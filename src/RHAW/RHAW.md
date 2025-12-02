@@ -115,7 +115,7 @@ This button switches the system on, it can take approximately 10-30 seconds (che
 
 #### Band Indications (India,Golf,Echo)
 
-The threat indications are split into three bands India, Golf and Echo. For each band there are two buttons/lights and on each button there are up to two lights.
+The threat indications are split into three bands India, Golf and Echo. For each band there are two buttons and on each button there are up to two lights.
 
 The upper buttons/lights correspond to known surface to air missile system radars, the bottom buttons/lights correspond to other threats in the same band.
 
@@ -149,7 +149,9 @@ This light illuminates when the lower half of the Echo band is triggered, this u
 
 ###### G LORO
 
-This light illuminates when the Fan-Song E (Golf Band Fan-Song) switches to its Lobe On Receive Only, this is to counter jamming and results in the sound switching from the characteristic rattle-snake sound to a steady tone.
+Usually the Fan-Song scans its beam left to right 16 times per second giving the characteristic rattlesnake sound. However this can be easily tracked and emmulated by jamming equipment to confuse the tracking circuits. To counter this the Fan-Song operator can switch to Lobe-On-Receive-Only which changes the beam to be stationary and scans only in the receiving antennas. This way it is more difficult for jammers to track the scanning motion of the Fan-Song.
+
+This light illuminates when the Fan-Song E (Golf Band Fan-Song) switches to its Lobe-On-Receive-Only mode, which results in the sound switching from the characteristic rattle-snake sound to a steady tone.
 
 Pressing this button begins the [Golf Band LORO build-in-test](#built-in-tests-bit).
 
@@ -209,13 +211,13 @@ Unlike modern equipment the AN/APR-25 has no memory of incoming signals and thus
 
 ## Built-In-Tests (BIT)
 
-The AN/APR-25 has a series of built-in-test to at any moment verify the equipment is functioning correctly. These tests check everything in the equipment with the exception of the antennas.
+The AN/APR-25 has a series of built-in-tests to verify at any momenet the equipment is functioning correctly. These tests check everything piece of equipment with the exception of the antennas. It does this by injecting signals into the pre-amplifiers.
 
 ### India Band
 
 Pressing and then releasing the I SAM button will begin the India Band test. The test starts with a short low PRF India signal and then high PRF signal for 3 seconds followed by a short low PRF India signal. For each part of the test the corresponding G SAM indication (HI or LO) should illuminate on the billboard.
 
-During the test a **flashing or solid X shape** made from dashed lines (and accompanying audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below.
+During the test a **flashing or solid X shape** made of dashed lines (and accompanying audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below.
 
 ![Picture of India Test](./img/i-bit.png)
 
@@ -227,7 +229,7 @@ The Golf Band test has two different modes one for the regular Fan-Song E operat
 
 Pressing and then releasing the G SAM button will begin the Golf Band test. The test starts with a short low PRF Golf signal and then high PRF signal for 3 seconds followed by a short low PRF Golf signal. For each part of the test the corresponding G SAM indication (HI or LO) should illuminate on the billboard.
 
-During the test a **flashing X shape** made from pearl shaped dots (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below.
+During the test a **flashing X shape** made of pearl shaped dots (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below.
 
 ![Picture of Golf Test](./img/g-bit.png)
 
@@ -235,12 +237,12 @@ During the test a **flashing X shape** made from pearl shaped dots (and accompan
 
 Pressing and then releasing the G LORO button will begin the Golf Band test. The test will display a solid high PRF Golf Band signal (and steady accompanying audio) for about 3 seconds. For each part of the test the corresponding G SAM indication (HI) should illuminate on the billboard.
 
-During the test a **solid X shape** made from pearl shaped dots (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below.
+During the test a **solid X shape** made of pearl shaped dots (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring the same as the [G SAM Test](#g-sam-test).
 
 ### Echo Band
 
 Pressing and then releasing the E SAM button will begin the Echo Band test. The test starts with a short low PRF Echo signal and then high PRF signal for 3 seconds followed by a low PRF Echo signal for 3 seconds, however this signal should be blanked by the AAA defeat circuit which is automatically enabled during this test. For each part of the test the corresponding E SAM indication (HI or LO) should illuminate on the billboard.
 
-During the first part of the a **flashing X shape** made from solid lines (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below. During the second part of the test no indications should be present on the azimuth indicator and no audio should be heard however the E SAM LO indication should illuminate.
+During the first part of the a **flashing X shape** made of solid lines (and accompanying rattlesnake audio) should be displayed with all 4 arms of the X being equal length reaching at least to the third ring of the display as shown below. During the second part of the test no indications should be present on the azimuth indicator and no audio should be heard however the E SAM LO indication should illuminate.
 
 ![Picture of Golf Test](./img/e-bit.png)
