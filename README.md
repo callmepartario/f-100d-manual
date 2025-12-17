@@ -26,4 +26,6 @@ The exact structure is to be discussed.
 
 `mkdocs build`
 
+> Note: for venv mkdocs can be run with `python -m mkodcs ...`
+
 Output html file is in site/print_page, material theme should be used for links to work.
