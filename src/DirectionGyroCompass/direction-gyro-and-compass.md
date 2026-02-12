@@ -45,7 +45,8 @@ Notably transport wander and random wander cannot be corrected. For this reason 
 
 Upon powering on or after the [function selector switch](#function-selector-switch) is switched from **DG** to **MAG** the direction gyro will enter fast slaving mode.
 
-> Note: If fast-slaving is used when the aircraft is accelerating, turning or pitch attitudes beyond ±30° the direction gyro will be slaved towards an erroneous magnetic compass heading.
+!!! warning
+    If fast-slaving is used when the aircraft is accelerating, turning or pitch attitudes beyond ±30° the direction gyro will be slaved towards an erroneous magnetic compass heading.
 
 #### Leveling
 
@@ -81,15 +82,18 @@ The synchronizer control knob is used to manually rotate the direction gyro duri
 
 The function selector switch is a two-position switch marked **MAG** and **DG**. When the switch is in the **MAG** position, the signals from the remote compass transmitter are being used and the system functions as a slaved heading system. When the switch is in the **DG** position, the system is operated in non-slaved mode. Automatic fast slaving occurs for approximately 15 seconds after power is initially applied or whenever the function selector switch is moved from the **MAG** to **DG** and then back to the **MAG** position.
 
-> **Note:** Straight and level flight must be maintained for 15 seconds before attempting to fast-slave the compass indicator. This should permit the rate-switching gyro to restore the magnetic slaving signal to the compass system and allow the compass indicator to synchronize with the correct magnetic heading.
+!!! note
+    Straight and level flight must be maintained for 15 seconds before attempting to fast-slave the compass indicator. This should permit the rate-switching gyro to restore the magnetic slaving signal to the compass system and allow the compass indicator to synchronize with the correct magnetic heading.
 
-**Caution:** Two minutes must elapse when switching from the magnetic mode to the directional gyro mode and back to the magnetic mode. This is for cooling of the thermal relay that controls the fast-slave cycle. If the relay is not cooled to permit another complete fast-slave cycle, the indicator may stop at an erroneous reading.
+!!! caution
+    Two minutes must elapse when switching from the magnetic mode to the directional gyro mode and back to the magnetic mode. This is for cooling of the thermal relay that controls the fast-slave cycle. If the relay is not cooled to permit another complete fast-slave cycle, the indicator may stop at an erroneous reading.
 
 ### Annunciator
 
 The annunciator indicates the error between the direction gyro and the current sensed magnetic north, the [synchronizer control knob](#synchronizer-control-knob) can be used for rapid alignment of the heading pointer during slaved operation.
 
-> **Note:** that during turns or while accelerating the indication may be erroneous.
+!!! note
+    During turns or while accelerating the indication may be erroneous.
 
 ### Latitude Correction Knob
 

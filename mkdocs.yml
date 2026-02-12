@@ -19,6 +19,33 @@ theme:
   features:
     - navigation.instant
 
+# theme:
+#     name: material
+#     palette: 
+#       # Palette toggle for light mode
+#       - scheme: default
+#         toggle:
+#           icon: material/brightness-7 
+
+
+#           name: Switch to dark mode
+
+#       # Palette toggle for dark mode
+#       - scheme: slate
+#         toggle:
+#           icon: material/brightness-4
+#           name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+
 docs_dir: src
 use_directory_urls: false
 
@@ -33,9 +60,8 @@ nav:
       - Checklist: ./Meta/checklist.md
     - General Systems:
       - Electrical: ./Electrical/electrical.md
-      - Hydraulics:
-        - Introduction: ./Hydraulics/introduction.md
-        - Utility: ./Hydraulics/utility.md
+      - Hydraulics: ./Hydraulics/hydraulic.md
+      - Fuel: ./Fuel/fuel.md
       - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md
       - AN/APX-72 IFF: ./APX-72 IFF/iff.md
       - Lighting Control Panel: ./Lighting Control Panel/lighting-control-panel.md

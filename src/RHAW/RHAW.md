@@ -139,7 +139,8 @@ Each threat indication is displayed when a radar is detected which matches the p
 
 Pressing these buttons begin their corresponding [built in test](#built-in-tests-bit).
 
-> Note currently the Echo Band Fan-Song is not present in the game as such any Echo band threat indications are erroneous.
+!!! note
+    Currently the Echo Band Fan-Song is not present in the game as such any Echo band threat indications are erroneous.
 
 ##### Lower Buttons/Indicators
 

@@ -45,7 +45,8 @@ There are two transfer pumps. Normally the intermediate and aft tanks transfer t
 
 In case of transfer pump failure it may not be possible to transfer all fuel from the intermediate and aft tanks as such the intermediate tank can directly feed the engine by gravity. The aft tank can also transfer using gravity to the intermediate tank for direct feed to the engine in this scenario.
 
-> Due to the volume of fuel flow when the afterburner is operating it is not possible to keep the forward tank full despite transfers from external and internal tanks to the forward tank. Thus the pilot must monitor the forward fuel tank level so as to not cause an engine flame-out due to insufficient fuel in this tank to feed the engine.
+!!! warning
+    Due to the volume of fuel flow when the afterburner is operating it is not possible to keep the forward tank full despite transfers from external and internal tanks to the forward tank. Thus the pilot must monitor the forward fuel tank level so as to not cause an engine flame-out due to insufficient fuel in this tank to feed the engine.
 
 ## Drop Tanks
 
@@ -60,7 +61,8 @@ Drop tanks can be mounted on any of the wing pylons. However only the 335 gallon
 
 Tanks are pressurised by the engine bleed air when [drop tank selector switch](#drop-tank-selector-switch) is set to any position other than `OFF`. In case of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
 
-> Due to the volume of fuel flow when the afterburner is operating it is not possible to keep the forward tank full despite transfers from external and internal tanks to the forward tank. Thus the pilot must monitor the forward fuel tank level so as to not cause an engine flame-out due to insufficient fuel in this tank to feed the engine.
+!!! warning
+    Due to the volume of fuel flow when the afterburner is operating it is not possible to keep the forward tank full despite transfers from external and internal tanks to the forward tank. Thus the pilot must monitor the forward fuel tank level so as to not cause an engine flame-out due to insufficient fuel in this tank to feed the engine.
 
 ## Fuel System Shutoff Valve
 
@@ -84,7 +86,8 @@ This light will illuminate if the fuel system shutoff valve is stuck as this cou
 
 This de-energises the transfer control valves for the internal wing and external fuel tanks, allowing the single point pressure refueling system to refuel these tanks correctly.
 
-> Do not position this to `READY` too soon as this prevents about 25 pounds per minute of fuel from being transfered from the internal wing tanks to the forward tank.
+!!! warning
+    Do not position this to `READY` too soon as this prevents about 25 pounds per minute of fuel from being transfered from the internal wing tanks to the forward tank.
 
 ### Air Refueling Indicator Light
 
