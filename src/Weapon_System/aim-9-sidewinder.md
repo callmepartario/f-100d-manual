@@ -8,11 +8,11 @@ The F-100D can carry two Sidewinder Missiles on a Type IX launcher on each of th
 
 The sidewinder is a passive infrared guided missile. The missile is aimed using the [A-4 Gunsight](./a-4-gunsight.md#a-4-gunsight) with the sight [mechanically or electrically caged](./a-4-gunsight.md#mechanical-cage-lever).
 
-The missile generates a tone based on received infrared radiation into its seeker. This tone is transmitted to the pilot headphones. A low growl indicates little to none infrared radiation detected and a high/louder growl indicates a heat source and a possible detected target. The growl only indicates the ability for the seeker to track and does not indicate anything about range or whether the missile is able to maneuver to the target.
+The missile generates a tone based on received infrared radiation into its seeker. This tone is transmitted to the pilot headphones. A low growl indicates little to no infrared radiation detected and a high/louder growl indicates a heat source and a possible detected target. The growl only indicates the ability for the seeker to track and does not indicate anything about range or whether the missile is able to maneuver to the target.
 
 ### Sidewinder Types
 
-The F-100D can carry 3 different variants of the AIM-9 sidewinder listed below.
+The F-100D historically carried 3 different variants of the AIM-9 sidewinder listed below (although later variants are backwards compatible).
 
 #### AIM-9B
 
@@ -58,11 +58,11 @@ In the event of a defective sidewinder the store can be stepped to the next side
 
 This three position switch is normally in the standby position with it spring loaded for the reset position.
 
-Actuating reset will reset the firing order of the sidewinders moving the firing order back to the first sidewinder (left pylon right sub-pylon).
-
-Standby will maintain the sidewinder in a warmed up state while keeping the missile safe. The audio can still be heard in this position.
-
-Ready will arm the sidewinder for launch bringing it to the ready state.
+| Position             | Description
+|----------------------|-------------
+| Reset (sprungloaded) | Resets the firing order of the sidewinders moving the firing order back to the first sidewinder (left pylon right sub-pylon).
+| Standby              | Maintains the sidewinder in a warmed up state while keeping the missile safe. The audio can still be heard in this position.
+| Ready                | Arms the sidewinder for launch bringing it to the ready state.
 
 ### Safe Launch
 
@@ -82,13 +82,14 @@ Sidewinder volume can be adjusted using the Missile Control [Volume Control](#mi
 
 ### Firing
 
-To arm the missiles check the [Gun-Missile Switch](./armament-control-panels.md#gun-missile-switch) is in the Missile position and put the [Missile Master Switch](#missile-master) into the READY position.
-
-A Sidewinder tone should be heard and the [status display lights](./armament-control-panels.md#status-display-lights) should indicate a Sidewinder ready to be fired.
+To arm the missiles check the [Gun-Missile Switch](./armament-control-panels.md#gun-missile-switch) is in the Missile position and put the [Missile Master Switch](#missile-master) into the READY position. A Sidewinder tone should be heard and the [status display lights](./armament-control-panels.md#status-display-lights) should indicate a Sidewinder ready to be fired.
 
 Below is the order in which sidewinders are fired, this also corresponds to the light displayed on the [status display lights](./armament-control-panels.md#status-display-lights).
 
 ![Sidewinder Firing Order](./img/sidewinder_firing_order.png)
+
+!!! warning
+    Releasing the trigger before the launch sequence is complete will cause the missile to be **trashed**. This is because once the trigger is pressed the seeker is uncaged and the gas generator is fired. These are an irreversible process. This missile will need to be bypassed in future using the [station bypass](#station-bypass) switch.
 
 ### Jettison
 
