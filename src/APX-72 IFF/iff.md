@@ -5,7 +5,8 @@
 The AIMS system, which utilizes an AN/APX-72 receiver/transmitter (transponder), is used to automatically identify the airplane in response to coded interrogations. Depending on the interrogation mode, the reply is transmitted in modes 1, 2, 3/A, 4, or airplane altitude reporting in mode C.
 
 <!-- REWORD THIS AND FIGURE OUT WHERE TO PUT IT!!! -->
- **Due to engine limitations, the settings on the panel have no effect for DCS. However, they are exposed to external tools, such as SRS.**
+!!! note
+    Due to engine limitations, the settings on the panel have no effect for DCS. However, they are exposed to external tools, such as SRS.
 
 ## Controls
 

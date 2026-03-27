@@ -53,18 +53,19 @@ nav:
     - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
-      - Special Options: ./Introduction/special-options.md
-      - Research Series: ./Introduction/research-series.md
-      - Official Soundtrack: ./Introduction/official-soundtrack.md
+      - Instrument Panel: ./Introduction/instrument-panel.md
+      - Cockpit Left Side: ./Introduction/cockpit-left.md
+      - Cockpit Right Side: ./Introduction/cockpit-right.md
+      - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
     - DCS:
       - Checklist: ./Meta/checklist.md
-    - General Systems:
+      - Special Options: ./Introduction/special-options.md
+    - Aircraft Systems:
       - Electrical: ./Electrical/electrical.md
       - Hydraulics: ./Hydraulics/hydraulic.md
       - Fuel: ./Fuel/fuel.md
       - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md
       - AN/APX-72 IFF: ./APX-72 IFF/iff.md
-      - Lighting Control Panel: ./Lighting Control Panel/lighting-control-panel.md
       - Ejection Seat: ./Ejection Seat/ejection_seat.md
     - Navigation Systems:
       - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md
@@ -74,7 +75,10 @@ nav:
       - ARA-50 ADF System: ./ARA-50 ADF/adf-radio.md
       - ARN-6 Radio Compass: ./ARN-6 Radio Compass/radio-compass.md
       - ARN-72 TACAN: ./ARN-72 TACAN/tacan.md
-      - Seek Silence System: ./Seek Silence System/seek-silence.md 
+      - Seek Silence System: ./Seek Silence System/seek-silence.md
+    - Lighting Systems:
+        - Indicator and Caution Light Panel: ./Lighting System/indicator-caution-light-panel.md
+        - Lighting Control Panel: ./Lighting System/lighting-control-panel.md
     - Camera Systems:
       - Gun Camera: ./Gun Camera/gun_camera.md
       - Strike Camera: ./Strike Camera/strike_camera.md
@@ -96,4 +100,6 @@ nav:
         - Manual Delivery: ./Weapon_System/Procedures/manual-delivery.md
         - Sidewinders: ./Weapon_System/Procedures/sidewinder.md
 
-    
+    - Extras:
+      - Research Series: ./Introduction/research-series.md
+      - Official Soundtrack: ./Introduction/official-soundtrack.md

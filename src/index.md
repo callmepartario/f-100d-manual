@@ -35,6 +35,7 @@ Manual Topic List:
   - Gun Camera
   - Strike Camera
 - Ejection Seat
+- Instrument Panel
 
 Additional Things:
 
