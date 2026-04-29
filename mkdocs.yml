@@ -53,10 +53,11 @@ nav:
     - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
-      - Instrument Panel: ./Introduction/instrument-panel.md
-      - Cockpit Left Side: ./Introduction/cockpit-left.md
-      - Cockpit Right Side: ./Introduction/cockpit-right.md
-      - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
+      - Cockpit:
+        - Instrument Panel: ./Introduction/instrument-panel.md
+        - Cockpit Left Side: ./Introduction/cockpit-left.md
+        - Cockpit Right Side: ./Introduction/cockpit-right.md
+        - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
     - DCS:
       - Checklist: ./Meta/checklist.md
       - Parameters: ./Meta/parameters.md

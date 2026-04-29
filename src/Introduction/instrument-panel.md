@@ -1,3 +1,37 @@
 # Instrument Panel
+In this section, the primary flight insturments needed for basic operation of the aircraft will be discussed. For more in depth coverege, please visit the respective system's section.
+
+## Airspeed and Mach Indicator
+![replace image](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+
+The aircraft's air data computer (ADC) computes the velocity based on temperature and pressure signals recieved by the pitot-static system. Loss of either the pitot tube or static ports will manifest in innaccurate airspeed readings. 
+
+The airspeed indicator also introduces installation and position errors wich will introduce errors in readings of up to 10 knots.
+
+The Mach number is computed in the same manner to display the aircraft's velocity as a multiple of the speed of sound at the local pressure altitude.
+
+These two readings are displayed as a combined Airspeed and Mach indicator. The inner reading displays the Airspeed between x to x and the outer reading displays the Mach number between x to x. An index marker, set by the pilot, can also be used via a push-and-rotate actuation of the index knob.
+
+## Heading Indicator
+![replace image](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+
+
+## Attitude Indicator
+
+## Turn and Slip Indicator
+A standard turn and slip indicator provides turn direction and rate information via a vertical needle. A standard 4 minute insturment turn places the vertical turn needle over the the corresponding direction's hash mark. 
+
+The slip indicator displays horizontal accelertations in the lateral plane with a slip ball. For coordinated turns, use a combination of the rudder and the aircraft's yaw damper to center the slip ball.
+
+## Accelerometer
+
+
+## Course Indicator
+
+## Altimeter
+The altimeter displays the static system's current reading corrected for non standard temperature set by the pilot via a rotate actuation on the Altimeter's pressure setting knob. The current pressure setting is displayed in the Kollsman's window and is usually set to the local sea-level pressure in inches of mercury. Correct application of the local sea-level pressure setting will display the aircraft's mean-sea-level altitude on the altimeter.
+
+## Vertical Velocity Indicator
+The vertical velocity indicator computes the aircrafts vertical velocity, in feet per minute, via static pressure signals from the ADC. Lag is an inherent consequence of the design of the indicator and can result in readings often delayed up to 6 seconds. Much like the airspeed indicator, the vertical velocity indicator sufferes from substantial positional and gauge installation errors and can often read up to 500 feet per minute.
 
 ![replace image](./img/dash.PNG) <!-- REPLACE THIS IMAGE -->
