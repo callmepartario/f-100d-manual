@@ -53,6 +53,7 @@ nav:
     - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
+      - Definitions and Abbreviations: ./Introduction/definitions.md
     - Cockpit:
       - Instrument Panel: ./Introduction/instrument-panel.md
       - Cockpit Left Side: ./Introduction/cockpit-left.md
@@ -100,9 +101,11 @@ nav:
       - AN/AJB-1 Low Altitude Bombing System: ./Weapon_System/low-altitude-bombing-system.md
 
     - Procedures:
+      - Normal Procedures: ./Procedures/normal.md
       - Weapons Employment:
         - Manual Delivery: ./Weapon_System/Procedures/manual-delivery.md
         - Sidewinders: ./Weapon_System/Procedures/sidewinder.md
+      - Emergency Procedures: ./Procedures/emergency.md
 
     - Emergencies:
       - Warnings and cautions: ./Emergencies/warnings-and-cautions.md

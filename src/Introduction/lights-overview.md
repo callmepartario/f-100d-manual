@@ -31,17 +31,6 @@ The three-position indicator light dimmer switch controls the brightness of the 
 | SEL. DROP TANK EMPTY | Indicator | 450 gallon drop tanks are empty ** CHECK **| |
 | AIR REFUEING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
 
-## Other
-CHECK THIS IS OUR CONFIGURATION PDF PG 75 top left
-
-| Light | Category | Cause | Procedure |
-|-------|----------|-------|-----------|
-| CANOPY NOT LOCKED | Warning | The canopy is not fully closed and locked | |
-| FIRE ENG COMP | Warning | An overhead or fire has been detected in the forward engine compartment or the fire system is being tested | |
-| OVERHEAT ENG BURN | Warning | An overheat or fire has been detected in the aft engine compartment or the fire system is being tested | |
-| TRIMMED FOR TAKEOFF | Indicator | The aircraft is trimmed for take off (260 KIAS condition) | |
-
-
 ## Indicator Light Test Circuit
 The indicator light test circuit is a means of merely testing the integrity and operation of the bulbs. All indicator, caution, and warning lights will illuminate simultaneously to exclude the engine compartment fire "FIRE ENG COMP" and overheat "OVERHEAT ENG BURN" warning lights, of which have a seperate test circuit. All lights in the test circuit are powered by the primary bus. 
 
@@ -58,3 +47,13 @@ The master caution light indicated certain indicator or caution lights have illu
 * Ignition-on
 * Landing gear warning light
 * Radio control transfer system * DO WE HAVE THIS?*
+
+## Other
+CHECK THIS IS OUR CONFIGURATION PDF PG 75 top left
+
+| Light | Category | Cause | Procedure |
+|-------|----------|-------|-----------|
+| CANOPY NOT LOCKED | Warning | The canopy is not fully closed and locked | |
+| FIRE ENG COMP | Warning | An overhead or fire has been detected in the forward engine compartment or the fire system is being tested | |
+| OVERHEAT ENG BURN | Warning | An overheat or fire has been detected in the aft engine compartment or the fire system is being tested | |
+| TRIMMED FOR TAKEOFF | Indicator | The aircraft is trimmed for take off (260 KIAS condition) | |
