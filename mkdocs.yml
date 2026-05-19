@@ -104,8 +104,7 @@ nav:
     - Procedures:
       - Normal Procedures:
         - Cruise: ./Procedures/Normal/cruise.md
-        - Preparation For Flight: ./Procedures/Normal/prep-for-flight.md
-        - Preflight Check - Ground Alert Cocking: ./Procedures/Normal/preflight.md
+        - Preflight Check: ./Procedures/Normal/preflight.md
         - Startup: ./Procedures/Normal/start.md
         - Taxiing: ./Procedures/Normal/taxi.md
         - Takeoff: ./Procedures/Normal/takeoff.md
