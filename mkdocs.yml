@@ -117,10 +117,16 @@ nav:
         - Manual Delivery: ./Weapon_System/Procedures/manual-delivery.md
         - Sidewinders: ./Weapon_System/Procedures/sidewinder.md
       - Emergency Procedures:
+        - Takeoff Emergencies:
+          - Afterburner Failure During Takeoff: ./Procedures/Emergency/afterburner-takeoff.md
+          - Engine Failure During Takeoff: ./Procedures/Emergency/engine-failure-takeoff.md
+          - Illumination of the Fuel Valve Fail Light: ./Procedures/Emergency/fuel-valve.md
         - In-flight Emergencies:
           - Air Start: ./Procedures/Emergency/air-start.md
           - Afterburner Failure: ./Procedures/Emergency/afterburner.md
           - Ejection: ./Procedures/Emergency/ejection.md
+          - Canopy: ./Procedures/Emergency/canopy.md
+          - Engine Failure: ./Procedures/Emergency/engine-failure.md
           - AC Generator RESET: ./Procedures/Emergency/acgen.md
           - Flight Controls: ./Procedures/Emergency/flight-controls.md
           - Fuel System: ./Procedures/Emergency/fuel-system.md
