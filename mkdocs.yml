@@ -58,6 +58,7 @@ nav:
       - Instrument Panel: ./Introduction/instrument-panel.md
       - Cockpit Left Side: ./Introduction/cockpit-left.md
       - Cockpit Right Side: ./Introduction/cockpit-right.md
+      - Glare Shield and Above: ./Introduction/glare-shield.md
       - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
       - Stick and Throttle: ./Introduction/stick-and-throttle.md
       - Ejection Seat: ./Introduction/ejection-seat.md
@@ -72,7 +73,6 @@ nav:
         - Fuel: ./Fuel/fuel.md
         - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md
         - AN/APX-72 IFF: ./APX-72 IFF/iff.md
-        - Ejection Seat: ./Ejection Seat/ejection_seat.md
       - Navigation Systems:
         - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md
         - B-26 Navigation Computer: ./Navigation Computer/navigation-computer.md

@@ -3,6 +3,17 @@
 
 Ejection can be initiated at any airspeed or attitude. The seat is fitted with a ballistic rocket ejection seat catapult which provides the pilot with zero altitude ejection capability and a minimum airspeed and additional vertical stabiizer clearance during ejection of speeds up to Mach 1. 
 
+| Reference | Name |
+|-----------|------|
+| 1         | [Canopy Safety Pin](#canopy-and-seat-safety-pins) |
+| 2         | [Seat Safety Pin](#canopy-and-seat-safety-pins) |
+| 3         | [Ejection Seat Hand Grip](#ejection-seat-hand-grips) |
+| 4         | Seat Height Position Switch |
+| 5         | [Arm Rest](#armrest) |
+| 6         | [Arm Rest](#armrest) |
+| 7         | Shoulder Harness Inertia Reel Lock Lever |
+| 8         | Ejection Seat Hand Grip |
+
 ## Canopy and Seat Safety Pins
 
 Near the right knee, the ejection seat is fitted with a combined canopy and seat safety pin. The pin must be removed before flight in the cold and dark configuration in order to initiate the ejection sequence.
@@ -12,10 +23,22 @@ Additionally, the canopy jettison pin is higher near the right knee and needs to
 
 
 ## Seat Height Position
-The seat can be vertically adjusted via an electrical adjustment switch located near the top left of the seat cushion. Adjusting the seat height will also adjust the pilot's view point.
+The seat vertical adjustment switch provides vertical positioning of the ejection seat. Adjustment allows the pilot to obtain proper eye position relative to the gunsight and instrument panel for normal flight, air-to-air refueling, and landing.
 
 ## Ejection Seat Hand Grips
-The ejection seat is fitted with a left and right yellow and black crosshatched hand grip. Raising either hand grip will jettison the canopy. Pulling one hand grip will automatically raise the other as they are interconnected. 
+The ejection seat is equipped with two ejection handgrips, one located on each side of the seat bucket. The handgrips are mechanically interconnected, allowing the ejection sequence to be initiated by pulling either handgrip or both handgrips simultaneously. To prevent inadvertent ejection, the handgrips are fitted with a handgrip lock lever.
+
+**Ejection** – *Mouse Interaction*
+
+- Right-click and hold the handgrip lock lever to disengage the safety lock.
+
+- While holding the lock lever (right-click), left-click either handgrip to initiate the ejection sequence.
+
+- Releasing the lock lever without pulling a handgrip will cancel the ejection action.
+
+The standard DCS emergency ejection command **Left CTRL + E** (pressed three times) will initiate the ejection sequence provided the seat ground safety pin has been removed.
 
 ## Armrest
-Each armrest can be raised or lowered by clicking near the armrest hinge. 
+Each armrest incorporates an independent release lever. Pushing the lever allows the armrest to be raised or lowered as required for pilot comfort or cockpit access.
+
+## Saftey Pin Stowage Container

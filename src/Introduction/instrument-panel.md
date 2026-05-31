@@ -1,9 +1,44 @@
 # Instrument Panel
 The insturment panel of the F-100D contains a careful selection of essential gauges for basic operation, navigation, and system monitoring. All gauges suffer from installation error and other errors as a result of wear and tear. During the time period, it was not uncommon to leave a majority of the aircraft's gauges unmaintained. Thus, the pilot will notice frictional spikes and slight reading errors of which are modeled in the DCS: F-100D Super Sabre.
 
-![replace image](./img/mainpanel.PNG) <!-- REPLACE THIS IMAGE -->
+![replace image](./img/mainpanel.PNG)
 
-In this section, the primary flight instruments needed for basic operation of the aircraft will be discussed. For more in depth coverege, please visit the respective system's section.
+In this section, the primary flight instruments needed for basic operation of the aircraft will be discussed. For more in depth coverage, please visit the respective system's section.
+
+| Reference | Name |
+|-----------|------|
+| 1         | [Command Radio Remote Channel Indicator] |
+| 2         | [Standby Attitude Indicator] |
+| 3         | [Clock] |
+| 4         | [Sight Selector Unit] |
+| 5         | [Tacan Range Indicator] |
+| 6         | [Master Heading Indicator] |
+| 7         | [Airspeed and Mach Indicator](#airspeed-and-mach-indicator) |
+| 8         | [AC Load Meter] |
+| 9         | [DC Load Meter] |
+| 10        | [Master Caution Light] |
+| 11        | [Attitude Indicator](#attitude-indicator) |
+| 12        | [Radio Magnetic Indicator]|
+| 13        | [Course Indicator] |
+| 14        | [Tacan ILS Light] |
+| 15        | [Altimeter](#altimeter) |
+| 16        | [Vertical Velocity Indicator](#vertical-velocity-indicator) |
+| 17        | [Gun Missile Switch] |
+| 18        | [Attitude Indicator Fast Erection Button] |
+| 19        | [Fire and Overheat Warning Lights] |
+| 20        | [Turn and Slip Indicator](#turn-and-slip-indicator) |
+| 21        | [LABS Dive and Roll Indicator] |
+| 22        | [LABS Release Indicator Light] |
+| 23        | [Accelerometer](#accelerometer) |
+| 24        | [Hydraulic Pressure Gauge Selector Switch] |
+| 25        | [Hydraulic Pressure Gauge] |
+| 26        | [Oil Pressure Gauge] |
+| 27        | [Exhaust Temperature Gauge] |
+| 28        | [Tachometer (RPM)] |
+| 29        | [Engine Pressure Ration Gauge] |
+| 30        | [Fuel Flow Indicator] |
+| 31        | [Fuel Quantity Gauges] |
+| 32        | [Fuel Boost Pump INOP Light] |
 
 ## Airspeed and Mach Indicator
 The aircraft's air data computer (ADC) computes the velocity based on temperature and pressure signals received by the pitot-static system. Specifically, it takes the difference between measured total and static pressure to compute dynamic pressure. Loss of either the pitot tube or static ports will manifest in inaccurate  airspeed readings. 
@@ -14,14 +49,6 @@ The Mach number is computed in the same manner to display the aircraft's velocit
 
 These two readings are displayed as a combined Airspeed and Mach indicator. The inner reading displays the Airspeed between x to x and the outer reading displays the Mach number between x to x. An index marker, set by the pilot, can also be used via a push-and-rotate actuation of the index knob.
 
-## Wet Magnetic Compass
-![replace image](./img/compass.PNG) <!-- REPLACE THIS IMAGE -->
-
-Although not necessarily a primary flight instrument, the wet magnetic compass can be used during system failures that degrade the heading indicators operation. 
-
-The compass will lag in the northern hemisphere when turning from north and lead turning towards north. In the southern hemisphere the pilot will observe the opposite behavior. For accelerations in the northmen hemisphere the compass will turn north and in the southern hemisphere the compass will turn south. The opposite is true for decelerations.
-
-The compass card can tilt slightly; however, if the compass is not perfectly level with the magnetic field of earth, error is introduced. Unfortunately, the misalignment error is almost always a factor in readings.
 
 
 ## Attitude Indicator
