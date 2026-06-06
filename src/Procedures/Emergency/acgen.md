@@ -1,7 +1,7 @@
 
 <script src="../../hatch.js"></script>
 
-## AC Generator RESET
+## AC Generator
 Any actual generator failure or generator over-voltage
 causes the generator to be removed from the ac system
 until the condition is corrected. Failure of the ac
@@ -20,8 +20,10 @@ power is restored to these busses, the instrument ac
 power-off caution light goes out. There is no alternate
 means of powering the main 3-phase bus.
 
+### AC Generator RESET
 If the ac generator fails, try to return the generator to
 service as follows:
+
 1. STANDBY INSTRUMENT INVERTER SWITCH — on.
 2. AC generator switch - To RESET momentarily;
 then ON.
@@ -32,13 +34,13 @@ standby instrument inverter switch to OFF.
 4. If caution light remains on — Repeat reset procedure
 twice.
 
-!!! caution
-    If the ac generator drive unit fails in
-    such a manner as to break the case,
-    oil in the unit will be pumped overboard
-    or into the engine intake duct.
-    Such loss of oil may result in smoke
-    or fumes in the cockpit.
+    !!! caution
+        If the ac generator drive unit fails in
+        such a manner as to break the case,
+        oil in the unit will be pumped overboard
+        or into the engine intake duct.
+        Such loss of oil may result in smoke
+        or fumes in the cockpit.
 
 If the generator light remains on after three reset attempts,
 assume that ac generator drive unit has failed. Proceed as

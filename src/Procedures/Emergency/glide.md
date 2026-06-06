@@ -10,8 +10,8 @@ The glide ratio and glide distances of the airplane without drop tanks but with 
 
 1. External Load - JETTISON.
 
-!!! note 
-    If landing on a prepared surface, retain empty drop tanks to cushion landing shock. If time and conditions permit, fire all ammunition and expend excess fuel to lighten airplane and minimize fire hazard.
+    !!! note 
+        If landing on a prepared surface, retain empty drop tanks to cushion landing shock. If time and conditions permit, fire all ammunition and expend excess fuel to lighten airplane and minimize fire hazard.
 
 2. Gear - DOWN.
 
@@ -29,16 +29,16 @@ The glide ratio and glide distances of the airplane without drop tanks but with 
 
 10. Drag chute - DEPLOY.
 
-!!! note
-    Glide distance with gear and flaps up, speed
-    brake in, approximately 18 nautical miles
-    per 10,000 feet descent.
-
-!!! note
-    Glide distance with gear down approximately
-    one-half glide distance of clean
-    airplane.
-
-!!! note
-    Distances shown are for a wings-level glide
-    from altitude to touchdown.
+    !!! note
+        Glide distance with gear and flaps up, speed
+        brake in, approximately 18 nautical miles
+        per 10,000 feet descent.
+    
+    !!! note
+        Glide distance with gear down approximately
+        one-half glide distance of clean
+        airplane.
+    
+    !!! note
+        Distances shown are for a wings-level glide
+        from altitude to touchdown.

@@ -22,36 +22,36 @@
 (Ignition is not available until the throttle is moved outboard
 and forward from OFF.)
 
-!!! note
-    If during an air start the ignition-on and dc
-    generator caution lights do not come on,
-    the air start switch may be defective. Start
-    attempt should then be made using the
-    starter and ignition button to provide engine
-    ignition. However, if this button is used, the de
-    generator switch should be turned OFF during
-    ignition to prevent possible premature discharge
-    of the battery.
+    !!! note
+        If during an air start the ignition-on and dc
+        generator caution lights do not come on,
+        the air start switch may be defective. Start
+        attempt should then be made using the
+        starter and ignition button to provide engine
+        ignition. However, if this button is used, the de
+        generator switch should be turned OFF during
+        ignition to prevent possible premature discharge
+        of the battery.
 
-!!! note
-    All nonessential electrical equipment
-    should be turned off to conserve battery
-    power after the flame-out occurs. DC
-    generator power (which controls the
-    secondary and tertiary bus output) is not
-    available at engine speeds below 40% rpm.
-    When the air start switch is ON, the dc
-    generator is cut out of the electrical system.
-    This prevents the battery from
-    powering the generator at low engine
-    rpm if the reverse-current relay operation
-    is faulty. DC generator output is restored
-    when the air start switch is returned to OFF.
+    !!! note
+        All nonessential electrical equipment
+        should be turned off to conserve battery
+        power after the flame-out occurs. DC
+        generator power (which controls the
+        secondary and tertiary bus output) is not
+        available at engine speeds below 40% rpm.
+        When the air start switch is ON, the dc
+        generator is cut out of the electrical system.
+        This prevents the battery from
+        powering the generator at low engine
+        rpm if the reverse-current relay operation
+        is faulty. DC generator output is restored
+        when the air start switch is returned to OFF.
 
-!!! note
-    AN/ARC-34 communication equipment is
-    powered by the primary bus and is operative
-    when the de generator or battery is on.
+    !!! note
+        AN/ARC-34 communication equipment is
+        powered by the primary bus and is operative
+        when the de generator or battery is on.
 
     *** FIGURE 3-4 pg 3-11 air start envelope*
 

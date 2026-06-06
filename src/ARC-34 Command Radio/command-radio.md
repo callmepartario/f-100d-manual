@@ -62,7 +62,7 @@ TODO: THIS WILL BE AN INDICATOR CARD BUT REMAINS TO BEEN SEEN IF WE DO THE PRESE
 
 ## Remote Channel Indicator
 
-![radio image](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+![radio image](./img/remote-channel-indicator.png) <!-- REPLACE THIS IMAGE -->
 
 <!-- IDK where I should put this yet... -->
 The remote channel indicator is synchronized to the command radio control panel. The face of the indicator has four windows for display of channel number and frequency. When the [selector control](#manual-preset-guard-sliding-selector) is at **PRESET**, two of the indicator windows are used to display the number of the preset command radio channel. When the selector control is at **MANUAL**, the four indicator windows display the frequency (in MHz) of the selected channel. With the selector control at **GUARD**, the two center windows show the letters "GD". All indicator windows are blank when power is off.

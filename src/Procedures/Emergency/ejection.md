@@ -4,7 +4,8 @@
 ## Ejection
 The following information should be observed, when
 ejection must be accomplished:
-1, Under level flight conditions, eject at least 2000 feet
+
+1. Under level flight conditions, eject at least 2000 feet
 above the terrain whenever possible.
 2. Under spin or dive conditions, eject at least
 10,000 feet above the terrain whenever possible.

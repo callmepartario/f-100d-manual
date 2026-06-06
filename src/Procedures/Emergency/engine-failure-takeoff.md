@@ -11,6 +11,6 @@ landing gear handle has been raised, proceed as follows:
 1. EXTERNAL LOAD — JETTISON.
 2. ZOOM IF POSSIBLE AND EJECT.
 
-!!! warning
-    Any upward vector with wings level will
-    increase changes of survival.
+    !!! warning
+        Any upward vector with wings level will
+        increase changes of survival.

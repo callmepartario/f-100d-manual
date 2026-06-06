@@ -9,6 +9,7 @@ lightening of stick forces (resulting in over-control), lack
 of trim response, and poor stick-centering characteristics.
 If failure of flight control artificial-feel is encountered,
 proceed as follows:
+
 1. Airspeed — Reduce. Reduction of airspeed may
 relieve severe oscillation of the airplane.
 2. If adequate control cannot be maintained — Eject.
@@ -25,6 +26,7 @@ under such a condition, flight control operation may be
 somewhat slower because of reduction of hydraulic flow.
 If either system fails, the flight system failure warning light
 will come on. Proceed as follows:
+
 1. Determine which system has failed. Check each
 system hydraulic pressure to determine the nature of the
 failure. Low pressure indicates a pump or line failure with
@@ -68,43 +70,43 @@ turbine for emergency pump operation. (The pump lever
 must be returned to OFF manually, to shut down the
 pump, if it is no longer needed.)
 
-!!! warining
-    Because of the reduced total output,
-    unnecessary control movement should be
-    kept to a minimum when the emergency
-    pump is the only source of flight control
-    power. This is an emergency system which
-    will not provide normal maneuvering
-    capability, but is considered adequate for
-    a proficient pilot flying under normal
-    conditions of visibility and turbulence,
-    with adequate runways to permit a well planned
-    approach. Under other circumstances,
-    the pilot’s judgment must prevail.
-
-!!! warning
-    If complete flight control hydraulic
-    system failure occurs (that is, pressure
-    cannot be maintained by the emergency
-    pump upon loss of the engine-driven
-    pumps, or because of malfunctions in
-    the systems), stick forces become
-    extremely high. As a result, control of
-    the airplane in cruising flight is very
-    difficult, and control at high speeds or
-    during maneuvers is impossible. Therefore,
-    if such a failure is encountered, try to
-    reduce airspeed to about 200 knots, and
-    try to maintain control by steady push or
-    pull force on the stick and by varying
-    thrust settings. If control cannot be
-    maintained, eject. If some control is
-    available, however, and altitude and
-    other conditions permit, attempt to
-    return to a suitable area. Then eject,
-    because extended flight and a landing
-    with such high stick forces should not
-    be attempted under any circumstances.
+    !!! warining
+        Because of the reduced total output,
+        unnecessary control movement should be
+        kept to a minimum when the emergency
+        pump is the only source of flight control
+        power. This is an emergency system which
+        will not provide normal maneuvering
+        capability, but is considered adequate for
+        a proficient pilot flying under normal
+        conditions of visibility and turbulence,
+        with adequate runways to permit a well planned
+        approach. Under other circumstances,
+        the pilot’s judgment must prevail.
+    
+    !!! warning
+        If complete flight control hydraulic
+        system failure occurs (that is, pressure
+        cannot be maintained by the emergency
+        pump upon loss of the engine-driven
+        pumps, or because of malfunctions in
+        the systems), stick forces become
+        extremely high. As a result, control of
+        the airplane in cruising flight is very
+        difficult, and control at high speeds or
+        during maneuvers is impossible. Therefore,
+        if such a failure is encountered, try to
+        reduce airspeed to about 200 knots, and
+        try to maintain control by steady push or
+        pull force on the stick and by varying
+        thrust settings. If control cannot be
+        maintained, eject. If some control is
+        available, however, and altitude and
+        other conditions permit, attempt to
+        return to a suitable area. Then eject,
+        because extended flight and a landing
+        with such high stick forces should not
+        be attempted under any circumstances.
 
 
     

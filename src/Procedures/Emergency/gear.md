@@ -19,17 +19,16 @@ safety pins have been installed.
 4. Landing gear position indicator - CHECK SAFE. The red warning light in the landing gear control handle should go out when the gear is down and locked, and landing gear position indicators should show safe indication. If these conditions are not present, proceed to step 5.
 5. Gear position control circuit breaker - PULL. Pull gear position control circuit breaker on left circuit-breaker panel and repeat steps 1 through 4.
 
-!!! note
-    Yaw airplane to lock main gear if gear down-and-locked indication does not appear after 15 seconds.
+    !!! note
+        Yaw airplane to lock main gear if gear down-and-locked indication does not appear after 15 seconds.
 
-!!! note
-    Nose gear cannot be retracted in flight after being lowered by means of the landing gear emergency lowering handle.
+    !!! note
+        Nose gear cannot be retracted in flight after being lowered by means of the landing gear emergency lowering handle.
 
-!!! caution
-    Do not pull G in attempt to aid in locking gear down, as use of G increases landing gear lowering time and may cause damage to gear mechanism.
+    !!! caution
+        Do not pull G in attempt to aid in locking gear down, as use of G increases landing gear lowering time and may cause damage to gear mechanism.
 
 ### Landing With Any One Gear Up or Unlocked
-
 !!! note
     If either or both main landing gear cannot
     be locked down, an approach end arrestment
@@ -39,14 +38,15 @@ safety pins have been installed.
 If nose gear does not extend or lock down, or if one main
 gear does not extend and lock down (and the other cannot
 be retracted), proceed as follows:
+
 1. External load — Jettison.
 
-!!! note
-    If landing on a prepared surface, retain
-    empty drop tanks to cushion landing shock,
-    If time and conditions permit, fire all
-    ammunition and expend excess fuel to
-    lighten airplane and minimize fire hazard.
+    !!! note
+        If landing on a prepared surface, retain
+        empty drop tanks to cushion landing shock,
+        If time and conditions permit, fire all
+        ammunition and expend excess fuel to
+        lighten airplane and minimize fire hazard.
 
 2. Gear — DOWN.
 3. Shoulder harness — Lock.
@@ -61,18 +61,17 @@ while control is available.
 10. Drag chute — Deploy.
 11. Battery switch — OFF.
 
-!!! note
-    Turn fuel system shutoff switch OFF
-    before battery switch is turned OFF, so
-    that battery power is available to close
-    the fuel shutoff valve.
+    !!! note
+        Turn fuel system shutoff switch OFF
+        before battery switch is turned OFF, so
+        that battery power is available to close
+        the fuel shutoff valve.
 
-!!! note
-    Battery switch must be ON, if nose wheel
-    steering or antiskid is required.
+    !!! note
+        Battery switch must be ON, if nose wheel
+        steering or antiskid is required.
 
 ### Main Gear Up or Belly Landing (Prepared Surface Only)
-
 !!! note
     If either or both main landing gear cannot
     be locked down, an approach end arrestment
@@ -82,15 +81,16 @@ while control is available.
 If an unsafe condition is confirmed for the main gear after
 the emergency lowering procedure is used or a belly landing
 is unavoidable, the following procedure should be used:
+
 1. Landing gear position control circuit breaker —
 Check in.
 2. Gear — UP. Retract main gear so that landing can be
 made on nose gear and aft fuselage (or empty drop tanks).
 3. External load — Jettison (if necessary).
 
-!!! note
-    Retain empty drop tanks to cushion landing
-    shock and minimize airplane damage.
+    !!! note
+        Retain empty drop tanks to cushion landing
+        shock and minimize airplane damage.
 
 4. Shoulder harness — Lock.
 5. Drag chute — Deploy. Deploy drag chute while
@@ -104,15 +104,15 @@ steering if nose gear is extended,
 10. Fuel system shutoff switch — OFF.
 11. Battery switch — OFF.
 
-!!! note
-    Turn fuel system shutoff switch OFF
-    before battery switch is turned OFF, so
-    that battery power is available to close
-    the fuel shutoff valve.
-
-!!! note
-    Battery switch must be ON, if nose wheel
-    steering or antiskid is required.
+    !!! note
+        Turn fuel system shutoff switch OFF
+        before battery switch is turned OFF, so
+        that battery power is available to close
+        the fuel shutoff valve.
+    
+    !!! note
+        Battery switch must be ON, if nose wheel
+        steering or antiskid is required.
 
 ### Landing on Unprepared Surfaces
 Landings on unprepared surfaces are not recommended.

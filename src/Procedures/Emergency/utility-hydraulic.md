@@ -48,7 +48,7 @@ wing flap emergency switch to EMERGENCY DOWN.
 8. Throttle — OFF (if necessary). Move throttle to
 OFF in case of a drag chute failure.
 
-!!! caution
-    No attempt should be made to taxi or park
-    the airplane. Clear runway if possible, install
-    nose gear safety pin and shut down.
+    !!! caution
+        No attempt should be made to taxi or park
+        the airplane. Clear runway if possible, install
+        nose gear safety pin and shut down.

@@ -33,22 +33,22 @@ Use the steps below as a reference describing each numbered location.
 
 7. Airspeed - 220 KIAS. Hold a constant speed of 220 KIAS in the pattern until on final. Fly a pattern. Varying flight path to make key points. Aim for one third point of runway.
 
-!!! warning
-    Avoid excess use of controls. Especially ailerons, as airplane control is marginal because of reduced hydraulic flow.
+    !!! warning
+        Avoid excess use of controls. Especially ailerons, as airplane control is marginal because of reduced hydraulic flow.
 
 8. Airspeed - 200 KIAS. Hold pattern speed through final turn, playing the turn "long" or "short", for accurate touchdown. Reduce airspeed to 200 KIAS when straight in on final and maintain into flare.
 
 9. Flaps - AS REQUIRED.
 
-!!! caution
-    With a dead engine, speed brake is inoperative and use should not be attempted.
+    !!! caution
+        With a dead engine, speed brake is inoperative and use should not be attempted.
 
 10. Drag Chute - DEPLOY.
 
 11. Nose Wheel Steering - ENGAGE.
 
-!!! warning
-    Nose wheel steering is unreliable because of low output of hydraulic pump at low windmill RPM during landing roll.
+    !!! warning
+        Nose wheel steering is unreliable because of low output of hydraulic pump at low windmill RPM during landing roll.
 
 12. Battery Switch - OFF. 
 

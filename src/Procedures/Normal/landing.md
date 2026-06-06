@@ -17,14 +17,14 @@ On approach:
 3. Flaps - UP.
 4. Nose wheel steering - Engage.
 
-!!! caution
-    In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
+    !!! caution
+        In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
 
-!!! caution
-    If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting.
+    !!! caution
+        If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting.
 
-!!! note
-    In order to prevent disengagement of nose wheel steering because of pitching, hold forward stick pressure on landing roll out.
+    !!! note
+        In order to prevent disengagement of nose wheel steering because of pitching, hold forward stick pressure on landing roll out.
 
 5. Drag chute - Deploy.
 6. Employ normal braking.
@@ -50,12 +50,6 @@ The tail skid is installed only for the purpose of protecting the airplane from 
 
 ### Landing Pattern
 **SOMETHING WITH THE GRAPHICS MAYBE (PG 2-28 of dash 1)
-
-### Other
-Airplane response will be sluggish at landing speeds and more stabilizer deflection is required for similar responses. High instantaneous demand above available rate will stick may stiffen or lock up. This only means the stabilizer is moving at the maximum available rate and does not mean the stabilizer has stopped moving, but the pilot is demanding a higher rate. This can be avoided by flying a smooth power-on approach and reducing over control. It is possible to over control to the point where the hydraulic system will meet the criteria to illuminate the FLIGHT SYS FAIL caution light. The illumination of the caution light and stick stiffening  can occur independently. Refer to the [hydraulic system section](./Hydraulics/hydraulic.md) for more information on the conditions of the FLIGHT SYS FAIL caution light. Stick force lightning occurs 5 KIAS below the touchdown speed of the 1G condition. If encountered, stick force lightning is not dangerous and normal flying should be continued. Over controlling or "jamming" can cause porpoising. Excessive sink rate, airspeed, descent rate, or a combination of all three can also cause porpoising. Excessive touchdown speed may cause the nose wheel to touchdown first, which may induce an excessively nose high response. Pushing forward will cause the cycle to be repeated. If porpoising is encountered, hold the stick slightly aft of neutral while advancing the throttle to execute a proper [go around](./go-around.md) procedure. Attempting to counteract the porpoising will only aggravate the airplane response. 
-
-!!! caution
-    If using aerodynamic braking in crosswind conditions, rudder authority may be insufficient to prevent weather vaning. The crosswind landing procedure should be used.
 
 ### Landing Without a Drag Chute
 Sufficient braking will be available without the drag chute on a dry runway. Aerodynamic braking can also be used to dissipate energy down to a speed where mechanical braking is much more effective with less energy absorption. 
@@ -86,15 +80,22 @@ On final, crab into the wind or forward slip to align the fuselage with the runw
 3. Speed brake - UP.
 4. Flaps - Intermediate.
 
-!!! caution
-    Exercise care when moving the flaps to INTERMEDIATE. Moving the flaps to UP will necessitate increased rotation speed.
+    !!! caution
+        Exercise care when moving the flaps to INTERMEDIATE. Moving the flaps to UP will necessitate increased rotation speed.
 
 5. Trim. Trim the airplane for takeoff.
 6. Nose rotation. At rotation speed, begin to slowly rotate the airplane so that the airplane will assume the pitch angle required for takeoff at the takeoff speed.
 
-!!! warning
-    Ensure proper airspeed has been obtained before rotation. Do not rotate the aircraft excessively nose high. If over rotated, reduce the angle of attack back to the proper takeoff pitch attitude.
+    !!! warning
+        Ensure proper airspeed has been obtained before rotation. Do not rotate the aircraft excessively nose high. If over rotated, reduce the angle of attack back to the proper takeoff pitch attitude.
+
 
 7. Takeoff. Maintain proper takeoff pitch attitude after lift off until proper airspeed is obtained as to prevent settling.
 8. Gear - UP.
 9. Flaps - UP. Increase pitch angle during flap retraction, to prevent settling.
+
+### Other
+Airplane response will be sluggish at landing speeds and more stabilizer deflection is required for similar responses. High instantaneous demand above available rate will stick may stiffen or lock up. This only means the stabilizer is moving at the maximum available rate and does not mean the stabilizer has stopped moving, but the pilot is demanding a higher rate. This can be avoided by flying a smooth power-on approach and reducing over control. It is possible to over control to the point where the hydraulic system will meet the criteria to illuminate the FLIGHT SYS FAIL caution light. The illumination of the caution light and stick stiffening  can occur independently. Refer to the [hydraulic system section](./Hydraulics/hydraulic.md) for more information on the conditions of the FLIGHT SYS FAIL caution light. Stick force lightning occurs 5 KIAS below the touchdown speed of the 1G condition. If encountered, stick force lightning is not dangerous and normal flying should be continued. Over controlling or "jamming" can cause porpoising. Excessive sink rate, airspeed, descent rate, or a combination of all three can also cause porpoising. Excessive touchdown speed may cause the nose wheel to touchdown first, which may induce an excessively nose high response. Pushing forward will cause the cycle to be repeated. If porpoising is encountered, hold the stick slightly aft of neutral while advancing the throttle to execute a proper [go around](./go-around.md) procedure. Attempting to counteract the porpoising will only aggravate the airplane response. 
+
+!!! caution
+    If using aerodynamic braking in crosswind conditions, rudder authority may be insufficient to prevent weather vaning. The crosswind landing procedure should be used.

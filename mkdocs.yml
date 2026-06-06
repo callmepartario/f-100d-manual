@@ -127,7 +127,7 @@ nav:
           - Ejection: ./Procedures/Emergency/ejection.md
           - Canopy: ./Procedures/Emergency/canopy.md
           - Engine Failure: ./Procedures/Emergency/engine-failure.md
-          - AC Generator RESET: ./Procedures/Emergency/acgen.md
+          - AC Generator: ./Procedures/Emergency/acgen.md
           - Flight Controls: ./Procedures/Emergency/flight-controls.md
           - Fuel System: ./Procedures/Emergency/fuel-system.md
           - Heat and Vent Emergency: ./Procedures/Emergency/heat-vent.md

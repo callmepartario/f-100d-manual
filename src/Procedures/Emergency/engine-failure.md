@@ -37,12 +37,12 @@ unlikely.
 
 1. Throttle — OFF.
 
-!!! note
-    The ac generator is taken “‘off the line”
-    automatically when the throttle is moved
-    to OFF, Power can be restored to the
-    3-phase ac instrument bus by moving the
-    standby instrument inverter switch to ON.
+    !!! note
+        The ac generator is taken “‘off the line”
+        automatically when the throttle is moved
+        to OFF, Power can be restored to the
+        3-phase ac instrument bus by moving the
+        standby instrument inverter switch to ON.
 
 2. Flight control emergency hydraulic pump lever
 (RAT) — ON. The emergency pump must be started to
@@ -59,12 +59,12 @@ pump.
 5. Nonessential electrical equipment — Off. Turn off
 all nonessential electrical equipment to reduce battery load.
 
-!!! caution
-    At engine speeds below about 40% rpm,
-    de generator output is not available,
-    and the battery becomes the only source
-    of electrical power. Usable battery
-    power is available for about 6 to
-    22 minutes.
+    !!! caution
+        At engine speeds below about 40% rpm,
+        de generator output is not available,
+        and the battery becomes the only source
+        of electrical power. Usable battery
+        power is available for about 6 to
+        22 minutes.
 
 6. Attempt air start. If air start is not successful — Eject.

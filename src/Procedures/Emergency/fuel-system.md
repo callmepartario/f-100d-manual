@@ -17,12 +17,13 @@ If the BOOST PUMP INOP light comes on, fuel pressure to
 the engine has dropped below 5 psi, probably as a result of
 failure of one or more boost pumps. The following actions
 should be taken to prevent flameout:
+
 1. Terminate afterburner operation.
 
-!!! note
-    Afterburner should not be used when
-    fuel in forward tank is less than
-    250 pounds.
+    !!! note
+        Afterburner should not be used when
+        fuel in forward tank is less than
+        250 pounds.
 
 2. Descend to below 25,000 feet.
 3. All aircraft maneuvers should be as gentle as possible
@@ -39,26 +40,26 @@ failure, Military Thrust operation can be maintained as
 long as 600 pounds is indicated on the total quantity
 gage.
 
-!!! note
-    Above 25,000 feet a failure of the intermediate
-    tank transfer pump is considered
-    the most critical. Below 25,000 feet, the
-    most critical failure is a wing tank scavenge
-    pump.
+    !!! note
+        Above 25,000 feet a failure of the intermediate
+        tank transfer pump is considered
+        the most critical. Below 25,000 feet, the
+        most critical failure is a wing tank scavenge
+        pump.
 
-!!! note
-    With a failure of the intermediate tank
-    transfer pump, afterburner operation can
-    be maintained above 25,000 feet when
-    the total fuel remaining is above
-    3100 pounds.
+    !!! note
+        With a failure of the intermediate tank
+        transfer pump, afterburner operation can
+        be maintained above 25,000 feet when
+        the total fuel remaining is above
+        3100 pounds.
 
-!!! note
-    With a failure of a wing tank scavenge
-    pump, afterburner operation can be
-    maintained below 25,000 feet when
-    total fuel remaining is above
-    1700 pounds.
+    !!! note
+        With a failure of a wing tank scavenge
+        pump, afterburner operation can be
+        maintained below 25,000 feet when
+        total fuel remaining is above
+        1700 pounds.
 
 If a flame-out occurs under these conditions, an air start
 should be attempted. It may be necessary to descend to
@@ -69,7 +70,7 @@ below 25,000 feet to accomplish an air start.
     fuel from the forward tank, the throttle
     should be left at IDLE, to allow fuel to
     be transferred to the forward tank.
-
+    
 !!! note
     Transfer of fuel by gravity from the wing
     tank can be increased by decelerations,

@@ -6,6 +6,7 @@ headset and illumination of the warning light in the landing
 gear handle if below 10,000 feet), proceed to close
 the doors to stop the turbine and shut down the emergency
 hydraulic pump, as follows:
+
 1. Emergency hydraulic pump lever (RAT) -- Aft (OFF).
 2. If unable to move RAT lever aft:
 a. Airspeed - Reduce to below 250 knots IAS.
@@ -18,8 +19,8 @@ mission.
 4. If unable to close ram-air turbine doors — Burn fuel
 and land as soon as practical.
 
-!!! note
-    Flight control system No. 2 should be
-    monitored during RAT operation because
-    of the possibility of exceeding the maximum
-    allowable pressure.
+    !!! note
+        Flight control system No. 2 should be
+        monitored during RAT operation because
+        of the possibility of exceeding the maximum
+        allowable pressure.

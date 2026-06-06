@@ -10,6 +10,7 @@ or the external load emergency jettison handle is
 used, only low-blow stores and 275/335-gallon drop
 tanks can be jettisoned. External loads (non-nuclear
 weapons) are jettisoned in a safe condition.
+
 1. External load emergency jettison button — Press.
 2. External load emergency jettison handle — Pull.
 Pulling this handlc jettisons only low-blow stores and
@@ -51,6 +52,7 @@ requiring forced ejection cannot be jettisoned.
 External loads (conventional weapons) are jettisoned in a
 safe condition, but the arming of the special store is
 determined by the special store control panel.
+
 1. Special store unlock handle — Unlock. Rotate the
 special store unlock handle approximately 30 degrees
 clockwise to break the safety wire, and pull handle aft
@@ -93,6 +95,7 @@ electrical power is not available or the external load
 emergency jettison handle is used, only loads not
 requiring forced ejection can be jettisoned. External
 loads (conventional weapons) are jettisoned safe.
+
 1. Special store unlock handle - Unlock. Rotate the
 special store handle approximately 30 degrees clockwise
 to break safety wire, and pull handle aft to the full stop
@@ -125,6 +128,7 @@ are encountered when cxternal stores are jettisoned
 with the landing gear extended. The study did not consider
 yaw or pitching which could be introduced by turbulence,
 or erratic aircraft operation.
+
 1. Outboard Station — All stores and pylons can be
 jettisoned without hitting the gear.
 2. Intermediate Station — Stores loaded “LOW —
