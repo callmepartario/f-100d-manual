@@ -29,3 +29,15 @@ The exact structure is to be discussed.
 > Note: for venv mkdocs can be run with `python -m mkodcs ...`
 
 Output html file is in site/print_page, material theme should be used for links to work.
+
+## Contributions
+
+Contributions are welcome. There are several ways to contribute:
+
+- Adding Text
+- Adding Images
+- Editing for grammar/spelling errors or other mistakes
+
+For significant contributions please please contact @Aeroshell1 (Aero) or @08jne01 (JNelson) to make sure work is not duplicated. Please match the general style and provide sources for any significant assertions.
+
+If you have not contributed to a github project before see [the guide here](https://github.com/DCS-OpenSource/dcs-opensource-modding-guide/blob/main/docs/contributing.md).
