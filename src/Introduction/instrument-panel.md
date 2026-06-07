@@ -52,7 +52,7 @@ These two readings are displayed as a combined Airspeed and Mach indicator. The 
 
 
 ## Attitude Indicator
-One of the most important instruments is the attitude indicator. Driven by a an electric motor, a double mounted gyro maintains its vertical upright alignment while the aircraft maneuvers. However, the indicator is subject to precession errors, but is re-aligns with a self-erecting mechanism. 
+One of the most important instruments is the attitude indicator. Driven by a an electric motor, a double mounted gyro maintains its vertical upright alignment while the aircraft maneuvers. However, the indicator is subject to precession errors, but it re-aligns with a self-erecting mechanism. 
 
 A knob provides the pilot ability to adjust the reference up and down to align the it with the displayed artificial horizon.
 

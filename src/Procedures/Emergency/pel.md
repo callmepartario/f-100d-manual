@@ -17,21 +17,16 @@ normal landing pattern and can be entered on downwind,
 base or final approach. 
 
 ![ppl](./img/plp.PNG)
-Use the steps below as a reference describing each numbered location.
 
-1. External Load - JETTISION.
-
-2. Engine Master and Generator Switches - OFF.
-
-3. Fuel System Shutoff - OFF.
-
-4. Emergency Hydraulic Pump Lever (RAT) - ON.
-
-5. Shoulder Harness - LOCK
-
-6. Gear - DOWN.
-
-7. Airspeed - 220 KIAS. Hold a constant speed of 220 KIAS in the pattern until on final. Fly a pattern. Varying flight path to make key points. Aim for one third point of runway.
+| Step | Explanation |
+|------|-------------|
+| 1.   | External Load - JETTISION. |
+| 2.   | Engine Master and Generator Switches - OFF. |
+| 3.   | Fuel System Shutoff - OFF. |
+| 4.   | Emergency Hydraulic Pump Lever (RAT) - ON. |
+| 5.   | Shoulder Harness - LOCK. |
+| 6.   | Gear - DOWN. |
+| 7.   | Airspeed - 220 KIAS. Hold a constant speed of 220 KIAS in the pattern until on final. Fly a pattern. Varying flight path to make key points. Aim for one third point of runway. |
 
     !!! warning
         Avoid excess use of controls. Especially ailerons, as airplane control is marginal because of reduced hydraulic flow.
