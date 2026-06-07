@@ -28,16 +28,6 @@ The seat vertical adjustment switch provides vertical positioning of the ejectio
 ## Ejection Seat Hand Grips
 The ejection seat is equipped with two ejection handgrips, one located on each side of the seat bucket. The handgrips are mechanically interconnected, allowing the ejection sequence to be initiated by pulling either handgrip or both handgrips simultaneously. To prevent inadvertent ejection, the handgrips are fitted with a handgrip lock lever.
 
-**Ejection** – *Mouse Interaction*
-
-- Right-click and hold the handgrip lock lever to disengage the safety lock.
-
-- While holding the lock lever (right-click), left-click either handgrip to initiate the ejection sequence.
-
-- Releasing the lock lever without pulling a handgrip will cancel the ejection action.
-
-The standard DCS emergency ejection command **Left CTRL + E** (pressed three times) will initiate the ejection sequence provided the seat ground safety pin has been removed.
-
 ## Armrest
 Each armrest incorporates an independent release lever. Pushing the lever allows the armrest to be raised or lowered as required for pilot comfort or cockpit access.
 

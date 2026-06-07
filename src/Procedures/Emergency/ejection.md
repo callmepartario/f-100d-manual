@@ -36,3 +36,13 @@ while the airplane is in a positive climb. This will result
 in a more vertical trajectory for the seat and crew member,
 thus providing more altitude and time for seat separation
 and parachute deployment.
+
+**Ejection** – *Mouse Interaction*
+
+- Right-click and hold the handgrip lock lever to disengage the safety lock.
+
+- While holding the lock lever (right-click), left-click either handgrip to initiate the ejection sequence.
+
+- Releasing the lock lever without pulling a handgrip will cancel the ejection action.
+
+The standard DCS emergency ejection command **Left CTRL + E** (pressed three times) will initiate the ejection sequence provided the seat ground safety pin has been removed.
