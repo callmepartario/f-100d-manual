@@ -16,7 +16,7 @@ The PLP will be slightly larger than the
 normal landing pattern and can be entered on downwind,
 base or final approach. 
 
-![ppl](./img/plp.PNG)
+![ppl](./img/plp.png)
 
 | Step | Explanation |
 |------|-------------|

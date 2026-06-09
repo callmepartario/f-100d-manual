@@ -5,13 +5,13 @@
 Forward and aft photographic documentation of weapon impacts is provided by two motion-picture cameras installed in a nonjettisonable pod on the underside of
 the left wing, approximately midway between the fuselage and inboard wing station.
 
-![Strike Camera](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+![Strike Camera](./img/replace-image.png) <!-- REPLACE THIS IMAGE -->
 
 ## Enable Camera Recording
 
 In order to generate recordings you must first enable recording in the F-100D Special options menu.
 
-![Strike Camera Enable](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+![Strike Camera Enable](./img/replace-image.png) <!-- REPLACE THIS IMAGE -->
 
 ## Controls
 

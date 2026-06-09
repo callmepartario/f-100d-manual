@@ -16,7 +16,7 @@ To facilitate the reception of UHF signals for ADF bearings, a flush-type antenn
 
 1. With the command radio on and warmed up, select a common frequency with the ground station or airplane to be homed on.
 
-2. Turn the [AN/ARC-34 function switch](../ARC-34%20Command%20Radio/command-radio.md#function-switch) to ADF, and the [AN/ARN-72 TACAN function switch](../ARN-72%20TACAN/) to A/A.
+2. Turn the [AN/ARC-34 function switch](../ARC-34%20Command%20Radio/command-radio.md#function-switch) to ADF, and the [AN/ARN-72 TACAN function switch](../ARN-72%20TACAN/tacan.md) to A/A.
 
 3. The ADF bearing pointer will move in response to the UHF signal to indicate the bearing, and the [TACAN range indicator](../ARN-72%20TACAN/tacan.md) will indicate the range to the ground station or to the airplane.
 

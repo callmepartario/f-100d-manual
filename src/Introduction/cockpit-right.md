@@ -1,6 +1,6 @@
 # Cockpit Right Side
 
-![replace image](./img/rightside.PNG)
+![replace image](./img/rightside.png)
 
 | Reference | Name |
 |-----------|------|

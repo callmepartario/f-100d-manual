@@ -6,7 +6,7 @@ For glide distances with a windmilling or frozen engine, the recommended glide s
 
 The glide ratio and glide distances of the airplane without drop tanks but with landing gear down are about half those obtainable with the gear up.
 
-![ppl](./img/glide.PNG)
+![ppl](./img/glide.png)
 
 1. External Load - JETTISON.
 

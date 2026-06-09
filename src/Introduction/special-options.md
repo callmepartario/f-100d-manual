@@ -3,7 +3,7 @@ Various special options have been added for user quality of life and customizati
 
 These options are located in the xx of DCS World with the DCS: F-100D Super Sabre Selected from the left side module tray.
 
-![special options image](./img/special_options.PNG)
+![special options image](./img/special_options.png)
 
 ## Gameplay
 
@@ -11,7 +11,14 @@ These options are located in the xx of DCS World with the DCS: F-100D Super Sabr
 The cockpit camera shake can be adjusted on this slider as an overall multiplier to global cockpit camera shake.
 
 ### Pylon Control Armament Assistance
-UGH IDK
+
+This decides how the [pylon loading control panel](../Weapon_System/armament-control-panels.md#pylon-loading-control-panel) is setup.
+
+| Setting  | Pylon Loading Assistance
+|----------|--------------------------
+| OFF      | None - up to pilot
+| ON SPAWN | Set automatically on spawn. After rearming it is up to the pilot to set
+| FULL     | Set automatically on spawn and after rearming complete.
 
 ### Autostart Mode
 FULL will opt out of any auto start assistance for a complete cold-and-dark start. ENGINE ONLY sets all other switches, knobs, and settings for start; thus, the engine is the only required item for a complete start.

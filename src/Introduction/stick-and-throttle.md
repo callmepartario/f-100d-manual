@@ -4,7 +4,7 @@ This section covers basic controls of the stick and throttle, for more in depth 
 ## Stick
 The control stick is mechanically connected to the aircraft's hydraulic systems for the aileron and horizontal stabilizer hydraulic actuators. 
 
-![replace image](./img/stick.PNG)
+![replace image](./img/stick.png)
 
 | Reference | Name |
 |-----------|------|
@@ -36,7 +36,7 @@ The trigger and bomb buttons are used to release weapons. Specifically, the trig
 ## Throttle
 Fuel flow to the engine is mechanically controlled by the pilot via the throttle. The engine fuel control system merely delivers and regulates the fuel.
 
-![replace image](./img/throttle.PNG)
+![replace image](./img/throttle.png)
 
 | Reference | Name |
 |-----------|------|

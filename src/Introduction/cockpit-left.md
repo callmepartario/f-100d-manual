@@ -1,5 +1,5 @@
 # Cockpit Left Side
-![replace image](./img/leftside.PNG)
+![replace image](./img/leftside.png)
 
 This section will cover general items on the left side of the cockpit. More specific items will be covered in the respective systems section.
 

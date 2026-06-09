@@ -59,6 +59,7 @@ nav:
     - Introduction:
       - Overview: ./Introduction/introduction.md
       - Definitions and Abbreviations: ./Introduction/definitions.md
+      - Credits: ./credits.md
     - Cockpit:
       - Instrument Panel: ./Introduction/instrument-panel.md
       - Cockpit Left Side: ./Introduction/cockpit-left.md
@@ -73,6 +74,7 @@ nav:
       - Parameters: ./Meta/parameters.md
     - Systems:
       - Aircraft Systems:
+        - Engine: ./Engine/engine.md
         - Electrical: ./Electrical/electrical.md
         - Hydraulics: ./Hydraulics/hydraulic.md
         - Fuel: ./Fuel/fuel.md
@@ -98,7 +100,6 @@ nav:
       - Weapon Systems:
         - Introduction: ./Weapon_System/introduction.md
         - Armament Control Panels: ./Weapon_System/armament-control-panels.md
-        - Basic Armament Control Circuitry: ./Weapon_System/basic-armament-control-circuitry.md
         - Aircraft Weapons Release System: ./Weapon_System/aircraft-weapons-release-system.md
         - A-4 Gunsight: ./Weapon_System/a-4-gunsight.md
         - Guns: ./Weapon_System/guns.md
@@ -148,10 +149,6 @@ nav:
           - Landing With Arresting Hook Extended: ./Procedures/Emergency/hook.md
           - Tire Failure: ./Procedures/Emergency/tire.md
           - Wheel Brakes Overheated: ./Procedures/Emergency/brakes.md
-
-    - Emergencies:
-      - Warnings and cautions: ./Emergencies/warnings-and-cautions.md
-      - Ejection: ./Emergencies/ejection.md
 
     - Extras:
       - Research Series: ./Introduction/research-series.md

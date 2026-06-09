@@ -66,7 +66,7 @@ Under turning, acceleration or pitch attitudes exceeding ±30° the pendulum wil
 
 ## Controls
 
-![j4 image](./img/j4compass.PNG) <!-- REPLACE THIS IMAGE -->
+![j4 image](./img/j4compass.png) <!-- REPLACE THIS IMAGE -->
 
 1. [Synchronizer Control Knob](#synchronizer-control-knob)
 2. [Function Selector Switch](#function-selector-switch)

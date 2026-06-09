@@ -8,7 +8,7 @@ The AN/ARN-72 TACAN features a powerful receiver-transmitter that functions as a
 
 ## Controls
 
-![ARN-72 TACAN](./img/tacan_radio.PNG) <!-- REPLACE THIS IMAGE -->
+![ARN-72 TACAN](./img/tacan_radio.png) <!-- REPLACE THIS IMAGE -->
 
 ### Dual Rotary Switch - Outer Knob
 

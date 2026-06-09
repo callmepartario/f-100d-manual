@@ -5,9 +5,12 @@
 The KB-3 gun camera on the sight, is an electrically driven, magazine-type, 16 mm motion picture camera that photographs the sight reticle
 and target simultaneously.
 
+!!! warning
+    Due to current limitations in DCS the Gun Camera and Strike Cameras can only record when the view is in the cockpit.
+
 ## Controls
 
-![Gun Camera](./img/replace-image.PNG) <!-- REPLACE THIS IMAGE -->
+![Gun Camera](./img/replace-image.png) <!-- REPLACE THIS IMAGE -->
 
 1. [Camera Shutter Selector Switch](#camera-shutter-selector-switch)
 2. [Camera Timer](#camera-timer)

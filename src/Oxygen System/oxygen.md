@@ -6,7 +6,7 @@ The pressure-breathing, diluter-demand oxygen regulator automatically mixes oxyg
 
 ## Controls
 
-![MD-1 Oxygen Regulator](./img/oxygen-regulator.PNG) <!-- REPLACE THIS IMAGE -->
+![MD-1 Oxygen Regulator](./img/oxygen-regulator.png) <!-- REPLACE THIS IMAGE -->
 
 1. [Flow Indicator](#flow-indicator)
 2. [Oxygen Supply Pressure Indicator](#oxygen-supply-pressure-indicator)

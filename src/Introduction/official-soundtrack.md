@@ -2,7 +2,7 @@
 
 ## Official Soundtrack
 
-![special options image](./img/albumfront.PNG) ![special options image](./img/albumback.PNG)
+![special options image](./img/albumfront.png) ![special options image](./img/albumback.png)
 
 Death or Glory is the Official DCS: F-100D Super Sabre Soundtrack by Grinnelli Designs. 
 

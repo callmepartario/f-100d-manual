@@ -1,5 +1,5 @@
 # Ejection Seat
-![replace image](./img/seat.PNG)
+![replace image](./img/seat.png)
 
 Ejection can be initiated at any airspeed or attitude. The seat is fitted with a ballistic rocket ejection seat catapult which provides the pilot with zero altitude ejection capability and a minimum airspeed and additional vertical stabiizer clearance during ejection of speeds up to Mach 1. 
 

@@ -20,7 +20,7 @@ The principle operation of radar is to send out a small burst of radiation (usua
 
 The carrier frequency is the frequency of the radiation used for detection of objects. Each pulse contains a burst of these radiation at the carrier frequency.
 
-![Image of Radar Pulse](./img/radar-pulse-todo-replace.png)
+![Image of Radar Pulse](./img/carrier_frequency.png)
 
 The carrier frequency can be broadly categorised into bands. The bands for the AN/APR-25 are listed below (note these are similar to NATO bands but not exactly identical):
 
@@ -40,7 +40,7 @@ Fighter radars are found in the India band (with a few ranging radar exceptions 
 
 It is not enough to send one pulse of radiation as the energy contained within one pulse is very small so it can be difficult to detect. To improve this and to continually update what the radar is detecting the radar will send a stream of pulses. The rate at which these pulses are transmitted is known as the pulse repetition frequency.
 
-![Image of Radar Pulse Train](./img/radar-pulse-todo-replace.png)
+![Image of Radar Pulse Train](./img/prf.png)
 
 Below the various types of pulse repetition frequency are described.
 
@@ -103,7 +103,7 @@ The RHAW Set has three main parts. The azimuth indicator which displays incoming
 5. [Echo SAM Indication/Button](#band-indications-indiagolfecho)
 6. [AAA/AI Indication/Button](#band-indications-indiagolfecho)
 7. [Launch Indication](#launch)
-8. [Activity Indication](#actpwr-activity--power)
+8. [Activity Indication](#actpwr-activitypower)
 9. [AAA Defeat Indication/Button](#aaa-defeat)
 10. [Power Indication/Button](#power)
 11. [Audio Volume Knob](#audio-knob)
@@ -160,21 +160,21 @@ Pressing this button begins the [Golf Band LORO build-in-test](#built-in-tests-b
 
 This indicates if there is an India band airborne intercept radar detected and what type the system has categorised.
 
-AI WX - This illuminates when a radar with a connical scanning type radar is detected. This is usually indicative of an all weather fighter.
+AI WX - This illuminates when a radar with a conical scanning type radar is detected. This is usually indicative of an all weather fighter.
 
-AI DAY - This is supposed to represent day fighters with range only radars, like that the of the Super Sabre's Radar. However this RHAW equipement was invented before the widespread use of monopulse radars as such these more advanced radars do not trip the AI WX detection circuitry leading them to be incorrectly classified as AI DAY fighters despite having much more advanced radars capable of all weather intercept.
+AI DAY - This is supposed to represent day fighters with range only radars, like that the of the Super Sabre's Radar. However this RHAW equipment was invented before the widespread use of monopulse radars as such these more advanced radars do not trip the AI WX detection circuitry leading them to be incorrectly classified as AI DAY fighters despite having much more advanced radars capable of all weather intercept.
 
-#### ACT/PWR (Activity / Power)
+#### ACT/PWR (Activity/Power)
 
-This indicates if there are any Charlie band signals detected which match that of a Fan-Song emitting guidance signals. If there is a correlated fan-song on the [Azimuth Display](#azimuth-display) the correlated signal will flash at 3 Hz along with the [launch light](#launch) illuminating.
+This indicates if there are any Charlie band signals detected which match that of a Fan-Song emitting guidance signals. If there is a correlated fan-song on the [Azimuth Display](#azimuth-indicator) the correlated signal will flash at 3 Hz along with the [launch light](#launch) illuminating.
 
 #### LAUNCH
 
-The launch indication is given when Charlie band guidance activity is detected and correlated to a threat fan-song which has the aircraft centered in its beam.
+The launch indication is given when Charlie band launch and guidance activity is detected
 
 #### AAA Defeat
 
-This button blanks out the lower half of the Echo band effectively disabling Anti-Aircraft Artillary Radars commonly found in this band. With dense enough signal environment this circuitry can be tripped off resulting in the display of AAA signals despite the AAA Defeat being activated.
+This button blanks out the lower half of the Echo band effectively disabling Anti-Aircraft Artillery Radars commonly found in this band. With dense enough signal environment this circuitry can be tripped off resulting in the display of AAA signals despite the AAA Defeat being activated.
 
 The corresponding light on the button indicates whether AAA Defeat is requested.
 
@@ -212,7 +212,7 @@ Unlike modern equipment the AN/APR-25 has no memory of incoming signals and thus
 
 ## Built-In-Tests (BIT)
 
-The AN/APR-25 has a series of built-in-tests to verify at any momenet the equipment is functioning correctly. These tests check everything piece of equipment with the exception of the antennas. It does this by injecting signals into the pre-amplifiers.
+The AN/APR-25 has a series of built-in-tests to verify at any moment the equipment is functioning correctly. These tests check everything piece of equipment with the exception of the antennas. It does this by injecting signals into the pre-amplifiers.
 
 ### India Band
 

@@ -1,7 +1,7 @@
 # F-100D Super Sabre
 
 
-![radio image](./img/banner1.PNG)
+![radio image](./img/banner1.png)
 
 
 ### Welcome Letter
@@ -35,7 +35,7 @@ We hope you enjoy learning, flying, and mastering the DCS: F-100D Super Sabre as
 
 ### History
 
-![special options image](./img/tanking.PNG)
+![special options image](./img/tanking.png)
 
 The F-100D Super Sabre entered service in 1956 as the U.S. Air Force's definitive fighter-bomber. Succeeding the legendary F-86, it was the first fighter aircraft capable of supersonic speed in level flight. Although developed as a day air-superiority fighter, the Super Sabre family eventually saw the F-100D repurposed as a ground-attack platform. Extensive use of the F-100D during the Vietnam War made it the most widely produced variant.
 
@@ -46,7 +46,7 @@ The Super Sabre is equipped with four 20 mm Pontiac M39 cannons mounted in the l
 The Sabre features a 45 degree swept wing, supersonic level flight and in flight ariel refueling capability. Underwing stations can be utilized to maximize range with fuel tanks or add additional ordnance.
 
 ### Project High Wire
-![radio image](./img/banner2.PNG)
+![radio image](./img/banner2.png)
 
 To further enhance operational effectiveness, the F-100D features the "high wire" modification that standardizes instruments and avionics. This includes the AN/APR-25 Radar Homing And Warning receiver (RHAW), which alerts pilots to threats from surface-to-air missiles (SAMs). For example: The RHAW can detect radar emissions from systems like the Fan Song tracking radar that guides SA-2 Guideline missiles.
 

@@ -10,7 +10,7 @@ The AIMS system, which utilizes an AN/APX-72 receiver/transmitter (transponder),
 
 ## Controls
 
-![iff image](./img/iff.PNG) <!-- REPLACE THIS IMAGE -->
+![iff image](./img/iff.png) <!-- REPLACE THIS IMAGE -->
 
 <!-- Master Switch Mode Selection Switch Test Switches code selectors mode 1 code selectors mode 3A mode 4 enable switch mode 4 code select switch -->
 

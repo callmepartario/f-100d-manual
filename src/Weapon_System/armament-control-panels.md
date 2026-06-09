@@ -69,13 +69,13 @@ This panel stores the weapon type information mounted on each pylon as a 7 posit
 6. Right Outboard Weapon Setting
 7. Pylon Loading Control Panel Latch and Cover
 
-The controls 1-6 all control what the wiring considers mounted to the aircraft. These are automatically set by ground grew upon re-arm or spawn (by default see [special options](../Introduction/special-options.md#weapon-options)).
+The controls 1-6 all control what the wiring considers mounted to the aircraft. These are automatically set by ground grew upon re-arm or spawn (by default see [special options](../Introduction/special-options.md#pylon-control-armament-assistance)).
 
 !!! caution
     Setting any of these to incorrect loading may result in in-advertant release of weapons.
 
 !!! note
-    If automatic pylon loading control panel setting is set in the [special options](../Introduction/special-options.md#weapon-options) then these will be set by the ground crew when the rearming complete radio message is received.
+    If automatic pylon loading control panel setting is set in the [special options](../Introduction/special-options.md) then these will be set by the ground crew when the rearming complete radio message is received.
 
 There are 1-9 possible weapon mountings. These mostly match the weapon types found on the [Stores Selector](#stores-selector).
 

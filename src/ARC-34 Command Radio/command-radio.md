@@ -8,7 +8,7 @@ This radio system employs two receivers: a primary receiver responsible for stan
 
 ## Controls
 
-![radio image](./img/command_radio.PNG) <!-- REPLACE THIS IMAGE -->
+![radio image](./img/command_radio.png) <!-- REPLACE THIS IMAGE -->
 
 1. [Frequency Knobs](#frequency-knobs)
 2. [Manual-Preset-Guard Sliding Selector](#manual-preset-guard-sliding-selector)
