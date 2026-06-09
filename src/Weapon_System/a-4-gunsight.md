@@ -131,6 +131,8 @@ This switch sets the effective velocity of the own aircraft and the closure rate
 
 The A-4 gunsight can be used in either air to air or air to ground operation. To select the mode of operation the [sight selector](#sight-selector) is used - each modes of operation are described below.
 
+Note if the sight select mode is in manual, the armament mode is in bombs or napalm, and the bomb-arm switch is in SAFE the gunsight pipper will extinguish to indicate that a dud would be dropped off the aircraft.
+
 ### Gun (Air-to-Air)
 
 With the [sight selector](#sight-selector) in Gun and the sight mechanically uncaged the rate gyro inside the sight controls the pipper location to provide a gunnery solution based on the set range. The [target speed switch](#3-target-speed-switch) should be set on the closest target speed: HI for High Speed Targets, LO for Low Speed Targets and TR for Tracking Shots where the attacking aircraft is similar speed to the target.
@@ -157,9 +159,8 @@ In this mode the sight can be used in this mode for manual bombing or rocket att
 
 ### Bomb (Air-to-Ground Automatic)
 
+The A-4 sight has a mode for automatic bombing. This method makes use of the inbuilt gyroscope calculate the target position and matches this to an inbuilt mechanical computer using information such as airspeed to calculate the bomb trajectory. Once the the bomb trajectory coincides with the target position the bomb release signal is sent.
 
+The bombsight works the principle that the line of sight rate corresponds to the slant range to the target. To facilitate this the pipper is automatically depressed by 10 degrees in the bomb mode. The pilot must then keep this on the target for the system to measure the line of sight rate. One the parameters are met the sight extinguishes and the bomb is released.
 
-
-**TODO: Note to self - If the armament selector is in BOMB/NAPALM and the sight is in manual, the sight will go out if the bomb arming knob is not set in an ARMED position.**
-
-**TODO UPDATE: MAYBE it may depend on the version of the sabre.**
+Note that the electrical cage must be held up until the target is in the sight to protect the gyros. Then the target must be _smoothly_ followed under the pipper to get an accurate measurement. Any jerks or bumps may cause the bombs to release prematurely.
