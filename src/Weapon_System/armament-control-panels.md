@@ -108,7 +108,7 @@ The gun missile switch controls electrical power for the upper, lower guns and t
 
 **Note: Gun missile firing circuits are inhibited when weight is on the wheels.**
 
-With the gun missile switch in any position the gun camera can be actuated by using the first trigger detent. See the [Gun Camera Section]() for details.
+With the gun missile switch in any position the gun camera can be actuated by using the first trigger detent. See the [Gun Camera Section](../Gun%20Camera/gun_camera.md) for details.
 
 ## Status Display Lights
 

@@ -18,9 +18,9 @@ The formula:
 
 `pullup timer = (distance from ip to target - bomb travel distance) / ground speed`
 
-can then be used to figure out what should be set for the pullup timer. Both ground speed and distance from IP to target can be easily chosen during mission planning. The indentification point (IP) is chosen to be something that is easy to find and navigate to from the air and near the target area.
+can then be used to figure out what should be set for the pullup timer. Both ground speed and distance from IP to target can be easily chosen during mission planning. The identification point (IP) is chosen to be something that is easy to find and navigate to from the air and near the target area.
 
-Bomb travel distance is determined by the exact release parameters of the bomb: including release angle, true airspeed, target altitude, aircraft altitude, bomb type and wind. [See the table below for some candidate release parameters]()
+Bomb travel distance is determined by the exact release parameters of the bomb: including release angle, true airspeed, target altitude, aircraft altitude, bomb type and wind.
 
 ### LABS (Loft)
 
@@ -39,6 +39,6 @@ The LABS and LABS ALT mode are identical with the exception of the angle of rele
 
 ![Image of Loft Release](./img/labs_loft_delivery.png)
 
-### Low Altitude Drouge Delivery (LADD)
+### Low Altitude Drogue Delivery (LADD)
 
-Don't.
+Low Altitude drogue Delivery is for delivery drogue assisted nuclear weapons. At the pullup point the pilot is commanded into a 40 degree climb. The release timer determines the release. Once a period longer than the release timer has passed since the pullup point the bombs will be released.

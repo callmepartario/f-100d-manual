@@ -67,3 +67,5 @@ The sidewinder volume knob can be used to adjust the Shrike audio heard in the h
 3. [Pylon Arm]() - Armed for each pylon
 
 One the Shrike is setup the pilot can point the aircraft at a radiation source to hear the radiation through the Shrike, this indicates a good track. The [needles](#course-and-glideslope-needles) will also become active and point to the source.
+
+To fire depress the weapon release until the missile completes the launch sequence.
