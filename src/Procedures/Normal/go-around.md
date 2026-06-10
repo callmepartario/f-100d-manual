@@ -14,4 +14,4 @@
         If using the emergency fuel control system, advance the throttle cautiously to prevent engine over-speed or compressor stall.
     
     !!! warning
-        If afterburner is used and light up is not achieved, considerably less than military thrust will be output. Return the throttle inboard immediately to regain militay thrust.
+        If afterburner is used and light up is not achieved, considerably less than military thrust will be output. Return the throttle inboard immediately to regain military thrust.

@@ -10,7 +10,7 @@ determine spin direction.
 3. EXTERNAL LOAD — JETTISON.,
 
     !!! warning
-        If pnly pylons are installed, jettison the pylons.
+        If only pylons are installed, jettison the pylons.
     
 4. LANDING GEAR, WING FLAPS, AND SPEED
 BRAKE — UP, If landing gear, wing flaps, and speed

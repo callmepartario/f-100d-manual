@@ -20,11 +20,11 @@ The flow indicator (blinker) consists of an oblong opening which shows black and
 
 ### Oxygen Supply Pressure Indicator
 
-The oxygen supply pressure gaguge shows oxygen pressure available to the regulator.
+The oxygen supply pressure gauge shows oxygen pressure available to the regulator.
 
 ### Emergency Lever
 
-The emergency lever should be in the center position at all times, unless and unschuduled oxygen pressure increase is desired. Moving the lever to **EMERGENCY** provides continuous positive pressure to the mask. When the lever is held at **TEST**, oxygen at positive pressure is provided to test the mask for leaks.
+The emergency lever should be in the center position at all times, unless an unscheduled oxygen pressure increase is desired. Moving the lever to **EMERGENCY** provides continuous positive pressure to the mask. When the lever is held at **TEST**, oxygen at positive pressure is provided to test the mask for leaks.
 
 ### Diluter Lever
 

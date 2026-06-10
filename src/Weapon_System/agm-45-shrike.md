@@ -24,7 +24,7 @@ In addition to the radio seekers the shrike has two possible guidance modes whic
 
 #### Loft - Dive Bypass (disabled)
 
-When launched the guidance is initially disabled. Once the missile passes climbs above 18,000 ft and then decends below 18,000 ft barometric will the seeker and guidance then be activated. At this point the missile will track anything within it's field of vision that falls within it's radio seeker band.
+When launched the guidance is initially disabled. Once the missile passes climbs above 18,000 ft and then descends below 18,000 ft barometric will the seeker and guidance then be activated. At this point the missile will track anything within it's field of vision that falls within it's radio seeker band.
 
 This mode is intended for stand-off however without additional computer assistance like that added later in the F-4D this mode is difficult to attain accuracy.
 

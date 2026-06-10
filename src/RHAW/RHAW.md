@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The AN/APR-25 is a Radar Warning and Homing Receiever. This is a piece of equipment which is designed to detect incoming radar and guidance signals and inform the pilot of any threats.
+The AN/APR-25 is a Radar Warning and Homing Receiver. This is a piece of equipment which is designed to detect incoming radar and guidance signals and inform the pilot of any threats.
 
 ![picture-of-set](./img/rhaw_set.png)
 
@@ -22,7 +22,7 @@ The carrier frequency is the frequency of the radiation used for detection of ob
 
 ![Image of Radar Pulse](./img/carrier_frequency.png)
 
-The carrier frequency can be broadly categorised into bands. The bands for the AN/APR-25 are listed below (note these are similar to NATO bands but not exactly identical):
+The carrier frequency can be broadly categorized into bands. The bands for the AN/APR-25 are listed below (note these are similar to NATO bands but not exactly identical):
 
 | BAND  | Frequency (GHz)
 |-------|----------------
@@ -30,7 +30,7 @@ The carrier frequency can be broadly categorised into bands. The bands for the A
 | Golf  | 4.4 - 5.8
 | Echo  | 2.4 - 3.6
 
-Whenever radar is refered to be in any of these bands it simply means that the radiation it emits falls within the limits of the band.
+Whenever radar is referred to be in any of these bands it simply means that the radiation it emits falls within the limits of the band.
 
 Broadly different radars fall into different bands, Early Fan-Song (A etc) (SA-2) fall into the Echo band, later Fan-Song E (SA-2) falls into the Golf band.
 
@@ -50,7 +50,7 @@ Below the various types of pulse repetition frequency are described.
 | MEDIUM   | 3 - 30                                 | Used in modern pulse doppler radars. Medium pulse repetition frequencies are modulated this means the pulse repetition frequency is quickly varied giving them complex patterns. This can give complex digital sounding tones from the audio generator of the AN/APR-25.
 | LOW      | <3                                     | Used in older pulse and moving target indicator radars. This frequency is also commonly used for ground mapping radars. Older radars use something called pulse repetition frequency jittering to reduce un-wanted clutter, this jitter is the random changing of the pulse repetition frequency and can result in a buzzing sound being heard in the AN/APR-25 audio.
 
-The AN/APR-25 was only designed to deal with Low Pulse Repetition Frequency threats and thus only these can be correctly categorised. However because of the multiple frequencies used in medium pulse repetition frequency beat frequencies are created which can be heard in the low pulse repetition frequency range. High pulse repetition frequency radars have no such complexity and therefore they simply max the frequency of the AN/APR-25 audio generator.
+The AN/APR-25 was only designed to deal with Low Pulse Repetition Frequency threats and thus only these can be correctly categorized. However because of the multiple frequencies used in medium pulse repetition frequency beat frequencies are created which can be heard in the low pulse repetition frequency range. High pulse repetition frequency radars have no such complexity and therefore they simply max the frequency of the AN/APR-25 audio generator.
 
 ### Equipment
 
@@ -70,11 +70,11 @@ Each antenna covers approximately a 90 degree cone. The relative strength betwee
 
 #### Amplifiers
 
-Each antenna routes to three amplifiers - one for each band that the AN/APR-25 can detect. The amplifiers increase the signal to a usable level so it can be passed to the logic analyser.
+Each antenna routes to three amplifiers - one for each band that the AN/APR-25 can detect. The amplifiers increase the signal to a usable level so it can be passed to the logic analyzer.
 
-#### Logic Analysers
+#### Logic Analyzers
 
-There is a logic analyser for each band. In general the logic analysers have complex circuitry to measure characteristics about the incoming signals.
+There is a logic analyzer for each band. In general the logic analyzers have complex circuitry to measure characteristics about the incoming signals.
 
 The primary characteristics which can be measured are the pulse repetition frequency and the scan pattern of the incoming signals. If the pulse repetition frequency and scan pattern match that of the threat on this band then the respective [light](#band-indications-indiagolfecho) is triggered on the billboard.
 
@@ -86,7 +86,7 @@ The pulses from the amplifiers are directly translated to audio. This can result
 
 The RHAW Set has three main parts. The azimuth indicator which displays incoming signals and their directions and the x band disable switch and billboard which are both used to control
 
-![rhaw-set-labled](./img/rhaw-set-labels.png)
+![rhaw-set-labeled](./img/rhaw-set-labels.png)
 
 1. [Azimuth Indicator](#azimuth-indicator)
 2. [X Band Disable Button](#x-band-disable-button)
@@ -133,7 +133,7 @@ For a more detailed description of each threat indicator see below.
 
 The surface to air missile system threat indications are in the form of two lights on the button, one at the top and one at the bottom. The top light indicates a high pulse repetition frequency for the given threat and the bottom light indicates the low pulse repetition frequency.
 
-As a general rule low pulse repetition frequency is used for acquistion or long range tracking and high pulse repetition frequency is used for shorter range targeting and launch.
+As a general rule low pulse repetition frequency is used for acquisition or long range tracking and high pulse repetition frequency is used for shorter range targeting and launch.
 
 Each threat indication is displayed when a radar is detected which matches the pulse repetition frequency of the threat's high or low setting. However other radars can erroneously trigger the threat detection if their pulse repetition frequency coincides with the thread frequencies or the system is overwhelmed with many simultaneous signals.
 
@@ -150,7 +150,7 @@ This light illuminates when the lower half of the Echo band is triggered, this u
 
 ###### G LORO
 
-Usually the Fan-Song scans its beam left to right 16 times per second giving the characteristic rattlesnake sound. However this can be easily tracked and emmulated by jamming equipment to confuse the tracking circuits. To counter this the Fan-Song operator can switch to Lobe-On-Receive-Only which changes the beam to be stationary and scans only in the receiving antennas. This way it is more difficult for jammers to track the scanning motion of the Fan-Song.
+Usually the Fan-Song scans its beam left to right 16 times per second giving the characteristic rattlesnake sound. However this can be easily tracked and emulated by jamming equipment to confuse the tracking circuits. To counter this the Fan-Song operator can switch to Lobe-On-Receive-Only which changes the beam to be stationary and scans only in the receiving antennas. This way it is more difficult for jammers to track the scanning motion of the Fan-Song.
 
 This light illuminates when the Fan-Song E (Golf Band Fan-Song) switches to its Lobe-On-Receive-Only mode, which results in the sound switching from the characteristic rattle-snake sound to a steady tone.
 
@@ -158,7 +158,7 @@ Pressing this button begins the [Golf Band LORO build-in-test](#built-in-tests-b
 
 ###### AI (Air Intercept)
 
-This indicates if there is an India band airborne intercept radar detected and what type the system has categorised.
+This indicates if there is an India band airborne intercept radar detected and what type the system has categorized.
 
 AI WX - This illuminates when a radar with a conical scanning type radar is detected. This is usually indicative of an all weather fighter.
 

@@ -29,7 +29,7 @@ The forward camera is a Type N-9, identical to the Type N-9 that is mounted on t
 
 ### DBM-4C Aft Camera Settings
 
-The aft camera is a Type DBM-4C that is an electrically driven, 16 mm internally loaded reel type camera. It has a 17 to 68 mm variable focal-length lens. The aft carnera mount is adjustable to permit variations in elevation from zero (straight aft) to 25 degrees down and from 45 to 60 degrees down. Camera operation is completely automatic and is initiated by pressing the trigger to the first and/or second detent, or pressing the bomb button. There are no other wing camera pod system cockpit controls. Adjustment for ejevation, light conditions, frame speed, lens aperture, and camera overrun time are preset in the pod before flight.
+The aft camera is a Type DBM-4C that is an electrically driven, 16 mm internally loaded reel type camera. It has a 17 to 68 mm variable focal-length lens. The aft camera mount is adjustable to permit variations in elevation from zero (straight aft) to 25 degrees down and from 45 to 60 degrees down. Camera operation is completely automatic and is initiated by pressing the trigger to the first and/or second detent, or pressing the bomb button. There are no other wing camera pod system cockpit controls. Adjustment for elevation, light conditions, frame speed, lens aperture, and camera overrun time are preset in the pod before flight.
 
 ## Normal Operation
 

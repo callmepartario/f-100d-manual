@@ -11,7 +11,7 @@ inboard out of the AFTERBURNER range.
     shuttle valve in the engine-driven
     fuel pump unit, so that the fuel flow to
     the afterburner spray bars is shut off and
-    the exhaust nozzie closes.
+    the exhaust nozzle closes.
 
 2. Overheat-warning light — Check light OUT. If the
 engine burner compartment overheat-warning light was not

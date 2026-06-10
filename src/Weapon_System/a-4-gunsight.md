@@ -83,7 +83,7 @@ There are three options rocket, gun, bomb.
 | Rocket | fixed 850     | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + Depression Angle
 | Bomb   | fixed 850     | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + 10 degrees - used with [automatic bombing mode](#bomb-air-to-ground-automatic)
 
-If the [radar reject button](#radar-reject-button) is depressed this switch automatically moves to the gun postion.
+If the [radar reject button](#radar-reject-button) is depressed this switch automatically moves to the gun position.
 
 #### 2. Sight Depression
 
@@ -119,7 +119,7 @@ The range can be validated in radar ranging or calculated in manual ranging mode
 
 #### Gunnery
 
-In order to achieve accurate air-to-air gunnery the sight must be allowed to stabilise. The sight must be kept on the target for 1 - 2 seconds. This allows the gyro to settle on the correct solution for the current attack geometry, firing before the sight is stabilised will result in a miss.
+In order to achieve accurate air-to-air gunnery the sight must be allowed to stabilize. The sight must be kept on the target for 1 - 2 seconds. This allows the gyro to settle on the correct solution for the current attack geometry, firing before the sight is stabilized will result in a miss.
 
 ### Rocket (Air-to-Ground Manual)
 
