@@ -1,7 +1,7 @@
 
-## Takeoff
+# Takeoff
 
-### Normal Takeoff
+## Normal Takeoff
 !!! note
     Takeoff at Military Thrust is not recommended.
 
@@ -21,5 +21,5 @@
 6. Takeoff. Maintain proper takeoff pitch attitude after lift off until proper airspeed is obtained as to prevent settling.
 
 
-### Crosswind Takeoff
+## Crosswind Takeoff
 Execute a normal takeoff. Application of rudder pressure after rotation will be needed to keep the airplane aligned with the runway. Counter drift at lift off by lowering the upwind wing.  Takeoff speeds may need to be increased in crosswind or gusty conditions.

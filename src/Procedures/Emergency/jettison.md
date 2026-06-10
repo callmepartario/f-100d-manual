@@ -1,8 +1,8 @@
 
-## Jettison of External Load
+# Jettison of External Load
 
 
-### External Load Jettison (Retaining Special Store)
+## External Load Jettison (Retaining Special Store)
 All external loads, except the special weapon, can be
 jettisoned electrically by use of the external load emergency
 jettison button. If electrical power is not available
@@ -42,7 +42,7 @@ at a time at intervals of one second or more.
     pylons are not released by the auxiliary
     release buttons.
 
-### External Load Jettison (Releasing Special Store)
+## External Load Jettison (Releasing Special Store)
 All external loads, including the special store, can be
 jettisoned electrically by use of the special store jettison
 and the external load jettison systems. If electrical power
@@ -82,7 +82,7 @@ at a time at intervals of one second or more.
     since they do not require the full force
     of the ejector cartridge for release.
 
-### External Load Jettison (No Special Store)
+## External Load Jettison (No Special Store)
 Certain conventional stores or pylons require actuation of
 the special store unlock handle. However, in extreme emergencies which
 require jettisoning of all external loads, there would not
@@ -122,7 +122,7 @@ at a time at intervals of one second or more.
     since they do not require the full force
     of the ejector cartridge for release.
 
-### Jettison of External Load With Landing Gear Extended
+## Jettison of External Load With Landing Gear Extended
 Results of a computerized study revealed the following conditions
 are encountered when cxternal stores are jettisoned
 with the landing gear extended. The study did not consider

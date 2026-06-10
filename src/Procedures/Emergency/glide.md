@@ -1,7 +1,7 @@
 
 <script src="../../hatch.js"></script>
 
-## Recommended Glide
+# Recommended Glide
 For glide distances with a windmilling or frozen engine, the recommended glide speed is 220 KIAS for a clean airplane, with landing gear and flaps up and speed brake in. At 220 KIAS the glide ratio is 11 to 1, for example, every 10,000 ft of altitude loss the airplane glides 18 NM.
 
 The glide ratio and glide distances of the airplane without drop tanks but with landing gear down are about half those obtainable with the gear up.

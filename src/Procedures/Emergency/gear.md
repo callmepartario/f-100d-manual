@@ -1,9 +1,9 @@
 
 <script src="../../hatch.js"></script>
 
-## Landing Gear Emergency Operation
+# Landing Gear Emergency Operation
 
-### Landing Gear Unsafe Indications
+## Landing Gear Unsafe Indications
 If an unsafe gear indication exists after moving the gear
 handle down, recycle the gear. If an unsafe condition still
 exists, use the landing gear emergency lowering procedures. Attempt to obtain a positive confirmation
@@ -12,7 +12,7 @@ gear appears to be down and locked, make normal landing
 and stop straight ahead. Do not taxi until gear ground
 safety pins have been installed.
 
-### Landing Gear Emergency Lowering
+## Landing Gear Emergency Lowering
 1. Airspeed - BETWEEN 230 and 180 KIAS. Reduce airspeed to between 230 and 180 KIAS. Otherwise, air loads may hold gear doors closed. Below 180 KIAS, gear may not lock down.
 2. Landing gear handle - DOWN.
 3. Landing gear emergency handle - PULL.
@@ -28,7 +28,7 @@ safety pins have been installed.
     !!! caution
         Do not pull G in attempt to aid in locking gear down, as use of G increases landing gear lowering time and may cause damage to gear mechanism.
 
-### Landing With Any One Gear Up or Unlocked
+## Landing With Any One Gear Up or Unlocked
 !!! note
     If either or both main landing gear cannot
     be locked down, an approach end arrestment
@@ -71,7 +71,7 @@ while control is available.
         Battery switch must be ON, if nose wheel
         steering or antiskid is required.
 
-### Main Gear Up or Belly Landing (Prepared Surface Only)
+## Main Gear Up or Belly Landing (Prepared Surface Only)
 !!! note
     If either or both main landing gear cannot
     be locked down, an approach end arrestment
@@ -114,7 +114,7 @@ steering if nose gear is extended,
         Battery switch must be ON, if nose wheel
         steering or antiskid is required.
 
-### Landing on Unprepared Surfaces
+## Landing on Unprepared Surfaces
 Landings on unprepared surfaces are not recommended.
 However, if an emergency landing on an unprepared surface is unavoidable, it should be made with as many
 landing gear down as possible. Investigation has shown

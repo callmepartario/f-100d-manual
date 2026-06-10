@@ -1,5 +1,5 @@
 
-## Preflight Check
+# Preflight Check
 Once in the takeoff area:
 
 1. Hydraulic pressure gauge selector switch - UTILITY.

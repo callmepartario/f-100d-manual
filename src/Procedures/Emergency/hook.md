@@ -1,5 +1,5 @@
 
-## Landing With Arresting Hook Extended
+# Landing With Arresting Hook Extended
 
 If the arresting hook is inadvertently released in flight, it
 will not introduce any problem while airborne, and a safe

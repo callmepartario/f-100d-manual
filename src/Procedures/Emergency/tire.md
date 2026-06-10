@@ -1,5 +1,5 @@
 
-## Tire Failure
+# Tire Failure
 
 !!! note
     Avoid extreme rudder pedal deflections
@@ -8,7 +8,7 @@
     or skip sideways, and steering effectiveness
     will be lost.
 
-### Landing with Main Gear Tire Failure, or Failure During Landing
+## Landing with Main Gear Tire Failure, or Failure During Landing
 When landing with a flat main gear tire, lower gear in the
 normal manner and proceed as follows:
 1. ANTISKID SWITCH — OFF.
@@ -27,7 +27,7 @@ straighter with both main gear tires blown, but it is very
 difficult to turn under this condition. Braking efficiency
 is greatly reduced with both main gear tires blown.
 
-### Landing with Nose Gear Tire Failure
+## Landing with Nose Gear Tire Failure
 When landing is to be made with flat nose gear tire, lower
 gear in the normal manner and proceed as follows:
 1. Normal touchdown.

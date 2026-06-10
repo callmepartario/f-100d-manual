@@ -1,5 +1,5 @@
 
-## Afterburner Failure
+# Afterburner Failure
 If loss of afterburner occurs during flight, proceed as
 follows:
 

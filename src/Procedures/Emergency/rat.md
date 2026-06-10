@@ -1,5 +1,5 @@
 
-## Ram-Air Turbine Doors Open
+# Ram-Air Turbine Doors Open
 If the ram-air turbine (RAT) inlet and exhaust outlet doors
 open in flight (as indicated by an audible warning in the
 headset and illumination of the warning light in the landing

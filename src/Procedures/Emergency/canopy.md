@@ -1,9 +1,9 @@
 
 <script src="../../hatch.js"></script>
 
-## Canopy
+# Canopy
 
-### Canopy Jettison
+## Canopy Jettison
 During an emergency when the canopy must be jettisoned,
 but ejection is not contemplated, the canopy alternate
 emergency jettison handle must be used.

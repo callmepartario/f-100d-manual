@@ -1,7 +1,7 @@
 
 <script src="../../hatch.js"></script>
 
-## AC Generator
+# AC Generator
 Any actual generator failure or generator over-voltage
 causes the generator to be removed from the ac system
 until the condition is corrected. Failure of the ac
@@ -20,7 +20,7 @@ power is restored to these busses, the instrument ac
 power-off caution light goes out. There is no alternate
 means of powering the main 3-phase bus.
 
-### AC Generator RESET
+## AC Generator RESET
 If the ac generator fails, try to return the generator to
 service as follows:
 

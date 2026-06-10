@@ -1,5 +1,5 @@
 
-## Descent
+# Descent
 
 In order to decrease the possibility of canopy fogging, the canopy and windshield defrosting systems should be operated at the highest flow possible throughout the flight. Sufficient flow will preheat the canopy to keep the glass temperature above the cockpit dew point. Preheating is necessary as there is not enough time during rapid descents to heat the canopy. Maintain engine speed above 83% rpm.
 

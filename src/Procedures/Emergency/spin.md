@@ -1,5 +1,5 @@
 
-## Spin Recovery
+# Spin Recovery
 
 If a spin is inadvertently entered, proceed as follows:
 

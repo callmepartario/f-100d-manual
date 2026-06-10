@@ -1,7 +1,7 @@
 
-## Startup
+# Startup
 
-### Pneumatic Start
+## Pneumatic Start
 
 1. Starter and ignition button - Press momentarily.
 2. External air - APPLY. 
@@ -61,7 +61,7 @@ instruments for proper indication.
         momentarily to shut down the starter and
         de-energize the ignition circuit.
 
-### Cartride Start
+## Cartride Start
     
 !!! note
     The minimum interval between cartridge

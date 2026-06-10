@@ -1,7 +1,7 @@
 
-## Heat and Vent Emergency
+# Heat and Vent Emergency
 
-### Emergency Depressurization (Intentional)
+## Emergency Depressurization (Intentional)
 
 1. Oxygen — 100%.
 2. Descend to 25,000 feet or below, if circumstances
@@ -36,7 +36,7 @@ ram-air lever — CLOSED, if no airflow or pressurization is necessary.
         “ other airplanes), to permit normal operation
         of the pressurization system.
 
-### Emergency Depressurization (Unintentional)
+## Emergency Depressurization (Unintentional)
 
 If sudden depressurization occurs because of a sudden
 stoppage of airflow to the cockpit, proceed as follows:

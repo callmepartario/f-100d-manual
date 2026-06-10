@@ -1,7 +1,7 @@
 
 <script src="../../hatch.js"></script>
 
-## Ejection
+# Ejection
 The following information should be observed, when
 ejection must be accomplished:
 
@@ -28,7 +28,7 @@ the parachute is eliminated. This would require the parachute
 to be opened by use of the parachute arming lanyard ©
 or the ripcord handle.
 
-### Low Altitude Ejection
+## Low Altitude Ejection
 During any low-altitude ejection, the chances for successful
 ejection can be greatly increased by zooming the airplane
 (if airspeed permits). Ejection should be accomplished
