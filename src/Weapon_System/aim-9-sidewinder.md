@@ -12,7 +12,7 @@ The missile generates a tone based on received infrared radiation into its seeke
 
 ### Sidewinder Types
 
-The F-100D historically carried 3 different variants of the AIM-9 sidewinder listed below (although later variants are backwards compatible).
+The F-100D historically carried 3 different variants of the AIM-9 sidewinder listed below (although some later variants are backwards compatible and the L,M variants are compatible with minor rail modifications that were made to other aircraft in the 90s).
 
 #### AIM-9B
 

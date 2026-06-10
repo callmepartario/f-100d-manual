@@ -79,7 +79,7 @@ To assist in understanding the AWRS, below a few examples are shown. Each exampl
 Bombs/rockets will drop in order of priority alternating sides if two valid pylons of equal priority exist. The further out from the centre the higher the priority the pylon has. This means the outer wing pylons have the highest priority and the inner wing pylons the lowest. The AWRS does not consider any pylons which are not active: either because they do not have the correct weapon type. Once a pylon is empty it is no longer considered valid.
 
 !!! note
-    **Rockets pods cannot send an empty signal** so once the outer rocket pods are empty the AWRS will not automatically step to the inner rocket pods as it still assumes they are valid. To use the inner rocket pods either Ripple/Step Salvo can be used instead.
+    **Rockets/dispenser pods cannot send an empty signal** so once the outer rocket/dispenser pods are empty the AWRS will not automatically step to the inner rocket/dispenser pods as it still assumes they are valid. To use the inner rocket/dispenser pods either Ripple/Step Salvo can be used instead.
 
 !!! warning
     **[Station Release Selection Switches](#station-release-selection-switches) do not effect the Aircraft Weapons Release System pylon validity. These switches simply break the circuit between the Aircraft Weapons Release System and the pylon circuitry. This has the unintended side effect of causing the Aircraft Weapons Release System to get stuck if any of these pylons are set to OFF.**
