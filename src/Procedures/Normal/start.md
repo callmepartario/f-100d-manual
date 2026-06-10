@@ -62,19 +62,20 @@ instruments for proper indication.
         de-energize the ignition circuit.
 
 ### Cartride Start
-    !!! note
-        The minimum interval between cartridge
-        starts is 5 minutes; however, no more than two cartridge starts can be made in
-        any 60-minute period, regardless of the
-        interval between starts. Perform one
-        pneumatic start for every four cartridge
-        starts to assist in removing cartridge
-        residue from the starter.
+    
+!!! note
+    The minimum interval between cartridge
+    starts is 5 minutes; however, no more than two cartridge starts can be made in
+    any 60-minute period, regardless of the
+    interval between starts. Perform one
+    pneumatic start for every four cartridge
+    starts to assist in removing cartridge
+    residue from the starter.
 
-    !!! note
-        If external dc power is not available, place
-        radio switch at OFF until start is
-        completed.
+!!! note
+    If external dc power is not available, place
+    radio switch at OFF until start is
+    completed.
 
 1. Starter and ignition button — Press momentarily.
 

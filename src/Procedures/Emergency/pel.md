@@ -28,8 +28,8 @@ base or final approach.
 | 6.   | Gear - DOWN. |
 | 7.   | Airspeed - 220 KIAS. Hold a constant speed of 220 KIAS in the pattern until on final. Fly a pattern. Varying flight path to make key points. Aim for one third point of runway. |
 
-    !!! warning
-        Avoid excess use of controls. Especially ailerons, as airplane control is marginal because of reduced hydraulic flow.
+!!! warning
+    Avoid excess use of controls. Especially ailerons, as airplane control is marginal because of reduced hydraulic flow.
 
 8. Airspeed - 200 KIAS. Hold pattern speed through final turn, playing the turn "long" or "short", for accurate touchdown. Reduce airspeed to 200 KIAS when straight in on final and maintain into flare.
 
