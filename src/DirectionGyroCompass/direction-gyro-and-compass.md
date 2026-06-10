@@ -58,11 +58,11 @@ A thermal relay is incorporated into the slaving circuit to control the fast-sla
 
 ### Remote Compass Transmitter (J-4 Compass)
 
-The remote compass is a magnetic field sensing device which detects the current magnetic north relative to the aircraft heading. As described [above](#direction-gyro) this signal on average will give an accurate indication of magnetic north and as such can be used to slowly adjust (slave) the direction gyro towards magnetic north if it has incured any errors.
+The remote compass is a magnetic field sensing device which detects the current magnetic north relative to the aircraft heading. As described [above](#direction-gyro) this signal on average will give an accurate indication of magnetic north and as such can be used to slowly adjust (slave) the direction gyro towards magnetic north if it has incurred any errors.
 
 The remote compass is pendulously suspended in fluid to damp excess movement. The remote compass pendulum is limited to 30° max angle in any direction. The result is that under normal operation the pendulum will find the level and give an accurate indication of the magnetic north.
 
-Under turning, acceleration or pitch attitudes exceeding ±30° the pendulum will be displaced from the correct value leading to erroneous heading indications for magnetic north. These errors can be observed by looking at the [annuciator window](#annunciator) to see how the measured error swings as the aircraft maneuvers.
+Under turning, acceleration or pitch attitudes exceeding ±30° the pendulum will be displaced from the correct value leading to erroneous heading indications for magnetic north. These errors can be observed by looking at the [annunciator window](#annunciator) to see how the measured error swings as the aircraft maneuvers.
 
 ## Controls
 
@@ -101,7 +101,7 @@ The latitude correction knob provides a manual latitude input to the gyro system
 
 ### Hemisphere Switch
 
-The hemisphere switch is set by the ground crew and is not accessable to the pilot.
+The hemisphere switch is set by the ground crew and is not accessible to the pilot.
 
 ## Normal Operation
 
@@ -109,10 +109,10 @@ The hemisphere switch is set by the ground crew and is not accessable to the pil
 
 2. Turn the [function selector switch](#function-selector-switch) to **MAG** for normal, slaved operation.
 
-3. Maintain straight and level flight for at least 15 seconds to allow the remore compass transmitter and gyro to stabilize.
+3. Maintain straight and level flight for at least 15 seconds to allow the remote compass transmitter and gyro to stabilize.
 
-4. If the heading indication is incorrect, rotate the [syncronizer switch](#synchronizer-control-knob) in the direction indicated by the [annunciator](#annunciator) until the heading pointer aligns with the magnetic heading.
+4. If the heading indication is incorrect, rotate the [synchronizer switch](#synchronizer-control-knob) in the direction indicated by the [annunciator](#annunciator) until the heading pointer aligns with the magnetic heading.
 
 5. Adjust the [latitude correction knob](#latitude-correction-knob) to the aircraft's current latitude to minimize direction gyro drift.
 
-6. If switching between **MAG** and **DG** allow 2 minutes to elapse before returning the switch to **MAG** to ensure the thermal relay cools and the flast-slave cycle can operate correctly.
+6. If switching between **MAG** and **DG** allow 2 minutes to elapse before returning the switch to **MAG** to ensure the thermal relay cools and the fast-slave cycle can operate correctly.

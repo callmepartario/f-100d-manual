@@ -30,7 +30,7 @@ should be taken to prevent flameout:
 keeping the aircraft loading as near as possible to 1G. Avoid
 steep (20 degrees or more) nose-down attitudes.
 4. Land as soon as practical.
-With fucl flows below 4000 pounds per hour, Military
+With fuel flows below 4000 pounds per hour, Military
 Thrust operation can be maintained above 25,000 feet
 with the most critical single pump failure, even though
 the forward tank gage approaches or indicates zero, provided

@@ -61,7 +61,7 @@ instruments for proper indication.
         momentarily to shut down the starter and
         de-energize the ignition circuit.
 
-### Cartride Start
+### Cartridge Start
     
 !!! note
     The minimum interval between cartridge

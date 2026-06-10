@@ -5,7 +5,7 @@ There is no emergency utility hydraulic system. If the
 utility hydraulic system fails, the speed brake, and nose
 wheel steering are inoperative. However, emergency
 accumulators provide pressure for nose gear lowering,
-wheel braking, and wing flap lowering. An accumuiator
+wheel braking, and wing flap lowering. An accumulator
 also supplies pressure, if the utility system fails, to open
 the air inlet-outlet doors for operation of the ram-air
 turbine-driven flight control emergency hydraulic pump.
@@ -41,7 +41,7 @@ burn fuel down to normal landing weight.
 3. Land as soon as practical.
 4. Landing gear handle - DOWN.
 5. Landing gear emergency lowering handle — Pull.
-6. Wing flap handie - DOWN.
+6. Wing flap handle - DOWN.
 7. Wing flap emergency switch - EMERGENCY DOWN.
 If wing flap actuation is not obvious, immediately place
 wing flap emergency switch to EMERGENCY DOWN.

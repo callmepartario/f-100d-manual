@@ -38,7 +38,7 @@ The selected number provides the AWRS with the quantity of release pulses in rip
 
 #### Release Interval Switch
 
-The release interval switch selects the time interval in miliseconds between subsequent pulses from the AWRS. The release interval can be multiplied by ten using the [Multiplier Switch](#multiplier-switch-x10)
+The release interval switch selects the time interval in milliseconds between subsequent pulses from the AWRS. The release interval can be multiplied by ten using the [Multiplier Switch](#multiplier-switch-x10)
 
 #### Multiplier Switch (x10)
 

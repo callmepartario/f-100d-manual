@@ -24,17 +24,17 @@ At the top of the radio panel, just below the four frequency display windows, ar
 
 ### Manual-Preset-Guard Sliding Selector
 
-The sliding selector controls the method of command radio frequency selection. It is operated by sliding the control through a limited arc across the face of the panel. This control has three positions, **MANUAL**, **PRESET**, and **GUARD**, and is arranged so that when it is in any one position, the other two positions are masked by a semitransparant green glass.
+The sliding selector controls the method of command radio frequency selection. It is operated by sliding the control through a limited arc across the face of the panel. This control has three positions, **MANUAL**, **PRESET**, and **GUARD**, and is arranged so that when it is in any one position, the other two positions are masked by a semitransparent green glass.
 
 | Selection  | Description |
 |------------|-------------|
-| **MANUAL** | The preset channel is deactivated and a mask is removed from in front of the four small windows acress the top of the panel, revealing the numerals that make up an operating frequency set by the [frequency knobs](#frequency-knobs). |
+| **MANUAL** | The preset channel is deactivated and a mask is removed from in front of the four small windows across the top of the panel, revealing the numerals that make up an operating frequency set by the [frequency knobs](#frequency-knobs). |
 | **PRESET** | Masks the 4 small windows above the [frequency knobs](#frequency-knobs) and deactivates the manually selected frequency. This activates the [20 preset channels](#default-preset-channels) controlled by the channel selector switch. |
-| **GUARD**  | Automatically tunes the transmitter and main reciever to the default guard frequency 243.0 MHz. |
+| **GUARD**  | Automatically tunes the transmitter and main receiver to the default guard frequency 243.0 MHz. |
 
 ### Volume Control
 
-The volume control regulates the sound level of the signal being heard in the headphones from both command recivers. Adequate control of volume is provided, but the volume may not be reduced below a fixed level.
+The volume control regulates the sound level of the signal being heard in the headphones from both command receivers. Adequate control of volume is provided, but the volume may not be reduced below a fixed level.
 
 ### Preset Channel Selector Switch
 
@@ -54,7 +54,7 @@ Rotating the command radio function switch from **OFF** turns the command radio 
 
 ### Tone Button
 
-When the command radio is operating, a continuous tone signal may be transmitted by pressing the tone button. This occures on the frequency that is set on the transmitter, and it interrupts reception. A side tone is audible in the headphones while the button is depressed. This feature may be used for direction-finding operations in conjunction with other airplanes and ground stations.
+When the command radio is operating, a continuous tone signal may be transmitted by pressing the tone button. This occurs on the frequency that is set on the transmitter, and it interrupts reception. A side tone is audible in the headphones while the button is depressed. This feature may be used for direction-finding operations in conjunction with other airplanes and ground stations.
 
 ### Frequency Card
 
@@ -119,4 +119,4 @@ electrical power is available to complete selection.
 
 ### Radio Not Operating
 
-In the case of apparent failure of command radio, attempt operation in alternate positions of [sliding selector control](#manual-preset-guard-sliding-selector) and/or alternate positions of [function switch](#function-switch). Turn equipment off for several minutes; then turn [function switch](#function-switch) to type of operation desired. If the protective relay in the tuning mechanism was responsible, this action will restore operation. Check circuitbreaker panel for tripped condition of the AN/AIC-10 amplifier.
+In the case of apparent failure of command radio, attempt operation in alternate positions of [sliding selector control](#manual-preset-guard-sliding-selector) and/or alternate positions of [function switch](#function-switch). Turn equipment off for several minutes; then turn [function switch](#function-switch) to type of operation desired. If the protective relay in the tuning mechanism was responsible, this action will restore operation. Check circuit breaker panel for tripped condition of the AN/AIC-10 amplifier.

@@ -29,7 +29,7 @@ The three-position indicator light dimmer switch controls the brightness of the 
 | D.C. GENERATOR OFF | Caution | DC generator is off the line | |
 | EQUIP AIR OVERHEAT | Caution | The aft electronic equipment compartment has overheated\n Indicates possible failure of the equipment cooling or compartment turbine, failure of the turbine control system, or the ram air is not cooling the compartment | |
 | SEL. DROP TANK EMPTY | Indicator | 450 gallon drop tanks are empty ** CHECK **| |
-| AIR REFUEING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
+| AIR REFUELING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
 
 ## Indicator Light Test Circuit
 The indicator light test circuit is a means of merely testing the integrity and operation of the bulbs. All indicator, caution, and warning lights will illuminate simultaneously to exclude the engine compartment fire "FIRE ENG COMP" and overheat "OVERHEAT ENG BURN" warning lights, of which have a separate test circuit. All lights in the test circuit are powered by the primary bus. 

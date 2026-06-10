@@ -37,7 +37,7 @@ This determines the release type for air-to-ground weapons. The sight and radar 
 | MANUAL            | Sight and Radar are Powered. Bomb-button is energized and can send release pulses to either the [Aircraft Weapons Release System](./aircraft-weapons-release-system.md) if on, otherwise the [Basic Armament Control Circuitry](./aircraft-weapons-release-system.md#basic-armament-control-circuitry). This mode directly sends pulses to release weapons.
 | LABS              | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS](./low-altitude-bombing-system.md) for the normal LABS mode (LOFT).
 | LABS ALT          | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS](./low-altitude-bombing-system.md) for the alternate LABS mode (Over-the-Shoulder).
-| LADD              | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS](./low-altitude-bombing-system.md) for the low altitude drouge delivery LABS mode.
+| LADD              | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS](./low-altitude-bombing-system.md) for the low altitude drogue delivery LABS mode.
 
 ### Bomb Arm Switch
 
@@ -64,10 +64,10 @@ This panel stores the weapon type information mounted on each pylon as a 7 posit
 ![Pylon Loading Control Panel](./img/pylon_loading_panel.png)
 
 1. Left Inboard Weapon Setting
-2. Left Intermidiate Weapon Setting
+2. Left Intermediate Weapon Setting
 3. Left Outboard Weapon Setting
 4. Right Inboard Weapon Setting
-5. Right Intermidiate Weapon Setting
+5. Right Intermediate Weapon Setting
 6. Right Outboard Weapon Setting
 7. Pylon Loading Control Panel Latch and Cover
 

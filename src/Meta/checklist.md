@@ -52,7 +52,7 @@ Advance checklist command is used to manually check items which are not automati
 
 ![checked-items](./img/checked-items.png)
 
-## Customising the Checklist
+## Customizing the Checklist
 
 The checklist structure is made from a json file listing the procedures and categories. When a `checklist.json` is provided in `C:/users/<you username>/Saved Games/DCS F-100D` this custom checklist will be used. As a starting point you can copy the built-in checklist which is found `DCS World/Mods/Aircraft/f-100d/checklist/default.json`.
 
@@ -86,7 +86,7 @@ There can be any number of categories, any number of procedures in each category
 {
     "text" : "Item to be set",
     "value" : "State pilot should set: On or Off etc",
-    "priority" : 1, // (optional) 1,2,3 for mandatory, abbreviated, realistic respectively. With this key/value ommitted the priority will default to 1.
+    "priority" : 1, // (optional) 1,2,3 for mandatory, abbreviated, realistic respectively. With this key/value omitted the priority will default to 1.
     "clickable" : "PNT_FLAP_SELECT", // (optional) the clickable point for show me, for how to find these see below.
     "condition" : 0, // (optional) either a number or string, see the conditions section
     "once" : true // (optional) applies to only conditions see conditions section
