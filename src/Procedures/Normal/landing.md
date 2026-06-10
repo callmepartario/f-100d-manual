@@ -31,7 +31,7 @@ On approach:
 7. Speed brake - UP.
 
 ### Normal Landing Technique
-Gear should be lowered below 230 KIAS to avoid damage. As an example with a 24,000 pound airplane, the pattern should be flown 20 KIAS above the final approach speed. An rpm of 83%-87% will be required. Arrive on final at 165 KIAS, 300 ft AGL, and one nautical mile from the runway.  This will result in a glide path of $2\frac{1}{2}$ and 3 degrees with an impact point just short of the runway. Small adjustments of airspeed can be corrected with pitch and small adjustments in descent rate can be corrected with throttle. However, larger adjustments must be made with coordinated use of both throttle and speed brakes. To achieve a precise touchdown point in the flare, it is imperative to maintain stabilized descent rate and airspeed. Reduce thrust the thrust as necessary prior to touchdown.
+Gear should be lowered below 230 KIAS to avoid damage. As an example with a 24,000 pound airplane, the pattern should be flown 20 KIAS above the final approach speed. An rpm of 83%-87% will be required. Arrive on final at 165 KIAS, 300 ft AGL, and one nautical mile from the runway.  This will result in a glide path of between 2.5 and 3 degrees with an impact point just short of the runway. Small adjustments of airspeed can be corrected with pitch and small adjustments in descent rate can be corrected with throttle. However, larger adjustments must be made with coordinated use of both throttle and speed brakes. To achieve a precise touchdown point in the flare, it is imperative to maintain stabilized descent rate and airspeed. Reduce thrust the thrust as necessary prior to touchdown.
 
 !!! note
     10 knots fast equates to approximately an additional 1000 feet of ground roll.
@@ -81,7 +81,7 @@ Minimum-run landings should be preformed in the following manner: touch down at 
 On a slippery runway, braking action will very immensely. Use anti-skid and aerodynamic braking to the max extent possible. The drag chute should be deployed while aerodynamically braking. Rudder will be the primary means of directional control as nose wheel steering and braking may be ineffective. Rudder control will be available down to 60 KIAS. 
 
 ### Landing In Crosswinds
-When landing in crosswinds, approach and touchdown speeds should be increased. Increase speeds by $\frac{1}{2}$ the crosswind velocity component plus $\frac{1}{2}$ the gust factor. For example, a 45 degree off runway crosswind of 10 knots gusting 20 knots, approach speed should be increased by 10 knots. 
+When landing in crosswinds, approach and touchdown speeds should be increased. Increase speeds by 1/2 the crosswind velocity component plus 1/2 the gust factor. For example, a 45 degree off runway crosswind of 10 knots gusting 20 knots, approach speed should be increased by 10 knots. 
 
 On final, crab into the wind or forward slip to align the fuselage with the runway. If crabbing, perform a forward slip before touchdown. If the crosswind component exceeds 25 knots, perform a no-flap landing. At touchdown, lower the nose wheel and engage nose wheel steering. A higher tendency of weather vaning into the wind exists when the drag chute is deployed. Thus, careful consideration that the nose wheel steering is operating before deploying the drag chute is essential. If directional control is lost, the drag chute must be jettisoned. 
 
