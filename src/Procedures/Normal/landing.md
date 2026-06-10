@@ -78,7 +78,7 @@ Minimum-run landings should be preformed in the following manner: touch down at 
     With anti-skid on, if full brakes are used until a complete stop, abrupt pitching may results. If this is the case, decrease pedal pressure.
 
 ### Slippery Runway Landing
-On a slippery runway, braking action will very immensely. Use anti-skid and aerodynamic braking to the max extent possible. The drag chute should be deployed while aerodynamically braking. Rudder will be the primary means of directional control as nose wheel steering and braking may be ineffective. Rudder control will be available down to 60 KIAS. 
+On a slippery runway, braking action will vary immensely. Use anti-skid and aerodynamic braking to the max extent possible. The drag chute should be deployed while aerodynamically braking. Rudder will be the primary means of directional control as nose wheel steering and braking may be ineffective. Rudder control will be available down to 60 KIAS. 
 
 ### Landing In Crosswinds
 When landing in crosswinds, approach and touchdown speeds should be increased. Increase speeds by 1/2 the crosswind velocity component plus 1/2 the gust factor. For example, a 45 degree off runway crosswind of 10 knots gusting 20 knots, approach speed should be increased by 10 knots. 
