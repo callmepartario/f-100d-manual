@@ -89,4 +89,3 @@ Below is the priority of each station with a lower number indicating higher prio
 | Left Outer  | Left Middle | Left Inner | Right Inner | Right Middle | Right Outer |
 |-------------|-------------|------------|-------------|--------------|-------------|
 |  1          | 3           | 5          | 6           | 4            | 2           |
-

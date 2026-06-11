@@ -33,13 +33,13 @@ theme:
 #           icon: material/brightness-7 
 
 
-      #     name: Switch to dark mode
+#           name: Switch to dark mode
 
-      # # Palette toggle for dark mode
-      # - scheme: slate
-      #   toggle:
-      #     icon: material/brightness-4
-      #     name: Switch to light mode
+#      # Palette toggle for dark mode
+#       - scheme: slate
+#         toggle:
+#           icon: material/brightness-4
+#           name: Switch to light mode
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -80,19 +80,17 @@ nav:
         - Fuel: ./Fuel/fuel.md
         - Environmental: ./ECS/ecs.md
         - Oxygen System (MD-1 Oxygen Regulator): ./Oxygen System/oxygen.md
-        - AN/APX-72 IFF: ./APX-72 IFF/iff.md
+        - Lighting Control Panel: ./Lighting System/lighting-control-panel.md
       - Navigation Systems:
         - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md
-        - B-26 Navigation Computer: ./Navigation Computer/navigation-computer.md
+        #- B-26 Navigation Computer: ./Navigation Computer/navigation-computer.md
       - Radio Systems:
         - ARC-34 UHF Command Radio: ./ARC-34 Command Radio/command-radio.md
         - ARA-50 ADF System: ./ARA-50 ADF/adf-radio.md
         - ARN-6 Radio Compass: ./ARN-6 Radio Compass/radio-compass.md
         - ARN-72 TACAN: ./ARN-72 TACAN/tacan.md
-        - Seek Silence System: ./Seek Silence System/seek-silence.md
-      - Lighting Systems:
-        - Indicator and Caution Light Panel: ./Lighting System/indicator-caution-light-panel.md
-        - Lighting Control Panel: ./Lighting System/lighting-control-panel.md
+        - Seek Silence System: ./Seek Silence System/seek-silence.md        
+        - AN/APX-72 IFF: ./APX-72 IFF/iff.md
       - Camera Systems:
         - Gun Camera: ./Gun Camera/gun_camera.md
         - Strike Camera: ./Strike Camera/strike_camera.md
@@ -101,7 +99,7 @@ nav:
       - Weapon Systems:
         - Introduction: ./Weapon_System/introduction.md
         - Armament Control Panels: ./Weapon_System/armament-control-panels.md
-        - Aircraft Weapons Release System: ./Weapon_System/aircraft-weapons-release-system.md
+        - Weapons Release Systems: ./Weapon_System/aircraft-weapons-release-system.md
         - A-4 Gunsight: ./Weapon_System/a-4-gunsight.md
         - Guns: ./Weapon_System/guns.md
         - AIM-9 Sidewinder: ./Weapon_System/aim-9-sidewinder.md

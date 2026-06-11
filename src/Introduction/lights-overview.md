@@ -1,5 +1,5 @@
 # Indicator, Caution, and Warning Lights
-Indicator, caution, and warning lights are placed throughout the cockpit in order to notify the pilot of the status of systems. Each category has a different meaning. Nearly all aircraft cockpit lights are powered by the primary bus.**** CHECK THIS ***
+Indicator, caution, and warning lights are placed throughout the cockpit in order to notify the pilot of the status of systems. Each category has a different meaning. Nearly all aircraft cockpit lights are powered by the primary bus.
 
 | Category | Meaning | Color |
 |----------|---------|-------|
@@ -28,7 +28,7 @@ The three-position indicator light dimmer switch controls the brightness of the 
 | A.C. GENERATOR OFF | Caution | AC generator is off the line | |
 | D.C. GENERATOR OFF | Caution | DC generator is off the line | |
 | EQUIP AIR OVERHEAT | Caution | The aft electronic equipment compartment has overheated\n Indicates possible failure of the equipment cooling or compartment turbine, failure of the turbine control system, or the ram air is not cooling the compartment | |
-| SEL. DROP TANK EMPTY | Indicator | 450 gallon drop tanks are empty ** CHECK **| |
+| SEL. DROP TANK EMPTY | Indicator | selected drop tanks are empty | |
 | AIR REFUELING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
 
 ## Indicator Light Test Circuit
@@ -46,10 +46,8 @@ The master caution light indicated certain indicator or caution lights have illu
 * AIR REFUELING READY
 * Ignition-on
 * Landing gear warning light
-* Radio control transfer system * DO WE HAVE THIS?*
 
 ## Other
-CHECK THIS IS OUR CONFIGURATION PDF PG 75 top left
 
 | Light | Category | Cause | Procedure |
 |-------|----------|-------|-----------|

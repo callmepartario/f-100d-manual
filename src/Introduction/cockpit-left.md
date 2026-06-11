@@ -12,8 +12,8 @@ This section will cover general items on the left side of the cockpit. More spec
 | 5         | [Spare Lamps](#spare-lamps) |
 | 6         | [Gun Camera Timer](../Gun%20Camera/gun_camera.md) |
 | 7         | [Missile Control Panel](../Weapon_System/aim-9-sidewinder.md#controls) |
-| 8         | [Armament Control Panel](../Weapon_System/aircraft-weapons-release-system.md) |
-| 9         | [External Load Auxiliary Release Button](../Weapon_System/aircraft-weapons-release-system.md#external-load-auxiliary-release-button) |
+| 8         | [Armament Control Panel](../Weapon_System/armament-control-panels.md#armament-selector-panel) |
+| 9         | External Load Auxiliary Release Button |
 | 10        | [Wing Flap Handle](#wing-flap-handle) |
 | 11        | [Flap Emergency Switch](../Hydraulics/hydraulic.md#emergency-flap-switch) |
 | 12        | [Throttle](./stick-and-throttle.md#throttle) |
@@ -24,7 +24,7 @@ This section will cover general items on the left side of the cockpit. More spec
 | 17        | [Landing Gear Control Panel](#landing-gear-control-panel) |
 | 18        | [Arresting Hook Release Button](#arresting-hook-release-button) |
 | 19        | [Canopy Switch](#canopy-switch) |
-| 20        | [LABS Yaw Roll Gyro Check Button](../Weapon_System/low-altitude-bombing-system.md#yaw-roll-gyro-check-button) |
+| 20        | [LABS Yaw Roll Gyro Check Button](../Weapon_System/low-altitude-bombing-system.md#controls-and-indicators) |
 
 ## Anti-G Suit Pressure-Regulating Valve
 
@@ -51,10 +51,10 @@ The Wing Flap Handle is a three position lever that actuates the Flaps. The thre
 | 3         | Special Store Emergency Jettison Button ***INOP*** |
 | 4         | Air Start Switch |
 | 5         | Engine Master Switch |
-| 6         | [Pitch/Yaw Damper Switch] |
+| 6         | Pitch/Yaw Damper Switch |
 | 7         | [Air Refueling Switch](../Fuel/fuel.md#air-to-air-refueling-switch) |
 | 8         | [Drop Tank Fuel Selector](../Fuel/fuel.md#drop-tank-selector-switch) |
-| 9         | [Fuel Regulator Switch] |
+| 9         | Fuel Regulator Switch |
 | 10        | Alternate Rudder Switch |
 | 11        | [Flight Control Hydraulic System Test Switch](../Hydraulics/hydraulic.md#flight-control-hydraulic-system-test-switch) |
 | 12        | Takeoff Trim Button |

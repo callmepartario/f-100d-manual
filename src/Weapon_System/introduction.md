@@ -18,6 +18,6 @@ Air-to-air systems include.
 Air-to-ground systems include.
 
 - [Armament Control Panels](./armament-control-panels.md)
-- [Aircraft Weapon Release System](./aircraft-weapons-release-system.md)
+- [Weapon Release Systems](./aircraft-weapons-release-system.md)
 - [Low Altitude Bombing System (LABS)](./low-altitude-bombing-system.md)
 - [AGM-45 Shrike Missile](./agm-45-shrike.md)

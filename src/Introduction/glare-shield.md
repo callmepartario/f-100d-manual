@@ -22,3 +22,5 @@ The compass card can tilt slightly; however, if the compass is not perfectly lev
 ## Drag Chute Handle
 
 The Drag Chute Handle will deploy the drag chute when pulled. To release the drag chute, simply twist the handle until it's in the vertical position. After the drag chute is release, you can simply stow the handle.
+
+The drag chute will be repacked upon rearming.

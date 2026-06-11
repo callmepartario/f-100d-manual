@@ -3,9 +3,10 @@ Various special options have been added for user quality of life and customizati
 
 These options are located in the xx of DCS World with the DCS: F-100D Super Sabre Selected from the left side module tray.
 
-![special options image](./img/special_options.png)
 
 ## Gameplay
+
+![special options image](./img/special_options-1.png)
 
 ### Cockpit Camera Shake
 The cockpit camera shake can be adjusted on this slider as an overall multiplier to global cockpit camera shake.
@@ -45,6 +46,8 @@ In order to enable dynamic instrument panel gauge positions, check Enable Custom
 
 ## Gun Camera Settings
 
+![special options gun](./img/special_options-2.png)
+
 ### Disable Gun Camera Recording
 Turning the option to off will disable all gun recording and not generate video files.
 
@@ -64,9 +67,11 @@ Adjusts the run time of the gun camera after start delay. Adjust from 2 to 30 se
     Total Camera run time after the release of the trigger is the total of both time interval settings (6 to 63 seconds) including the preset overrun time of 0 to 3 seconds.
 
 !!! warning
-    Cameras will save AVI recordings in "SAVED GAMES/DCS F-100D/GUNSIGHT CAMERA/"
+    Cameras will save AVI recordings in "%userprofile%/Saved Games/DCS F-100D" in the respective folder for the camera.
 
 ## Strike Camera Settings
+
+![special options strike](./img/special_options-3.png)
 
 ### Disable Strike Camera Recording
 Turning the option to off will disable all gun recording and not generate video files.

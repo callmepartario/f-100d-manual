@@ -25,7 +25,7 @@ to reduce the blinding effects of lightning. A standard (Type G-4A) utility ligh
 
 ### Controls
 
-![lighting controls image](./img/lighting-control-panel.png) 
+![lighting controls image](./img/lighting-control-panel-small.png) 
 
 1. [Thunderstorm Lights Rheostat](#thunderstorm-lights-rheostat)
 

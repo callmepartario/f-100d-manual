@@ -60,6 +60,8 @@ When the command radio is operating, a continuous tone signal may be transmitted
 
 ![freqcard](./img/freqcard.png)
 
+This will be populated with the radio presets for this mission.
+
 ## Remote Channel Indicator
 
 ![radio image](./img/remote-channel-indicator.png)
