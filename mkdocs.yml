@@ -78,23 +78,24 @@ nav:
         - Electrical: ./Electrical/electrical.md
         - Hydraulics: ./Hydraulics/hydraulic.md
         - Fuel: ./Fuel/fuel.md
-        - Oxygen System (MD-1 Oxygen Regulator): ./Oxygen System/oxygen.md
-        - AN/APX-72 IFF: ./APX-72 IFF/iff.md
+        - Environmental: ./ECS/ecs.md
+        - Oxygen System (MD-1 Oxygen Regulator): ./Oxygen_System/oxygen.md
+        - AN/APX-72 IFF: ./APX-72_IFF/iff.md
       - Navigation Systems:
         - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md
-        - B-26 Navigation Computer: ./Navigation Computer/navigation-computer.md
+        - B-26 Navigation Computer: ./Navigation_Computer/navigation-computer.md
       - Radio Systems:
-        - ARC-34 UHF Command Radio: ./ARC-34 Command Radio/command-radio.md
-        - ARA-50 ADF System: ./ARA-50 ADF/adf-radio.md
-        - ARN-6 Radio Compass: ./ARN-6 Radio Compass/radio-compass.md
-        - ARN-72 TACAN: ./ARN-72 TACAN/tacan.md
-        - Seek Silence System: ./Seek Silence System/seek-silence.md
+        - ARC-34 UHF Command Radio: ./ARC-34_Command_Radio/command-radio.md
+        - ARA-50 ADF System: ./ARA-50_ADF/adf-radio.md
+        - ARN-6 Radio Compass: ./ARN-6_Radio_Compass/radio-compass.md
+        - ARN-72 TACAN: ./ARN-72_TACAN/tacan.md
+        - Seek Silence System: ./Seek_Silence_System/seek-silence.md
       - Lighting Systems:
-        - Indicator and Caution Light Panel: ./Lighting System/indicator-caution-light-panel.md
-        - Lighting Control Panel: ./Lighting System/lighting-control-panel.md
+        - Indicator and Caution Light Panel: ./Lighting_System/indicator-caution-light-panel.md
+        - Lighting Control Panel: ./Lighting_System/lighting-control-panel.md
       - Camera Systems:
-        - Gun Camera: ./Gun Camera/gun_camera.md
-        - Strike Camera: ./Strike Camera/strike_camera.md
+        - Gun Camera: ./Gun_Camera/gun_camera.md
+        - Strike Camera: ./Strike_Camera/strike_camera.md
       - Defensive Systems:
         - AN/APR-25 RHAW: ./RHAW/RHAW.md
       - Weapon Systems:
