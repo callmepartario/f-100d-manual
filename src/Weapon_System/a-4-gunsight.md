@@ -26,11 +26,11 @@ If this button is depressed the [Sight Selector Switch](#1-sight-selector-switch
 
 The range dial indicates the current target range in feet being used by the sight. The source of this range can either be the radar or manually if the manual range setting is used.
 
-![Range Dial Image](./img/range_dial.png)
+![Range Dial Image](./img/A4_sight_range_dial.png)
 
 ### Radar Range Sweep Knob
 
-This is used to reduce the maximum lock-on distance for the radar to prevent the radar from locking onto undesirable objects.
+The Range Sweep Knob labeled dial 6 below, is found next to the Auxiliary Release Buttons and is used to reduce the maximum lock-on distance for the radar to prevent the radar from locking onto undesirable objects such as the ground or ground objects. During normal operation at altitudes 6000 feet or more above the terrain, the rheostat should be at MAX.
 
 | Range Limit | Setting (feet)
 |-------------|--------
@@ -38,6 +38,16 @@ This is used to reduce the maximum lock-on distance for the radar to prevent the
 | MAX         | 9000
 
 The value linearly changes between the min and max settings.
+
+### Sight Dimmer
+
+The brightness of the sight pipper can be adjusted using the Sight Dimmer rheostat labeled dial 7 below.
+
+### Sight Filament Selector Switch
+
+The primary or secondary filament in the dual-filament sight reticle bulb
+can be selected by the sight filament selector switch labeled 1 in the image below. It
+should be moved to SECONDARY if the primary filament fails. The switch is powered by the secondary bus and the tertiary bus.
 
 ![Radar Range Sweep Knob Image](./img/aux_panel.png)
 
