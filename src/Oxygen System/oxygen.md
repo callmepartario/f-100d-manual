@@ -1,4 +1,4 @@
-# MD-1 Oxygen Regulator
+# Oxygen System (MD-1 Oxygen Regulator)
 
 ## Introduction
 
@@ -6,7 +6,7 @@ The pressure-breathing, diluter-demand oxygen regulator automatically mixes oxyg
 
 ## Controls
 
-![MD-1 Oxygen Regulator](./img/oxygen-regulator.png) <!-- REPLACE THIS IMAGE -->
+![MD-1 Oxygen Regulator](./img/oxygen-regulator.png)
 
 1. [Flow Indicator](#flow-indicator)
 2. [Oxygen Supply Pressure Indicator](#oxygen-supply-pressure-indicator)
@@ -55,3 +55,9 @@ The supply lever is used to turn the regulator **ON** and **OFF**.
 | 10,000                 | Normal 30.2 / 100% 8.6 / Emerg (4.8)   | Normal 24.2 / 100% 6.9 / Emerg (3.8)   | Normal 18.1 / 100% 5.2 / Emerg (2.9)   | Normal 12.1 / 100% 3.4 / Emerg (1.9)   | Normal 6.0 / 100% 1.7 / Emerg (1.0)    | – |
 | 5,000                  | Normal 30.2 / 100% 6.8 / Emerg (3.9)   | Normal 24.2 / 100% 5.4 / Emerg (3.1)   | Normal 18.1 / 100% 4.1 / Emerg (2.3)   | Normal 12.1 / 100% 2.7 / Emerg (1.6)   | Normal 6.0 / 100% 1.4 / Emerg (0.8)    | – |
 | 0                      | Normal 30.2 / 100% 5.5 / Emerg (3.2)   | Normal 24.2 / 100% 4.4 / Emerg (2.6)   | Normal 18.1 / 100% 3.3 / Emerg (1.9)   | Normal 12.1 / 100% 2.2 / Emerg (1.2)   | Normal 6.0 / 100% 1.1 / Emerg (0.7)    | - |
+
+
+## Liquid Oxygen Quantity Gauge
+![MD-1 Oxygen Regulator](./img/loxquantity.png)
+
+The liquid oxygen quantity gauge is located at the top of the right side console and indicates the total quantity of liquid oxygen in liters. The liquid oxygen is stored in an insulated "thermos-bottle" type converter storage tank that is located forward of the cockpit on the right side. 

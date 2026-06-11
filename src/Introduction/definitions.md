@@ -1,3 +1,5 @@
+![banner4](./img/banner4.png)
+
 # Definitions and Abbreviations
 
 Definitions and abbreviations used in the manual are covered here.

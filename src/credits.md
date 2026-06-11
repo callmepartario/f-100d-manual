@@ -1,4 +1,4 @@
-# Credits
+<!-- # Credits
 
 ## Team
 
@@ -62,13 +62,14 @@
 - Gen
 - Joshers
 - randomTOTEN
-- The wireman
+- The Wireman
 - Allie Lemire
 - Carl
 - Corey "Jimmy Chaos" James
 - Erik "Vader" Powell
+-->
 
-
+![banner3](Introduction/img/banner3.png)
 
 # Credits
 
@@ -126,6 +127,19 @@
 | Name | Role |
 |------|------|
 | JJ Kirby | Video Producer |
+
+## Website
+
+| Name | Role |
+|------|------|
+| Ryan Gore | Systems, Web, Digital Infrastructure |
+
+## Flight Sim Expo 2026 Demo Team
+| Name | Role |
+|------|------|
+| Roger "Dreadnaut" Sewell | Demo Team |
+| Ian "Burner" Roberts | Demo Team |
+| Robbie "Carl" Devergillo | Demo Team |
 
 ## Test Team
 

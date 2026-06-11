@@ -5,6 +5,7 @@
 The low altitude bombing system was introduced to assist with nuclear weapons delivery. It helps the pilots follow a pre-determined trajectory to delivery nuclear weapons with delivery profiles to assist with escape from the effects of the blast.
 
 ## Controls and Indicators
+![labs](./img/labs.png)
 
 ### Pullup Light
 
