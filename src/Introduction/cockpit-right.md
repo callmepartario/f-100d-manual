@@ -9,7 +9,7 @@
 | 3         | Navigation Computer |
 | 4         | [Electrical Control Panel](../Electrical/electrical.md) |
 | 5         | [Oxygen Regulator Control Panel](../Oxygen%20System/oxygen.md) |
-| 6         | Liquid Oxygen Quantity Gauge |
+| 6         | [Liquid Oxygen Quantity Gauge](../Oxygen%20System/oxygen.md#Liquid-Oxygen-Quantity-Gauge) |
 | 7         | [IFF/SIF Control Panel](../APX-72%20IFF/iff.md) |
 | 8         | Canopy Alternate Emergency Jettison Handle |
 | 9         | [Radio Compass Control Panel](../ARA-50%20ADF/adf-radio.md) |

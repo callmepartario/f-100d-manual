@@ -78,7 +78,7 @@ nav:
         - Electrical: ./Electrical/electrical.md
         - Hydraulics: ./Hydraulics/hydraulic.md
         - Fuel: ./Fuel/fuel.md
-        - MD-1 Oxygen Regulator: ./Oxygen System/oxygen.md
+        - Oxygen System (MD-1 Oxygen Regulator): ./Oxygen System/oxygen.md
         - AN/APX-72 IFF: ./APX-72 IFF/iff.md
       - Navigation Systems:
         - Direction Gyro and Compass: ./DirectionGyroCompass/direction-gyro-and-compass.md

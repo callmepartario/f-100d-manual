@@ -58,7 +58,7 @@ When the command radio is operating, a continuous tone signal may be transmitted
 
 ### Frequency Card
 
-TODO: THIS WILL BE AN INDICATOR CARD BUT REMAINS TO BEEN SEEN IF WE DO THE PRESET WHEEL UNDER THE COVER
+![freqcard](./img/freqcard.png)
 
 ## Remote Channel Indicator
 

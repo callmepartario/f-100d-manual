@@ -1,7 +1,7 @@
+![radio image](./img/banner1.png)
+
 # F-100D Super Sabre
 
-
-![radio image](./img/banner1.png)
 
 
 ### Welcome Letter
