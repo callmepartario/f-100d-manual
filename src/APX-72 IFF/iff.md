@@ -29,24 +29,24 @@ The AIMS system, which utilizes an AN/APX-72 receiver/transmitter (transponder),
 ### Mode 4 Function Switch
 
 The mode 4 CODE selector has the following positions:
-| Selector Position | Function
-|-------------------|---------
-| A                 | Code A
-| B                 | Code B
-| HOLD              | Provide a means of retaining the mode 4 code for an additional flight (unless intentionally retained, the code is automatically returned to zero when power is removed after landing)
-| ZERO              | Manually zeroize mode 4 code
+| Selection | Function
+|-----------|---------
+| A         | Code A
+| B         | Code B
+| HOLD      | Provide a means of retaining the mode 4 code for an additional flight (unless intentionally retained, the code is automatically returned to zero when power is removed after landing)
+| ZERO      | Manually zeroize mode 4 code
 
 !!! note
     The mode 4 code selector knob must be pulled out to be moved to ZERO.
 
 ### Master Switch
-| Master Switch Position | Function
-|------------------------|---------
-| OFF                    | System off
-| STDBY                  | Powered on, in standby
-| NORM                   | Normal receiver sensetivity
-| LOW                    | Low receiver sensitivity
-| EMER                   | Activates emergency operation.
+| Selection | Function |
+|------------------------|----------|
+| OFF       | System off |
+| STDBY     | Powered on, in standby |
+| NORM      | Normal receiver sensetivity |
+| LOW       | Low receiver sensitivity |
+| EMER      | Activates emergency operation |
 
 !!! note
     The master switch knob must be pulled out to be moved to the EMER position.
@@ -67,11 +67,11 @@ The audio/light switch has been moved from OFF to AUDIO or LIGHT (no audio signa
 
 The mode selection switches M-1, M-2, M-3/A, and M-C have three positions:
 
-| Mode Selection Switch Positions | Function
-|---------------------------------|---------
-| TEST (forward, momentary)       | Initiates a self-test of the mode (provided the airborne test set is installed)
-| ON (center)                     | 
-| OUT (aft)                       | 
+| Selection                 | Description |
+|---------------------------|-------------|
+| TEST (forward, momentary) | Initiates a self-test of the mode (provided the airborne test set is installed) |
+| ON (center)               |  |
+| OUT (aft)                 |  |
 
 ### Monitor-Radiation Test Switch
 
