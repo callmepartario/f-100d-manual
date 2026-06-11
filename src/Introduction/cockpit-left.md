@@ -23,7 +23,7 @@ This section will cover general items on the left side of the cockpit. More spec
 | 16        | Engine and Flight Control Panel |
 | 17        | Landing Gear Control Panel |
 | 18        | Arresting Hook Release Button |
-| 19        | Canopy Switch |
+| 19        | [Canopy Switch] |
 | 20        | [LABS Yaw Roll Gyro Check Button](../Weapon_System/low-altitude-bombing-system.md#yaw-roll-gyro-check-button) |
 
 ## Anti-G Suit Pressure-Regulating Valve
