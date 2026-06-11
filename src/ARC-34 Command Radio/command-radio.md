@@ -6,8 +6,8 @@ The onboard radio is powered by the aircraft’s primary bus, and enables voice 
 
 This radio system employs two receivers:
 
-- A primary receiver responsible for standard communications
-- A guard receiver fixed to a dedicated emergency frequency.
+- Primary receiver (responsible for standard communications)
+- Guard receiver (fixed to a dedicated emergency frequency)
 
 !!! note
   Guard frequency is factory-set and cannot be changed without removing the remote-control unit from the aircraft. When selecting a new frequency, an automatic tuning mechanism synchronizes both the transmitter and receiver, completing the tuning cycle in approximately 4 seconds.
@@ -27,6 +27,7 @@ This radio system employs two receivers:
 ### Frequency Knobs
 
 At the top of the radio panel, just below the four frequency display windows, are four small frequency selector knobs that set the freqency's 100s, 10s, 1s, and 0.1 increments, allowing manual selection of any of the 1,750 available frequencies in the 225.0-399.9 MHz range. 243.0 MHz is reserved as a guard channel.
+<!-- Is there a way to change this in the mission editor? If so are other mentions of 243.0 MHz on this page variable and accounted for? -->
 
 ### Manual-Preset-Guard Sliding Selector
 
@@ -53,7 +54,7 @@ The channel selector switch controls the selection of [20 preset frequencies](#d
 | OFF       | System inoperative |
 | MAIN      | Main receiver audible |
 | BOTH      | Guard and main receivers audible |
-| ADF       | Auutomatic Direction Finding (ADF) is enabled and disconnects the signals from [AN/ARN-6 Radio Compass](../ARN-6%20Radio%20Compass/radio-compass.md) |
+| ADF       | Enables Automatic Direction Finding (ADF), and disconnects signals to the [Radio Magnetic Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro) from the [AN/ARN-6 Radio Compass](../ARN-6%20Radio%20Compass/radio-compass.md) |
 
 ### Tone Button
 
@@ -91,7 +92,7 @@ The remote channel indicator is synchronized to the command radio control panel.
 |-----------|-------------|
 | PRESET    | Two windows display preset command radio channel. |
 | MANUAL    | The four indicator windows display the frequency (in MHz) of the selected channel. |
-| GUARD     | The two center windows show GD.
+| GUARD     | The two center windows display GD. |
 
 ![radio image](./img/remote-channel-indicator.png)
 
