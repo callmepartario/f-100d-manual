@@ -5,93 +5,43 @@ This section will cover general items on the left side of the cockpit. More spec
 
 | Reference | Name |
 |-----------|------|
-| 1         | [Circuit Breaker Panel] |
+| 1         | [Circuit Breaker Panel](../Electrical/electrical.md#electrical-system) |
 | 2         | [Pylon Loading Selector Switches](../Weapon_System/armament-control-panels.md#pylon-loading-control-panel) |
-| 3         | [Anti G Suit Pressure Regulating Valve] |
+| 3         | Anti G Suit Pressure Regulating Valve |
 | 4         | [Speed Brake Emergency Dump Lever](../Hydraulics/hydraulic.md#emergency-speed-brake-dump-lever) |
-| 5         | [Spare Lamps] |
-| 6         | [Gun Camera Timer] |
+| 5         | Spare Lamps |
+| 6         | [Gun Camera Timer](../Gun%20Camera/gun_camera.md) |
 | 7         | [Missile Control Panel](../Weapon_System/aim-9-sidewinder.md#controls) |
 | 8         | [Armament Control Panel](../Weapon_System/aircraft-weapons-release-system.md) |
-| 9         | [External Load Auxiliary Release Button](../Weapon_System/aircraft-weapons-release-system.md) |
-| 10        | [Wing Flap Handle] |
-| 11        | [Flap Emergency Switch] |
+| 9         | [External Load Auxiliary Release Button](../Weapon_System/aircraft-weapons-release-system.md#external-load-auxiliary-release-button) |
+| 10        | Wing Flap Handle |
+| 11        | Flap Emergency Switch |
 | 12        | [Throttle](./stick-and-throttle.md#throttle) |
 | 13        | [Command Radio Control Panel](../ARC-34%20Command%20Radio/command-radio.md) |
 | 14        | [Seek Silence Control Panel](../Seek%20Silence%20System/seek-silence.md) |
 | 15        | [AWRS Control Panel](../Weapon_System/aircraft-weapons-release-system.md) |
-| 16        | [Engine and Flight Control Panel] |
-| 17        | [Landing Gear Control Panel] |
-| 18        | [Arresting Hook Release Button] |
-| 19        | [Canopy Switch] |
-| 20        | [LABS Yaw Roll Gyro Check Button] |
-
-## Circuit-Breaker Panel
-
-## Console Floodlight
+| 16        | Engine and Flight Control Panel |
+| 17        | Landing Gear Control Panel |
+| 18        | Arresting Hook Release Button |
+| 19        | Canopy Switch |
+| 20        | [LABS Yaw Roll Gyro Check Button](../Weapon_System/low-altitude-bombing-system.md#yaw-roll-gyro-check-button) |
 
 ## Anti-G Suit Pressure-Regulating Valve
 
-## Camera Shutter Selector Switch
-
 ## Spare Lamps
-
-## Speed Brake Emergency Dump Lever
-
-## Console Floodlight
-
-## Deleted
-
-## Altimeter Correction Card
-
-## Throttle
-
-## Thunderstorm Light
-
-## Wing Flap Handle
-
-## Throttle Friction Lever
-
-## Flap Emergency Switch
-
-## Radio Frequency Card
-
-## Console Floodlight
-
-## Instrument Panel Floodlight
-
-## Canopy Switch
-
-## Console Floodlight
-
-## Canopy-Not-Locked Caution Light
-
-## Arresting Hook Release Button
-
-## Labs Yaw-Roll Gyro Check Button
-
-## Landing Gear Control Panel
-
-## Foot Air Control Lever
-
-## Engine And Flight Control Panel
-
-## AWRS Control Panel
-
-## Seek Silence Control Panel
-
-## Command Radio Control Panel
-
-## External Load Auxiliary Release Buttons
-
-## Armament Control Panel
 
 ## Gun Camera Timer
 
-## Console Air Outlets
+## Wing Flap Handle
 
-## AIM-9B/E/J Missile Control Panel
+## Flap Emergency Switch
 
-## Ground Fire Switch
+## Engine and Flight Control Panel
 
-## Pylon Loading Control Panel
+## Landing Gear Control Panel
+
+## Arresting Hook Release Button
+
+## Canopy Switch
+
+
