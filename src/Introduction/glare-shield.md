@@ -1,4 +1,4 @@
-# Glare Shield and Above
+# Above the Glare Shield
 ![replace image](./img/glareshield.png)
 
 This section covers general items on the above the glare shield in the cockpit. More specific items are covered elsewhere.
