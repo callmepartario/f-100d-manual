@@ -33,6 +33,10 @@ The power switch has four positions: **OFF**, **REC**, **T/R**, **A/A**.
 | **T/R**                | Bearing and distance information and station identification are available. |
 | **A/A**                | TODO |
 
-## Normal Operation
 
 ### Tacan Range Indicator
+
+Displays range to the station in nautical miles.
+
+![DME_Range](./img/DME_range.png)
+
