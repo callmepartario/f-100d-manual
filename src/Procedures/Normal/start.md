@@ -19,7 +19,7 @@
 
 4. Exhaust temperature — Check. Light-up should occur (as indicated by rising exhaust temperature) within 20 seconds after the throttle is moved to IDLE. If exhaust temperature exceeds start limits, return throttle to OFF and continue to motor the engine for 30 seconds; then press the starter and ignition STOP button momentarily to abort the start.
 
-5. 40-45% RPM — Have external air power reduced and disconnected; dc external power disconnected.
+5. 40-45% RPM — Have external air power reduced and disconnected; DC external power disconnected.
 
 !!! caution
     If the engine fails to accelerate to 55–60% (idle) RPM within 1 minute (80 seconds is permissible on the first start of the day) after light-up, return throttle to OFF and continue to motor the engine for 30 seconds; then press the starter and ignition STOP button momentarily to abort the start. Except for exhaust overtemperature, subsequent starts may be attempted.
@@ -35,7 +35,7 @@
     The minimum interval between cartridge starts is 5 minutes; however, no more than two cartridge starts can be made in any 60-minute period, regardless of the interval between starts. Perform one pneumatic start for every four cartridge starts to assist in removing cartridge residue from the starter.
 
 !!! note
-    If external dc power is not available, place
+    If external DC power is not available, place
     radio switch at OFF until start is
     completed.
 

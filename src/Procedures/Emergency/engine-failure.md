@@ -38,10 +38,10 @@ unlikely.
 1. Throttle — OFF.
 
     !!! note
-        The ac generator is taken “‘off the line”
+        The AC generator is taken “‘off the line”
         automatically when the throttle is moved
         to OFF, Power can be restored to the
-        3-phase ac instrument bus by moving the
+        3-phase AC instrument bus by moving the
         standby instrument inverter switch to ON.
 
 2. Flight control emergency hydraulic pump lever
