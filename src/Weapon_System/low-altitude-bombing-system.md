@@ -5,26 +5,26 @@
 The Low Altitude Bombing System (LABS) was introduced to assist with nuclear weapons delivery, providing a pre-determined trajectory with delivery profiles to assist with escaping blast effects.
 
 ## Controls and Indicators
+
+### Pitch and Roll Indicator
 ![labs](./img/labs.png)
 
+The vertical needle indicates the current desired roll from 9 degress to wings level left and right. The horizontal needle indicates both the desired G load in pullup mode and desired pitch angle(straight and level) in pre-pullup mode. You will need to keep the wings level and thus roll at 0 and be on "G" during pull up for a correct auto release for the given LABS or LADD release mode. Maintain correct G by keeping the horizontal bar centered between the lines.
+
 ### Pullup Light
+![labs_light](./img/labs_release_light.png)
 
-Illuminates when LABS is active before the pullup. Once pullup occurs, this light extinguishes.
+The LABS release light indicates when pull up should begin once extinguished. The time the light is on for is set on either the LABS and LABS ALT(left) or LADD(right) dials pictured below.
 
-### Roll Indicator
-
-Indicates the desired roll by the system.
-
-### Pitch Indicator
-
-- In pre-pullup mode, indicates desired pitch angle 
-- In pullup mode, indicates desired G load
+### LABS and LADD Timer Dials
+![labs_dials](./img/pullup_release.png)
+The dials for setting the pull up time for LABS and LABS ALT(Left) and LADD(Right) are shown above. They have a range from 0 to 28 seconds.
 
 ## Operation
 
-LABS delivery modes share a pullup timer. The pullup timer is set by the pilot, indicating time taken for the aircraft to fly from a known identification point (IP) to the pullup point.
+All LABS delivery modes share the pullup timer. The pullup timer is the time set by the pilot to indicate the time taken for the aircraft to fly from a know identification point (IP) to the pullup point. 
 
-The pullup timer is determined by:
+There are two variables which determine what the pullup timer should be set to:
 
 - Ground speed
 - Bomb travel distance
@@ -42,6 +42,8 @@ Bomb travel distance is determined by the bomb's release parameters, including:
 - Aircraft altitude
 - Bomb type
 - Wind
+
+Using all this information we can begin using LABS and LADD delivery as they function similarly. Pluging in all the correct data we want to be pointed at the target and press the weapon release at the indentification point (IP), the LABS release light will then illuminate. Once it is extinguished after our LABS timer setting has ended begin pulling and maintain wings level and be on "G" using the LABS gauge. Release will then automatically occur depending on the release mode chosen. 50 degress for LABS and 120 degrees for LABS ALT.
 
 ### LABS (Loft)
 

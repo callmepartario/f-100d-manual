@@ -52,6 +52,6 @@ The master caution light indicated certain indicator or caution lights have illu
 | Light | Category | Cause | Procedure |
 |-------|----------|-------|-----------|
 | CANOPY NOT LOCKED | Warning | The canopy is not fully closed and locked. | |
-| FIRE ENG COMP | Warning | An overhead or fire has been detected in the forward engine compartment or the fire system is being tested. | |
+| FIRE ENG COMP | Warning | An overheat or fire has been detected in the forward engine compartment or the fire system is being tested. | |
 | OVERHEAT ENG BURN | Warning | An overheat or fire has been detected in the aft engine compartment or the fire system is being tested. | |
 | TRIMMED FOR TAKEOFF | Indicator | The aircraft is trimmed for take off (260 KIAS condition). | |

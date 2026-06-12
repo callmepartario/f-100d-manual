@@ -40,7 +40,7 @@ The procedure below will setup the weapons so that the bomb-button will drop a s
 
 ### 2. Aircraft Weapons Release System (AWRS) Setup
 
-It is suggested to ripple fire rockets—this is the what this procedure will describe.
+It is suggested to ripple fire bombs—this is the what this procedure will describe.
 
 1. Set AWRS [Quantity Selector](../aircraft-weapons-release-system.md#controls)—desired number of bombs
 2. Set AWRS [Release Interval](../aircraft-weapons-release-system.md#controls)—desired interval (otherwise about 150 ms)
