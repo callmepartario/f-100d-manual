@@ -45,7 +45,7 @@ The supply lever is used to turn the regulator **ON** and **OFF**.
 - **Times are in hours** (larger number = longer oxygen duration)  
 - **Liquid O₂ Quantity (L)** → each column heading shows remaining **liquid oxygen capacity** per crew member in **liters**  
 - **Emergency** row → In the event of depletion, **descend immediately** to a safe altitude not requiring supplemental oxygen  
-- Oxygen regulator gage pressure: **constant 70 psi**  
+- Oxygen regulator gauge pressure: **constant 70 psi**  
 
 | Cockpit Altitude (ft) | 5 L Liquid O₂ | 4 L Liquid O₂ | 3 L Liquid O₂ | 2 L Liquid O₂ | 1 L Liquid O₂ | Below 1 L Liquid O₂ |
 |------------------------|----------------|----------------|----------------|----------------|----------------|-----------|

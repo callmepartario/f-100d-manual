@@ -9,14 +9,14 @@ hydraulic pump, as follows:
 
 1. Emergency hydraulic pump lever (RAT) -- Aft (OFF).
 2. If unable to move RAT lever aft:
-a. Airspeed—Reduce to below 250 knots IAS.
-b. Ram-air turbine (RAT) circuit breaker — Pull.
-c. Emergency hydraulic pump lever (RAT) — Aft
+a. Airspeed—Reduce to below 250 KIAS.
+b. Ram-air turbine (RAT) circuit breaker—Pull.
+c. Emergency hydraulic pump lever (RAT)—Aft
 (OFF).
-3. If no other indication of malfunction exists — Leave
+3. If no other indication of malfunction exists—Leave
 ram-air turbine (RAT) circuit breaker out and continue
 mission.
-4. If unable to close ram-air turbine doors — Burn fuel
+4. If unable to close ram-air turbine doors—Burn fuel
 and land as soon as practical.
 
     !!! note

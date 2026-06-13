@@ -66,6 +66,6 @@ The sidewinder volume knob on the missile control panel adjusts Shrike audio in 
 2. [Armament Mode]()—Shrike
 3. [Pylon Arm]()—Armed for each pylon
 
-One the Shrike is set up, point the aircraft at a radiation source to hear the radiation through the Shrike, indicating a good track. The [needles](#course-and-glideslope-needles) will activate and provide additional guidance toward the source.
+Once the Shrike is set up, point the aircraft at a radiation source to hear the radiation through the Shrike, indicating a good track. The [needles](#course-and-glideslope-needles) will activate and provide additional guidance toward the source.
 
 To fire, depress the weapon release button on the flight stick until the missile completes its launch sequence.

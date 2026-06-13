@@ -40,15 +40,15 @@ The show me button highlights the current item in the cockpit.
 
 This toggles between the three types of detail.
 
-| Detail | Description
-|--------|-------------
-| Mandatory | Required to complete the current checklist procedure.
-| Abbreviated | Includes checks that would be completed in reality but can be also checked in game.
-| Realistic | Includes checks that would be completed in reality but are not possible to check in game: harness tight for example.
+| Detail      | Description |
+|-------------|-------------|
+| Mandatory   | Required to complete the current checklist procedure. |
+| Abbreviated | Includes checks that would be completed in reality but can be also checked in game. |
+| Realistic   | Includes checks that would be completed in reality but are not possible to check in game: harness tight for example. |
 
 ### Advance Checklist Command
 
-Advance checklist command is used to manually check items which are not automatically checked or to bypass an item. The advance checklist command manually checks the highest unchecked item (current item) on the checklist. Once all items are check the advance checklist command switches to the next procedure. If there is no next procedure then in this case the advance checklist command does nothing.
+Advance checklist command is used to manually check items which are not automatically checked or to bypass an item. The advance checklist command manually checks the highest unchecked item (current item) on the checklist. Once all items are checked, use the advance checklist command to move on to the next procedure. If there is no next procedure, the advance checklist command does nothing.
 
 ![checked-items](./img/checked-items.png)
 

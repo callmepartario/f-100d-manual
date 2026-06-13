@@ -35,7 +35,7 @@ start should be attempted. If there is no indication of
 utility pressure or oil pressure, a successful air start is
 unlikely.
 
-1. Throttle — OFF.
+1. Throttle—OFF.
 
     !!! note
         The AC generator is taken “‘off the line”
@@ -45,7 +45,7 @@ unlikely.
         standby instrument inverter switch to ON.
 
 2. Flight control emergency hydraulic pump lever
-(RAT) — ON. The emergency pump must be started to
+(RAT)—ON. The emergency pump must be started to
 power flight control system No. 2 if the engine is frozen.
 If the engine is windmilling, the engine-driven pump
 output is sufficient for control during air start procedures,
@@ -54,17 +54,17 @@ must be kept to a minimum, whether the engine is windmilling
 or frozen, during operation on the emergency
 pump.
 
-3. Damper emergency disconnect lever — Press.
-4. Glide — 220 knots IAS.
-5. Nonessential electrical equipment — Off. Turn off
+3. Damper emergency disconnect lever—Press.
+4. Glide—220 KIAS.
+5. Nonessential electrical equipment—Off. Turn off
 all nonessential electrical equipment to reduce battery load.
 
     !!! caution
         At engine speeds below about 40% RPM,
-        de generator output is not available,
+        DC generator output is not available,
         and the battery becomes the only source
         of electrical power. Usable battery
         power is available for about 6 to
         22 minutes.
 
-6. Attempt air start. If air start is not successful — Eject.
+6. Attempt air start. If air start is not successful—Eject.

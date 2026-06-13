@@ -4,14 +4,8 @@
 # Canopy
 
 ## Canopy Jettison
-During an emergency when the canopy must be jettisoned,
-but ejection is not contemplated, the canopy alternate
-emergency jettison handle must be used.
 
-1. Canopy alternate jettison emergency
-handle lockspring — Remove. The
-lockspring on the canopy alternate
-emergency handle must be removed
-before the canopy is jettisoned.
+During an emergency when the canopy must be jettisoned, but ejection is not contemplated, the canopy alternate emergency jettison handle must be used.
 
-2. Canopy alternate emergency handle—Pull.
+1. Canopy Alternate Jettison Emergency Handle Lockspring—**REMOVE**
+2. Canopy alternate emergency handle—**PULL**

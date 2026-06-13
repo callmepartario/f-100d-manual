@@ -2,10 +2,14 @@
 # Preflight Check
 Once in the takeoff area:
 
-1. Hydraulic pressure gauge selector switch—UTILITY.
-2. Speed brake switch IN, then OFF (center). Check speed brake UP, then move switch to OFF (center) position.
-3. Flaps—INTERMEDIATE.
-4. Takeoff trim—Recheck.
-5. Pitot heat—ON.
-6. Canopy—Closed and locked. Hold switch at CLOSE for an additional 2 or 3 seconds after the CANOPY NOT LOCKED goes out to ensure a tight seal.
-7. Anti-collision light—ON. (As required)
+1. Hydraulic Pressure Gauge Selector Switch—**UTILITY**
+2. Speed Brake Switch—**IN**—Check speed brake is up, then move the switch to the **OFF** position.
+3. Wing Flaps—**INTERMEDIATE**
+4. Takeoff trim—**CHECK**
+5. Pitot heat—**ON**
+6. Canopy—**CLOSED AND LOCKED**
+
+!!! note
+    Ensure a tight seal by holding the canopy control switch in the **CLOSE** position for a few seconds after the CANOPY NOT LOCKED warning light extinguishes.
+
+7. Anti-Collision Lights—**AS REQUIRED**

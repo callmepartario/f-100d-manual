@@ -39,9 +39,12 @@ The spare lamps stored in this panel can replace burnt-out lights in the cockpit
 ## Wing Flap Handle
 
 This three-position lever actuates the flaps until they reach one of three positions:
-- UP—Raise flaps
-- HALF—Intermediate flaps
-- DOWN—Lower flaps
+
+| Selection        | Description |
+|------------------|-------------|
+| **UP**           | Raises wing flaps level with the wing, for example, during [cruise](../Procedures/Normal/cruise.md). |
+| **INTERMEDIATE** | Half wing flaps, for example, during [taxi](../Procedures/Normal/taxi.md) and [takeoff](../Procedures/Normal/takeoff.md). |
+| **DOWN**         | Lower wing flaps, for example, during [landing](../Procedures/Normal/landing.md). |
 
 ## Engine and Flight Control Panel
 
@@ -105,7 +108,7 @@ Suppresses the landing gear audio warning signal when:
 
 - Landing gear is not down and locked
 - Altitude is less than 10,000 feet
-- Airspeed is less than 205 (±5) knots IAS
+- Airspeed is less than 205 (±5) KIAS
 - Throttle is retarded below 85% RPM
 
 ### Fire Detector System Test

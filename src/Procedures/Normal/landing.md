@@ -4,37 +4,38 @@
 ## Before Landing
 On approach:
 
-1. Hydraulic pressures—**Check**. Monitor utility system during approach and landing.
-2. Safety belt and should harness—**TIGHTENED**.
-3. Anti-skid—**ON**.
-4. Speed brake—**AS REQUIRED**.
-5. Gear—**DOWN**. Check for down and locked indications.
-6. Flaps—**DOWN**. Flaps alone will provide sufficient drag. However, speed brake may be also be used.
+1. Hydraulic pressures—**CHECK**. Monitor utility system during approach and landing.
+2. Safety belt and should harness—**TIGHTENED**
+3. Anti-Skid Switch—**ON**
+4. Speed Brake—**AS REQUIRED**
+5. Landing Gear—**DOWN**—Check for down and locked indications.
+6. Wing Flaps—**DOWN**—Flaps alone will provide sufficient drag. However, speed brake may be also be used.
 
 ## Normal Landing
-1. Throttle—**IDLE**. Retard throttle to **IDLE** during flare or at touchdown.
-2. Touchdown.
-3. Flaps—**UP**.
-4. Nose wheel steering—**ENGAGE**.
 
-    !!! caution
-        In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
+1. Throttle—**IDLE**—During flare or at touchdown.
+2. Touchdown
+3. Wing Flaps—**UP**
+4. Nose Wheel Steering—**ENGAGE**
 
-    !!! warning
-        If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting. To prevent nose wheel steering disengaging because of pitching, hold forward stick pressure on landing roll out.
+!!! caution
+    In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
 
-5. Drag chute—**DEPLOY**.
-6. Employ normal braking.
-7. Speed brake—**UP**.
+!!! warning
+    If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting. To prevent nose wheel steering disengaging because of pitching, hold forward stick pressure on landing roll out.
+
+5. Drag chute—**DEPLOY**
+6. Employ normal braking
+7. Speed brake—**UP**
 
 ## Normal Landing Technique
 
 Gear should be lowered below 230 KIAS to avoid damage.
 
-As an example, with a 24,000 pound aircraft:
+As an example, with a 24,000-pound aircraft:
 
 - The pattern should be flown 20 KIAS above the final approach speed.
-- An RPM of 83–87% is required. Arrive on final at 165 KIAS, 300 ft AGL, and one nautical mile from the runway. This results in a glide path between 2.5–3°, with an impact point just short of the runway.
+- An RPM of 83–87% is required. Arrive on final at 165 KIAS, 300 feet AGL, and one nautical mile from the runway. This results in a glide path between 2.5–3°, with an impact point just short of the runway.
 
  Small adjustments of airspeed can be corrected with pitch and small adjustments in descent rate can be corrected with throttle. However, larger adjustments must be made with coordinated use of both throttle and speed brake. To achieve a precise touchdown point in the flare, maintain a stable descent rate and airspeed. Reduce thrust the thrust as necessary prior to touchdown.
 
@@ -61,18 +62,16 @@ The tail skid is installed only for the purpose of protecting the aircraft from 
 
 ![landingpattern](./../img/landingpattern.png)  
 
-| Step | Explanation |
-|------|-------------|
-| 1.   | Initial—**300 KIAS** |
-| 2.   | Speed brake—**AS REQUIRED**. Position throttle to maintain pattern speed and altitude |
-| 3.   | Gear—**DOWN**. Checked for down-and-locked indications. |
-| 4.   | Flaps—**DOWN**. |
-| 5.   | Throttle—**IDLE**. Touchdown at recommended speed. |
-| 6.   | Wheel brakes—**CHECK**. |
-| 7.   | Flaps—**UP**. |
-| 8.   | Nose wheel steering—**ENGAGE**. |
-| 9.   | Drag chute—**DEPLOY**. |
-| 10.  | Speed brake—**UP**. |
+1. Initial—**300 KIAS**
+2. Speed Brake—**AS REQUIRED**—Position throttle to maintain pattern speed and altitude
+3. Landing Gear—**DOWN**—Checked for down-and-locked indications.
+4. Wing Flaps—**DOWN**
+5. Throttle—**IDLE**—Touchdown at recommended speed.
+6. Wheel Brakes—**CHECK**
+7. Wing Flaps—**UP**
+8. Nose Wheel Steering—**ENGAGE**
+9. Drag Chute—**DEPLOY**
+10. Speed Brake—**UP**
 
 ## Landing Without a Drag Chute
 
@@ -103,22 +102,22 @@ On final, crab into the wind or forward slip to align the fuselage with the runw
 
 ## Touch and Go Landing
 1. Normal touchdown.
-2. Throttle—**MIL**.
-3. Speed brake—**UP**.
-4. Flaps—**HALF****.
+2. Throttle—**MIL**
+3. Speed brake—**UP**
+4. Wing Flaps—**INTERMEDIATE**
 
-    !!! caution
-        Exercise care when moving the flaps to INTERMEDIATE. Moving the flaps to UP will necessitate increased rotation speed.
+!!! caution
+    Exercise care when moving the flaps to INTERMEDIATE. Moving the flaps to UP will necessitate increased rotation speed.
 
-5. Trim. Trim the aircraft for takeoff.
-6. Nose rotation. At rotation speed, begin to slowly rotate the aircraft so that the aircraft will assume the pitch angle required for takeoff at the takeoff speed.
+5. Trim the aircraft for takeoff.
+6. Nose rotation—At rotation speed, begin to slowly rotate the aircraft so that the aircraft will assume the pitch angle required for takeoff at the takeoff speed.
 
-    !!! warning
-        Ensure proper airspeed has been obtained before rotation. Do not rotate the aircraft excessively nose high. If over rotated, reduce the angle of attack back to the proper takeoff pitch attitude.
+!!! warning
+    Ensure proper airspeed has been obtained before rotation. Do not rotate the aircraft excessively nose high. If over rotated, reduce the angle of attack back to the proper takeoff pitch attitude.
 
-7. Takeoff. Maintain proper takeoff pitch attitude after lift off until proper airspeed is obtained as to prevent settling.
-8. Gear—UP.
-9. Flaps—UP. Increase pitch angle during flap retraction, to prevent settling.
+7. Takeoff—Maintain proper takeoff pitch attitude after lift off until proper airspeed is obtained as to prevent settling.
+8. Landing Gear—**UP**
+9. Wing Flaps—**UP**—Increase pitch angle during flap retraction, to prevent settling.
 
 ## Other
 

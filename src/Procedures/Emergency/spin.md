@@ -3,17 +3,17 @@
 
 If a spin is inadvertently entered, proceed as follows:
 
-1. THROTTLE — IDLE. Retard throttle to IDLE to -
+1. THROTTLE—IDLE. Retard throttle to IDLE to -
 prevent compressor stall.
-2. CONTROLS — RELEASE. Release all controls and
+2. CONTROLS—RELEASE. Release all controls and
 determine spin direction.
-3. EXTERNAL LOAD — JETTISON.,
+3. EXTERNAL LOAD—JETTISON.,
 
     !!! warning
         If only pylons are installed, jettison the pylons.
     
 4. LANDING GEAR, WING FLAPS, AND SPEED
-BRAKE — UP, If landing gear, wing flaps, and speed
+BRAKE—UP, If landing gear, wing flaps, and speed
 brake are extended when spin is entered, immediately
 move landing gear and wing flap handles up and speed
 brake switch in. This action is to preclude structural
@@ -21,7 +21,7 @@ damage in the event airspeed limits are exceeded
 during recovery.
 5. FULL OPPOSITE RUDDER, FULL AILERONS
 WITH SPIN, AND FULL AFT STICK.
-6. When rotation stops — Initiate stall recovery procedures.
+6. When rotation stops—Initiate stall recovery procedures.
 When rotation stops, aircraft is in a stall
 attitude; therefore, use prescribed stall recovery technique.
 

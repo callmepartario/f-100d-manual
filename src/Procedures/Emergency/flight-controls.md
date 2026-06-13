@@ -10,9 +10,9 @@ of trim response, and poor stick-centering characteristics.
 If failure of flight control artificial-feel is encountered,
 proceed as follows:
 
-1. Airspeed — Reduce. Reduction of airspeed may
+1. Airspeed—Reduce. Reduction of airspeed may
 relieve severe oscillation of the aircraft.
-2. If adequate control cannot be maintained — Eject.
+2. If adequate control cannot be maintained—Eject.
 Ejection is recommended whenever failure of the artificial-feel
 system is evident by loss of adequate control.
 
@@ -45,7 +45,7 @@ approach should be used, and rate of descent should be
 between 1000 and 1500 feet per minute (remaining above
 safe ejection altitude as long as practical). Reduce rate of
 descent to below 1000 feet per minute just before flare.
-5. Emergency hydraulic pump lever (RAT) — ON. The
+5. Emergency hydraulic pump lever (RAT)—ON. The
 emergency pump will automatically come on when engine
 RPM drops below 40% RPM. Otherwise, it must be turned on
 manually. Place emergency hydraulic pump lever in ON position

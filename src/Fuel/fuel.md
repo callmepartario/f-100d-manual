@@ -12,13 +12,13 @@ The aircraft has a single point pressure refueling system which allows for both 
 
 There are 4 primary fuel tanks:
 
-| Tank | Cells | Capacity (combined in lbs) | Description
-|------|-------|----------------|-------------
-| Forward Fuselage | Upper, Centre Left, Centre Right, Lower | 2912 | Engine Manifold primarily draws from this tank.
-| Intermediate Fuselage | Left, Right | 1391 | These primarily feed into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the right cell can directly feed the engine.
-| Aft Fuselage | Centre | 702 | This primarily feeds into the the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the aft fuselage can gravity transfer to the intermediate fuselage tank.
-| Wing | Left, Right | 2723 | These feed into forward fuselage by gravity and the [scavenge pumps](#fuel-transfer-and-scavenge-pumps)
-| External | Up to one per wing pylon | configuration dependent | These feed into the forward fuselage tank via bleed air pressure. Which pair of tanks feeding depends on the [drop tank selector switch](#drop-tank-selector-switch) position.
+| Tank | Cells | Capacity (combined in lbs) | Description |
+|------|-------|----------------|-------------|
+| Forward Fuselage | Upper, Centre Left, Centre Right, Lower | 2912 | Engine Manifold primarily draws from this tank. |
+| Intermediate Fuselage | Left, Right | 1391 | These primarily feed into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the right cell can directly feed the engine. |
+| Aft Fuselage | Centre | 702 | This primarily feeds into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the aft fuselage can gravity transfer to the intermediate fuselage tank. |
+| Wing | Left, Right | 2723 | These feed into forward fuselage by gravity and the [scavenge pumps](#fuel-transfer-and-scavenge-pumps) |
+| External | Up to one per wing pylon | configuration dependent | These feed into the forward fuselage tank via bleed air pressure. Which pair of tanks feeding depends on the [drop tank selector switch](#drop-tank-selector-switch) position. |
 
 ![fuel system](./img/fuel-system.png)
 
@@ -26,12 +26,14 @@ There are 4 primary fuel tanks:
 
 The inverted flight tank is the direct feed to the engine. The inverted flight tank can be fed either from the manifold, which is inturn fed by the upper and lower forward fuselage tank, or the intermediate fuselage tank.
 
-The geometry of this tank is designed such that when inverted there is still approximately 1.6 gallons of fuel for short periods of operation. The length of time of operation before flameout depends on the fuel flow as this directly impacts how quickly this inverted flight tank is exhausted. Approximate values for afterburner and military thrust are listed below as a rough guideline.
+The geometry of this tank is designed such that when inverted there is still approximately 1.6 gallons of fuel for short periods of operation. The length of time of operation before flameout depends on the fuel flow as this directly impacts how quickly this inverted flight tank is exhausted.
+
+The following table includes approximate values for afterburner and military thrust:
 
 | Power Setting | Time Before Flameout (seconds) |
 |---------------|--------------------------------|
-| Afterburner   | 1.5 |
-| Military      | 6.0 |
+| Afterburner   | 1.5                            |
+| Military      | 6.0                            |
 
 ## Fuel Booster Pumps
 
@@ -52,10 +54,10 @@ Drop tanks can be mounted on any of the wing pylons. However only the 335- and 4
 
 | Tanks (gallon) | Pylons              | Mid-Air Refuelable |
 |----------------|---------------------|--------------------|
-| 200            | All                 | No |
-| 275            | Intermediate only   | No |
-| 335            | Intermediate only   | Yes |
-| 450            | Intermediate only   | Yes |
+| 200            | All                 | No                 |
+| 275            | Intermediate only   | No                 |
+| 335            | Intermediate only   | Yes                |
+| 450            | Intermediate only   | Yes                |
 
 Tanks are pressurized by the engine bleed air when [drop tank selector switch](#drop-tank-selector-switch) is set to any position other than **OFF**. In the event of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
 
@@ -74,7 +76,7 @@ This selects which external tanks are pressurized by the engine bleed air. In th
 
 ### Drop Tank Empty Indicator Light
 
-This indicates there is no longer any fuel pressure from the drop tanks. Because the external tank fuel line is shared with the internal wing tank scavenge pumps, this light extinguishes once the wing tanks begin to scavenge at about 4000 pounds of fuel. This light illuminates again once wing tanks are empty (approximately 1500 pounds of fuel remaining).
+This indicates there is no longer any fuel pressure from the drop tanks. Because the external tank fuel line is shared with the internal wing tank scavenge pumps, this light extinguishes once the wing tanks begin to scavenge at about 4,000 pounds of fuel. This light illuminates again once wing tanks are empty (approximately 1,500 pounds of fuel remaining).
 
 ### Fuel System Shutoff Valve Fail Light
 

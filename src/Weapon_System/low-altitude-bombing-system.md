@@ -18,7 +18,7 @@ The LABS release light indicates when pull up should begin once extinguished. Th
 
 ### LABS and LADD Timer Dials
 ![labs_dials](./img/pullup_release.png)
-The dials for setting the pull up time for LABS and LABS ALT(Left) and LADD(Right) are shown above. They have a range from 0 to 28 seconds.
+The dials for setting the pull up time for LABS and LABS ALT (Left) and LADD (Right) are shown above. They have a range from 0–28 seconds.
 
 ## Operation
 
@@ -43,7 +43,7 @@ Bomb travel distance is determined by the bomb's release parameters, including:
 - Bomb type
 - Wind
 
-Using all this information we can begin using LABS and LADD delivery as they function similarly. Pluging in all the correct data we want to be pointed at the target and press the weapon release at the indentification point (IP), the LABS release light will then illuminate. Once it is extinguished after our LABS timer setting has ended begin pulling and maintain wings level and be on "G" using the LABS gauge. Release will then automatically occur depending on the release mode chosen. 50 degress for LABS and 120 degrees for LABS ALT.
+Using all this information we can begin using LABS and LADD delivery as they function similarly. Pluging in all the correct data we want to be pointed at the target and press the weapon release at the indentification point (IP), the LABS release light will then illuminate. Once it is extinguished after our LABS timer setting has ended begin pulling and maintain wings level and be on "G" using the LABS gauge. Release will then automatically occur depending on the release mode chosen. 50 degress for LABS and 120  for LABS ALT.
 
 ### LABS (Loft)
 
@@ -57,4 +57,4 @@ The LABS ALT mode is the alternate method lofts the bomb vertically over the tar
 
 ### Low Altitude Drogue Delivery (LADD)
 
-Low Altitude Drogue Delivery (LADD) is for delivery drogue assisted nuclear weapons. At the pullup point, the pilot is commanded into a 40-degree climb. The release timer determines the release. The release timer begins at the pullup point. When the timer runs out, the bomb is released.
+Low Altitude Drogue Delivery (LADD) is for delivery drogue assisted nuclear weapons. At the pullup point, the pilot is commanded into a 40° climb. The release timer determines the release. The release timer begins at the pullup point. When the timer runs out, the bomb is released.

@@ -1,4 +1,4 @@
 
 # Cruise
 
-1. Altimeter—**Check RESET vs. STBY**.
+1. Altimeter—**CHECK RESET vs. STBY**.

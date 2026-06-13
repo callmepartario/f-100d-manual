@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The A-4 Gunsight is a lead computing optical sight. This system has a gyro to assist in computing the lead solution for aerial gunnery. It's primary input is the range, which can be achieved either from the onboard APG-30 radar system, or manually by the pilot using the optical sight to range.
+The A-4 Gunsight is a lead computing optical sight. This system has a gyro to assist in computing the lead solution for aerial gunnery. Its primary input is the range, which can be achieved either from the onboard APG-30 radar system, or manually by the pilot using the optical sight to range.
 
 The system can also be used for ground attack using either a fixed sight where pre-calculated depression tables, or the inbuilt automatic bombing mode.
 
@@ -30,12 +30,12 @@ The range dial indicates the current target range in feet being used by the sigh
 
 ### Radar Range Sweep Knob
 
-The Range Sweep Knob (dial 6 below) is found next to the Auxiliary Release Buttons, and reduces the maximum lock-on distance for the radar, preventing the radar from locking onto undesirable objects such as the ground or ground objects. During normal operation at altitudes 6000 feet or higher above ground level, the rheostat should be at MAX.
+The Range Sweep Knob (dial 6 below) is found next to the Auxiliary Release Buttons, and reduces the maximum lock-on distance for the radar, preventing the radar from locking onto undesirable objects such as the ground or ground objects. During normal operation at altitudes 6,000 feet or higher above ground level, the rheostat should be at MAX.
 
-| Range Limit | Setting (feet)
-|-------------|--------
-| MIN         | 3000
-| MAX         | 9000
+| Range Limit | Setting (feet) |
+|-------------|----------------|
+| **MIN**     | 3,000 |
+| **MAX**     | 9,000 |
 
 The value changes linearly between the min and max settings.
 
@@ -45,13 +45,13 @@ The brightness of the reticle can be adjusted using the Sight Dimmer rheostat (d
 
 ### Sight Filament Selector Switch
 
-The primary or secondary filament in the dual-filament sight reticle bulb powered by the secondary bus and the tertiary bus. Select the filmane using the filament selector switch (dial 1 below). If the primary filament fails, set the switch to the SECONDARY position.
+The primary or secondary filament in the dual-filament sight reticle bulb powered by the secondary bus and the tertiary bus. Select the filmane using the filament selector switch (dial 1 below). If the primary filament fails, set the switch to the **SECONDARY** position.
 
 ![Radar Range Sweep Knob Image](./img/aux_panel.png)
 
 ### Manual Ranging Control (Throttle)
 
-for automatic radar ranging, the throttle grip is normally in the full counter-clockwise position. Twisting the throttle grip clockwise decreases range from the maximum manual range of 2700 feet to a minimum of 12000 feet.
+for automatic radar ranging, the throttle grip is normally in the full counter-clockwise position. Twisting the throttle grip clockwise decreases range from 2,700–12,000 feet.
 
 Rotating the throttle full counter-clockwise returns ranging to automatic operation.
 
@@ -85,27 +85,28 @@ Pressing the radar reject button also sets the [Sight Selector Switch](#1-sight-
 
 There are three options rocket, gun, bomb. 
 
-| Mode   | Range (feet)  | Electrically Caged
-|--------|---------------|-------------------
-| Gun    | range from radar or manual | Free to move unless electrical cage is depressed
-| Rocket | fixed 850     | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + Depression Angle
-| Bomb   | fixed 850     | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + 10°—used with [automatic bombing mode](#bomb-air-to-ground-automatic)
+| Selection  | Range (feet)  | Electrically Caged
+|------------|---------------|-------------------
+| **GUN**    | Range from radar or manual | Free to move unless electrical cage is depressed
+| **ROCKET** | 850 (fixed) | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + Depression Angle
+| **BOMB**   | 850 (fixed) | Caged to [ECSL](#electrically-caged-sight-line-ecsl) + 10° (used with [automatic bombing mode])(#bomb-air-to-ground-automatic)
 
-If the [radar reject button](#radar-reject-button) is depressed, this switch automatically moves to the GUN position.
+!!! caution
+    If the [radar reject button](#radar-reject-button) is depressed, this switch automatically moves to the GUN position.
 
 #### 2. Sight Depression
 
-This sets the depression from the boresight in [NATO MILS]() when either in the rocket or bomb mode.
+This sets the depression from the boresight in mils when either in the rocket or bomb mode.
 
 #### 3. Target Speed Switch
 
 This switch sets the effective velocity of the own aircraft and the closure rate for the sight calculations. Each setting is phrased in terms of the target velocity.
 
-| Mode | Own Speed (knots) | Target Speed (knots) | Closure Rate (knots)
-|------|-------------------|----------------------|---------------------
-| TR   | 300               | 200                  | 100
-| HI   | 600               | 500                  | 100
-| LO   | 600               | 200                  | 400
+| Selection | Own Speed (knots) | Target Speed (knots) | Closure Rate (knots)
+|-----------|-------------------|----------------------|---------------------
+| **TR**    | 300               | 200                  | 100
+| **HI**    | 600               | 500                  | 100
+| **LO**    | 600               | 200                  | 400
 
 ## Operation
 
@@ -117,15 +118,17 @@ If the sight select mode is in manual, the armament mode is in bombs or napalm, 
 
 With the [sight selector](#sight-selector) in the GUN position and the sight mechanically uncaged, the rate gyro inside the sight controls the pipper location to provide a gunnery solution based on the set range. The [target speed switch](#3-target-speed-switch) should be set on the closest target speed: 
 
-- HI for High Speed Targets
-- LO for Low Speed Targets
-- TR for Tracking Shots (at similar speeds to the target)
+| Selection | Description |
+|-----------|-------------|
+| **HI**    | High Speed Targets |
+| **LO**    | Low Speed Targets |
+| **TR**    | Tracking Shots (at similar speeds to the target) |
 
 #### Ranging
 
 The range is controlled automatically by the radar, or manually using the [throttle twist](#manual-ranging-control-throttle).
 
-The radar automatically locks onto any sufficiently strong reflections, including the ground. The range is indicated on the [range dial](#range-dial). If the range doesn't match the desired target, the target can be rejected using the [radar reject button](#radar-reject-button), initiating a new scan starting at the minimum range. If no targets are found by the the time the scan reaches its maximum range, the scan begins again at the minimum range.
+The radar automatically locks onto any sufficiently strong reflections, including the ground. The range is indicated on the [range dial](#range-dial). If the range doesn't match the desired target, the target can be rejected using the [radar reject button](#radar-reject-button), initiating a new scan starting at the minimum range. If no targets are found by the time the scan reaches its maximum range, the scan begins again at the minimum range.
 
 Range is validated by using the [wingspan lever](#wingspan-lever) to set the wingspan of the current target on the gunsight. Then, the target is at the correct range when the wingspan matches inside of the reticle's tick marks.
 
@@ -145,7 +148,7 @@ The A-4 sight can use the inbuilt gyroscope to calculate target position. By usi
 
 The bombsight works on the principle that the line of sight rate corresponds to the slant range to the target. To facilitate this the reticle is automatically depressed 10° in the bomb mode. Keep the reticle on the target and allow the system to measure the line of sight rate. Once parameters are met, the reticle extinguishes and the bomb is released.
 
-To protect the gyros, the electrical cage must be held up until the target is in the sight. Then, _smoothly_ follow the target under the pipper to get an accurate measurement. Kerks or bumps can cause bombs to release prematurely.
+To protect the gyros, the electrical cage must be held up until the target is in the sight. Then, _smoothly_ follow the target under the pipper to get an accurate measurement. Jerks or bumps can cause bombs to release prematurely.
 
 ## Sight Lines Definitions
 
@@ -165,7 +168,7 @@ The line drawn from the A-4 sight position parallel to the [Mean Fixed Bore Line
 
 ### 0 Prediction Sight Line (0PSL)
 
-A line depressed by some angle from the [True 0 Prediction Sight Line](#true-0-prediction-sight-line-t0psl) to harmonize this line and the [Mean Fixed Bore Line](#mean-fixed-bore-line-mfbl) at some distance (usually 2000 feet).
+A line depressed by some angle from the [True 0 Prediction Sight Line](#true-0-prediction-sight-line-t0psl) to harmonize this line and the [Mean Fixed Bore Line](#mean-fixed-bore-line-mfbl) at some distance (usually 2,000 feet).
 
 ### Electrically Caged Sight Line (ECSL)
 

@@ -38,7 +38,7 @@ This section covers flight instruments needed for basic aircraft operation. For 
 | 29        | [Engine Pressure Ratio Gauge](../Engine/engine.md#engine-pressure-ratio-gauge) |
 | 30        | [Fuel Flow Indicator](../Fuel/fuel.md#fuel-flow-indicator) |
 | 31        | [Fuel Quantity Gauges](../Fuel/fuel.md#forward-fuel-quantity-gauge) |
-| 32        | [Fuel Boost Pump INOP Light](../Fuel/fuel.md#fuel-boost-pump-light) |
+| 32        | [Fuel BOOST PUMP INOP Light](../Fuel/fuel.md#fuel-boost-pump-light) |
 
 !!! caution
     If you enable the custom dashboard layout in the F-100D [Special Options](special-options.md), you can randomize the instrument panel layout each flight, or select one of your preference using the [Grinelli Designs F-100D Dash Creator](https://grinnellidesigns.com/dash-creator/) and entering the code into the menu.
@@ -53,12 +53,12 @@ The Mach number is computed in the same manner, displaying aircraft velocity as 
 These two readings are displayed as a combined Airspeed and Mach indicator. The inner reading displays the airspeed in knots, and the outer reading displays the Mach number. The plot can set an index marker via a push-and-rotate actuation of the instrument's knob.
 
 ## Attitude Indicator
-Driven by a an electric motor, a double mounted gyro maintains its vertical upright alignment while the aircraft maneuvers, displaying its attitude. This indicator is subject to precession errors, but re-aligns itself with a self-erecting mechanism. 
+Driven by an electric motor, a double mounted gyro maintains its vertical upright alignment while the aircraft maneuvers, displaying its attitude. This indicator is subject to precession errors, but re-aligns itself with a self-erecting mechanism. 
 
 A knob provides reference adjustment up and down, aligingn it with the displayed artificial horizon.
 
 ## Turn and Slip Indicator
-The turn and slip indicator provides turn direction and rate information on a vertical needle. A standard 4 minute instrument turn places the vertical turn needle over the the corresponding direction's hash mark. 
+The turn and slip indicator provides turn direction and rate information on a vertical needle. A standard 4 minute instrument turn places the vertical turn needle over the corresponding direction's hash mark. 
 
 The slip indicator displays horizontal accelerations in the lateral plane with a slip ball. For coordinated turns, use a combination of rudder input and the aircraft's yaw damper to center the slip ball.
 

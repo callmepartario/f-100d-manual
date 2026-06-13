@@ -34,18 +34,18 @@ follows:
     and arrestment gear permits, an approach
     end arrestment should be made.
 
-1. Speed brake switch — Check OFF (center).
-2. Landing gross weight — Reduce. Hf conditions permit,
+1. Speed brake switch—Check OFF (center).
+2. Landing gross weight—Reduce. Hf conditions permit,
 remain airborne in immediate vicinity of base to
 burn fuel down to normal landing weight.
 3. Land as soon as practical.
 4. Landing gear handle—DOWN.
-5. Landing gear emergency lowering handle — Pull.
+5. Landing gear emergency lowering handle—Pull.
 6. Wing flap handle—DOWN.
 7. Wing flap emergency switch—EMERGENCY DOWN.
 If wing flap actuation is not obvious, immediately place
 wing flap emergency switch to EMERGENCY DOWN.
-8. Throttle — OFF (if necessary). Move throttle to
+8. Throttle—OFF (if necessary). Move throttle to
 OFF in case of a drag chute failure.
 
     !!! caution

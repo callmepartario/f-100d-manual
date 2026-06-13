@@ -72,6 +72,7 @@ Definitions and abbreviations used in the manual are covered here.
 | LWR | Lower |
 | MAIN | Main Receiver Mode |
 | MFBL | Mean Fixed Bore Line |
+| mils | Milliradians |
 | MSL | Mean Sea Level |
 | NATO | North Atlantic Treaty Organization |
 | NM | Nautical Mile |

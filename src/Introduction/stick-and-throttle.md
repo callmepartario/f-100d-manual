@@ -46,10 +46,10 @@ Mechanically controls fuel flow to the engine. The engine fuel control system th
 
 | Reference | Name |
 |-----------|------|
-| 1  | [Throttle Friction Lever](#throttle-friction-lever)|
-| 2  | [Speed Brake Switch](#speed-brake-switch) |
-| 3  | [Microphone Button](#microphone-button) |
-| 4  | [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button) |
+| 1 | [Throttle Friction Lever](#throttle-friction-lever)|
+| 2 | [Speed Brake Switch](#speed-brake-switch) |
+| 3 | [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button) |
+| 4 | [Microphone Button](#microphone-button) |
 
 ### Throttle Friction Lever
 
@@ -65,10 +65,10 @@ Actuates the speed brake. It has 3 positions:
 | **OFF**   | Stops all movement of the speed brake. |
 | **IN**    | Retracts the speed brake. |
 
+### Sight Electrical Caging Button and LABS Vertical Gyro Caging Button
+
+Press to stabilize the sight gyro reticle on the [A-4 Gunsight](../Weapon_System/a-4-gunsight.md) image by caging the sight gyros. This button also serves as the [LABS](../Weapon_System/low-altitude-bombing-system.md) vertical gyro caging button.
+
 ### Microphone Button
 
 The microphone button is a push-to-talk actuation that broadcasts input from the headset microphone using the aircraft's radio transmitter.
-
-### Sight Electrical Caging Button and LABS Vertical Gyro Caging Button
-
-Press to stabilize the sight gyro reticle one the [A-4 Gunsight](../Weapon_System/a-4-gunsight.md) image by caging the sight gyros. This button also serves as the [LABS](../Weapon_System/low-altitude-bombing-system.md) vertical gyro caging button.

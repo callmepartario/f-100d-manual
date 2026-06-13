@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aircraft has three separate constant-pressure type hydraulic systems: utility, and two flight control systems. Each system is individually pressurized by a engine-driven hydraulic pump to 3000 psi.
+The aircraft has three separate constant-pressure type hydraulic systems: utility, and two flight control systems. Each system is individually pressurized by a engine-driven hydraulic pump to 3,000 psi.
 
 In the event of engine-driven pump failure, the secondary flight control system can be driven by a deployable [Ram Air Turbine](#ram-air-turbine-rat) (RAT).
 
@@ -43,12 +43,12 @@ In the event of [utility system](#utility-system) failure, the number 2 system a
 
 The following items are powered by these systems:
 
-| Item                                 | Hydraulic System(s)
-|--------------------------------------|------------
-| Ailerons                             | 1 & 2
-| Horizontal Stabilizer                | 1 & 2
-| Horizontal Stabilizer Trim           | 2
-| Rudder (in case of utility failure)  | 2
+| Item                                 | Hydraulic System |
+|--------------------------------------|------------------|
+| Ailerons                             | 1 & 2 |
+| Horizontal Stabilizer                | 1 & 2 |
+| Horizontal Stabilizer Trim           | 2 |
+| Rudder (in case of utility failure)  | 2 |
 
 ### Ram Air Turbine (RAT)
 
@@ -94,7 +94,7 @@ After testing the [lever](#ram-air-turbine-door-lever), close the Ram Air Turbin
 
 This spring-loaded switch tests if the hydraulic summing valve is functioning correctly for the rudder actuator, ensuring that even in the event of insufficient utility pressure, the rudder functions using the number 2 system pressure.
 
-Hold the switch in the ALTERNATE RUDDER position to shut off utility pressure, then the rudder can be moved. Confirm rudder pressure rises from nominal pressure up to 3000 psi, matching the pressure of the number 2 hydraulic system.
+Hold the switch in the ALTERNATE RUDDER position to shut off utility pressure, then the rudder can be moved. Confirm rudder pressure rises from nominal pressure up to 3,000 psi, matching the pressure of the number 2 hydraulic system.
 
 ### Emergency Speed Brake Dump Lever
 

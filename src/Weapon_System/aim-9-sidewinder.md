@@ -22,7 +22,7 @@ Introduced in 1957 this is the first sidewinder to be put into service. It saw s
 
 Introduced in 1969, this variant boasted peltier cooled seeker for better thermal sensitivity, increased seeker track rate, and improved maneuverability. The seeker gimbal-limit was improved from 25° to 40°, making it significantly more effective against maneuvering targets.
 
-Additionally, the max launch G was increased from 2 G to 7.33 G, allowing launches during maneuvering, overcoming a key shortcoming that plagued the AIM-9B.
+Additionally, the max launch G was increased from 2–7.33 G, allowing launches during maneuvering, overcoming a key shortcoming that plagued the AIM-9B.
 
 #### AIM-9J
 
