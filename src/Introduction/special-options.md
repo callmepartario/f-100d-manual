@@ -42,7 +42,7 @@ This option will adjust the default setting of the Gun Selector Knob. Options ar
 To set the default position of the gun camera selector knob, change to Off, GUN CAM ONLY, STRIKE CAM ONLY, OR BOTH. 
 
 ## Cockpit Customization Options
-In order to enable dynamic instrument panel gauge positions, check Enable Custom Instrument Panel. You can then either randomize between known historical layouts, or enter your own custom panel ID. Visit www.GrinnelliDesigns.com/Customize to create a unique layout ID and paste it in the Custom Instrument Panel ID text field.
+In order to enable dynamic instrument panel gauge positions, check Enable Custom Instrument Panel. You can then either randomize between known historical layouts, or enter your own custom panel ID. Visit [www.GrinnelliDesigns.com/dash-creator](https://grinnellidesigns.com/dash-creator/) to create a unique layout ID and paste it in the Custom Instrument Panel ID text field.
 
 ## Gun Camera Settings
 
