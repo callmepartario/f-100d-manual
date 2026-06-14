@@ -2,10 +2,16 @@
 
 ## Introduction
 
-The KB-3 gun camera on the sight, is an electrically driven, magazine-type, 16 mm motion picture camera that photographs the sight reticle and target simultaneously.
+The KB-3 gun camera on the [A-4 gunsight](../Weapon_System/a-4-gunsight.md), is an electrically driven, magazine-type, 16 mm motion picture camera that photographs the reticle and target simultaneously.
+
+## Enable Gun Camera Recording
+
+Enable recording in the F-100D [Special Options](../Introduction/special-options.md) menu.
+
+Gun camera recordings are generated when the trigger's first detent is pressed. Recordings are saved in `%userprofile%/Saved Games/DCS F-100D` at the end of the mission.
 
 !!! note
-    Due to current limitations in DCS, the Gun Camera and Strike Cameras can only record when the view is in the cockpit.
+    The gun camera and [strike cameras](../Strike%20Camera/strike_camera.md) only record when the view is in the cockpit.
 
 ## Controls
 
@@ -16,14 +22,25 @@ The KB-3 gun camera on the sight, is an electrically driven, magazine-type, 16 m
 
 ### Camera Selection Dial
 
-This dial was originally the control for adjusting lighting conditions for bright, hazy, and dull but was repurposed for ease of gameplay and changed to which camera you would like to record with. The options of strike, gun, or both are available.
+On a real F-100D, this dial controlled for adjusting the camera under bright, hazy, or dull lighting conditions. In this simulated F-100D, it selects the cameras enabled for recording.
+
+| Selection  | Description |
+|------------|-------------|
+| **STRIKE** | Enables [strike camera](../Strike%20Camera/strike_camera.md) recordings. |
+| **GUN**    | Enables gun camera recordings. |
+| **BOTH**   | Enables [strike camera](../Strike%20Camera/strike_camera.md) and gun camera recordings. |
 
 ### Camera Timer
 
-When the gun camera is used during missile firing, a camera timer with two adjustable time intervals controls continued camera operation after the trigger is released. The first time interval, set before missile launch with the large timer knob, labeled **START DELAY ADJUST**, represents camera running time (4–30 seconds) from trigger release to start of the second time interval. The second time interval represents camera running time (2–30 seconds) after completion of the first time interval, and is usually set by the ground crew with the small timer knob, labeled **PRESET RUN TIME**.
+During missile firing, two adjustable timer control recording after the trigger is released. 
 
-Total camera run time after release of the trigger is the total of both time interval settings (6–63 seconds) including the preset overrun time of 0–3 seconds. You can turn these dials to adjust the setting or change them in the special options menu.
+| Interval           | Length (seconds) | Description |
+|--------------------|------------------|-------------|
+| **START DELAY**    | 4–30             | Begins when the trigger is released. Set it using the large timer knob. |
+| **PRESET RUNTIME** | 2–30             | Begins after the start delay ends. Set it using the the small timer knob. |
+| **OVERRUN**        | 0–3              | Begins after the runtime. |
 
-<!--### Ground Crew Operation
+!!!note
+    You can set default intervals in the F-100D [Special Options](../Introduction/special-options.md) menu.
 
-TODO—How to change film, does film refresh when rearming? -->
+<!--### Ground Crew Operation TODO—How to change film, does film refresh when rearming? -->
