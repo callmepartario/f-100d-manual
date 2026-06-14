@@ -18,7 +18,7 @@ The DC System normally receives power from the battery and DC generator. Alterna
 
 ### DC Generator
 
-The engine driven DC generator provides power to the DC systems under normal operation.
+The engine-driven DC generator provides power to the DC systems under normal operation.
 
 !!! note
     The DC generator connects at approximately 40% engine RPM.
@@ -52,7 +52,7 @@ Tertiary bus powers non-essential equipment. It is energized by the primary bus 
 
 ### AC Generator
 
-The engine driven AC generator provides power to the AC systems under normal operation. The AC generator is driven by a constant speed drive driven by the engine.
+The engine-driven AC generator provides power to the AC systems under normal operation. The AC generator is driven by a constant speed drive powered by the engine.
 
 !!! note
     The constant speed drive takes up to a minute at idle power to come up to speed so that the AC generator can come on the line. To expedite this process the pilot can advance the throttle up to 72% (or until the generator comes online).
@@ -62,7 +62,7 @@ The engine driven AC generator provides power to the AC systems under normal ope
 
 ### Main Three-Phase AC Bus (115V)
 
-Main three-phase AC bus powers essential equipment which demands AC power. Power is provided by the engine driven AC generator.
+Main three-phase AC bus powers essential equipment which demands AC power. Power is provided by the engine-driven AC generator.
 
 ### AC Instrument Buses (115V and 26V)
 

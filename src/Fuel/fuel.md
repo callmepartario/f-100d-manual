@@ -14,10 +14,10 @@ There are 4 primary fuel tanks:
 
 | Tank | Cells | Capacity (combined in lbs) | Description |
 |------|-------|----------------|-------------|
-| Forward Fuselage | Upper, Centre Left, Centre Right, Lower | 2912 | Engine Manifold primarily draws from this tank. |
-| Intermediate Fuselage | Left, Right | 1391 | These primarily feed into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the right cell can directly feed the engine. |
+| Forward Fuselage | Upper, Centre Left, Centre Right, Lower | 2,912 | Engine Manifold primarily draws from this tank. |
+| Intermediate Fuselage | Left, Right | 1,391 | These primarily feed into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the right cell can directly feed the engine. |
 | Aft Fuselage | Centre | 702 | This primarily feeds into the forward fuselage however in case of [transfer pump](#fuel-transfer-and-scavenge-pumps) failure the aft fuselage can gravity transfer to the intermediate fuselage tank. |
-| Wing | Left, Right | 2723 | These feed into forward fuselage by gravity and the [scavenge pumps](#fuel-transfer-and-scavenge-pumps) |
+| Wing | Left, Right | 2,723 | These feed into forward fuselage by gravity and the [scavenge pumps](#fuel-transfer-and-scavenge-pumps) |
 | External | Up to one per wing pylon | configuration dependent | These feed into the forward fuselage tank via bleed air pressure. Which pair of tanks feeding depends on the [drop tank selector switch](#drop-tank-selector-switch) position. |
 
 ![fuel system](./img/fuel-system.png)
@@ -43,7 +43,7 @@ There are a total of three boost pumps, all three are located in the forward tan
 
 There are two transfer pumps. Normally the intermediate and aft tanks transfer to the forward tanks when the level of the forward tank drops. This is to maintain mass balance but also because the primary feed is in the forward tank.
 
-In the event of transfer pump failure it may not be possible to transfer all fuel from the intermediate and aft tanks as such the intermediate tank can directly feed the engine by gravity. The aft tank can also transfer using gravity to the intermediate tank for direct feed to the engine in this scenario.
+In the event of transfer pump failure, it might not be possible to transfer all fuel from the intermediate and aft tanks as such the intermediate tank can directly feed the engine by gravity. The aft tank can also transfer using gravity to the intermediate tank for direct feed to the engine in this scenario.
 
 !!! warning
     When the afterburner is operating, fuel flow exceeds transfers from external and internal tanks to the forward tank. Monitor the forward fuel tank level and avoid engine flame-outs due to insufficient fuel.

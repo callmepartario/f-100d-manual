@@ -54,7 +54,7 @@ As the aircraft moves the gyro gradually topples, because it is pointed at a fix
 
 ### Thermal Relay
 
-A thermal relay is incorporated into the slaving circuit to control the fast-slave cycle. When the system is switched to the **MAG** position, the relay heats and closes after a brief delay, supplying high voltage to the slaving torque motor for rapid alignment of the gyro to magnetic north. After the fast-slave period ends, the relay cools and reopens, returning the system to its normal slaving rate. Because the relay must cool fully before another fast-slave cycle can occur, repeated switching between **MAG** and **DG** without sufficient cooling time may prevent proper slaving and result in heading errors.
+A thermal relay is incorporated into the slaving circuit to control the fast-slave cycle. When the system is switched to the **MAG** position, the relay heats and closes after a brief delay, supplying high voltage to the slaving torque motor for rapid alignment of the gyro to magnetic north. After the fast-slave period ends, the relay cools and reopens, returning the system to its normal slaving rate. Because the relay must cool fully before another fast-slave cycle can occur, repeated switching between **MAG** and **DG** without sufficient cooling time can prevent proper slaving and result in heading errors.
 
 ### Remote Compass Transmitter (J-4 Compass)
 
@@ -86,7 +86,7 @@ The function selector switch is a two-position switch marked **MAG** and **DG**.
     Straight and level flight must be maintained for 15 seconds before attempting to fast-slave the compass indicator. This should permit the rate-switching gyro to restore the magnetic slaving signal to the compass system and allow the compass indicator to synchronize with the correct magnetic heading.
 
 !!! caution
-    Two minutes must elapse when switching from the magnetic mode to the directional gyro mode and back to the magnetic mode. This is for cooling of the thermal relay that controls the fast-slave cycle. If the relay is not cooled to permit another complete fast-slave cycle, the indicator may stop at an erroneous reading.
+    Two minutes must elapse when switching from the magnetic mode to the directional gyro mode and back to the magnetic mode. This allows the thermal relay that controls the fast-slave cycle to cool. If the relay is not cooled properly, the indicator can stop at an erroneous reading.
 
 ### Annunciator
 
@@ -106,8 +106,8 @@ The hemisphere switch is set by the ground crew and is not accessible to the pil
 ## Normal Operation
 
 1. Confirm the hemisphere switch has been properly set by ground crew before flight.
-2. Turn the [function selector switch](#function-selector-switch) to **MAG** for normal, slaved operation.
+2. Turn the [function selector switch](#function-selector-switch) to the **MAG** position for normal, slaved operation.
 3. Maintain straight and level flight for at least 15 seconds to allow the remote compass transmitter and gyro to stabilize.
 4. If the heading indication is incorrect, rotate the [synchronizer switch](#synchronizer-control-knob) in the direction indicated by the [annunciator](#annunciator) until the heading pointer aligns with the magnetic heading.
 5. Adjust the [latitude correction knob](#latitude-correction-knob) to the aircraft's current latitude to minimize direction gyro drift.
-6. If switching between **MAG** and **DG** allow 2 minutes to elapse before returning the switch to **MAG** to ensure the thermal relay cools and the fast-slave cycle can operate correctly.
+6. If switching between **MAG** and **DG** wait 2 minutes before returning the switch to **MAG** to ensure the thermal relay cools, and the fast-slave cycle completes correctly.

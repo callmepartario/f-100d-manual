@@ -6,9 +6,9 @@ Failures of jet engines can be the result of improper fuel scheduling, caused by
 
 A landing should be made as soon as possible. If the light comes on in flight and a flame-out occurs, the throttle setting should be reduced and as a last resort cycle the fuel system shutoff switch in an attempt to open the valve and extinguish the light. Regardless of light indication, attempt an air start.
 
-In the event of obvious mechanical failure within the engine, air starts should not be attempted. When a frozen engine is suspected because of zero RPM indication but no obvious mechanical failure has occurred, normal utility hydraulic pressure and engine oil pressure will indicate the engine is rotating and the accessory drive is operating, and an air start should be attempted. If there is no indication of utility pressure or oil pressure, a successful air start is unlikely.
+In the event of obvious mechanical failure within the engine, air starts should not be attempted. When a frozen engine is suspected because of 0% RPM indication but no obvious mechanical failure has occurred, normal utility hydraulic pressure and engine oil pressure will indicate the engine is rotating and the accessory drive is operating, and an air start should be attempted. If there is no indication of utility pressure or oil pressure, a successful air start is unlikely.
 
-In the event of obvious mechanical failure within the engine, air starts should not be attempted. When a frozen engine is suspected because of zero RPM indication but no obvious mechanical failure has occurred, normal utility hydraulic pressure and engine oil pressure will indicate the engine is rotating and the accessory drive is operating, and an air start should be attempted. If there is no indication of utility pressure or oil pressure, a successful air start is unlikely.
+In the event of obvious mechanical failure within the engine, air starts should not be attempted. When a frozen engine is suspected because of 0% RPM indication but no obvious mechanical failure has occurred, normal utility hydraulic pressure and engine oil pressure will indicate the engine is rotating and the accessory drive is operating, and an air start should be attempted. If there is no indication of utility pressure or oil pressure, a successful air start is unlikely.
 
 1. Throttle—**OFF**.
 

@@ -12,4 +12,4 @@ If the fuel valve fail light illuminates steadily, or flickers during ground rol
 If it is not feasible to abort, continue takeoff and land as soon as possible.
 
 !!! warning
-    Do not cycle the fuel system shutoff switch. Cycling the switch may cause the fuel system shutoff valve to close and, if a failure has occurred, it may not reopen. This will cause a flame-out and restart will not be possible.
+    Do not cycle the fuel system shutoff switch. Cycling the switch can  cause the fuel system shutoff valve to close, and if a failure has occurred, it might not reopen, causing a flame-out and preventing a restart.

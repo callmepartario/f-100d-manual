@@ -12,10 +12,8 @@ If the BOOST PUMP INOP light comes on, fuel pressure to the engine has dropped b
 
 1. Terminate afterburner operation.
 
-    !!! note
-        Afterburner should not be used when
-        fuel in forward tank is less than
-        250 pounds.
+!!! note
+    Afterburner should not be used when fuel in forward tank is less than 250 pounds.
 
 2. Descend to below 25,000 feet.
 3. All aircraft maneuvers should be as gentle as possible keeping the aircraft loading as near as possible to 1 G. Avoid nose-down attitudes in excess of 20°.

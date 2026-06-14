@@ -114,7 +114,7 @@ A complete operational check of the command radio is performed as follows:
 2. Check settings of buttons on frequency control drum with frequency card. To do this, open door to which frequency card is attached. The channel number which corresponds to the preset frequency appears in a window at the left of the buttons. The frequency numbers of this channel are listed above the buttons.
 3. Check operation of transmitter and main receiver with [sliding selector control](#manual-preset-guard-sliding-selector) in each position.
 4. Check operation of the guard receiver using the **BOTH** position of [function switch](#function-switch).
-5. For initial channel selection, select a channel other than the one to be used until warm-up is completed, or after warm-up, switch to another channel and then back to the one desired. If the desired channel is selected before warm-up is completed, reduced performance due to mistuning may result.
+5. For initial channel selection, select a channel other than the one to be used until warm-up is completed, or after warm-up, switch to another channel and then back to the one desired. If the desired channel is selected before warm-up is completed, reduced performance due to mistuning can result.
 6. Adjust [volume](#volume-control) as desired.
 7. For manual selection of a frequency that is not included in the preset channels, moving [sliding selector control](#manual-preset-guard-sliding-selector) to **MANUAL**. Use frequency knobs across top of panel to establish desired frequency. (The function switch
 must be at **MAIN** or **BOTH** for this operation.)

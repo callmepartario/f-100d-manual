@@ -38,4 +38,4 @@ The forward camera is a Type N-9, identical to the Type N-9 that is [gun camera]
 
 ### DBM-4C Aft Camera
 
-The aft camera is a Type DBM-4C that is an electrically driven, 16 mm internally loaded reel type camera. It has a 17–68 mm variable focal-length lens. The aft camera mount is adjustable to permit variations in elevation from 0 (directly aft)–25° down and from 45–60° down.
+The aft camera is a Type DBM-4C that is an electrically-driven, 16 mm internally loaded reel type camera. It has a 17–68 mm variable focal-length lens. The aft camera mount is adjustable to permit variations in elevation from 0 (directly aft)–25° down and from 45–60° down.

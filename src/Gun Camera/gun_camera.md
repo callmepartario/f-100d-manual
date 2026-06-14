@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The KB-3 gun camera on the [A-4 gunsight](../Weapon_System/a-4-gunsight.md), is an electrically driven, magazine-type, 16 mm motion picture camera that photographs the reticle and target simultaneously.
+The KB-3 gun camera on the [A-4 gunsight](../Weapon_System/a-4-gunsight.md), is an electrically-driven, magazine-type, 16 mm motion picture camera that photographs the reticle and target simultaneously.
 
 ## Enable Gun Camera Recording
 

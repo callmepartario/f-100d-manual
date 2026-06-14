@@ -3,45 +3,22 @@
 
 If a spin is inadvertently entered, proceed as follows:
 
-1. THROTTLE—IDLE. Retard throttle to IDLE to -
-prevent compressor stall.
-2. CONTROLS—RELEASE. Release all controls and
-determine spin direction.
-3. EXTERNAL LOAD—JETTISON.,
+1. THROTTLE—**IDLE**—Retard throttle to IDLE to prevent compressor stalls.
+2. Flight Stick—**RELEASE**—Release all controls and determine spin direction.
+3. External Load—**JETTISON**
 
-    !!! warning
-        If only pylons are installed, jettison the pylons.
+!!! warning
+    If only pylons are installed, jettison the pylons.
     
-4. LANDING GEAR, WING FLAPS, AND SPEED
-BRAKE—UP, If landing gear, wing flaps, and speed
-brake are extended when spin is entered, immediately
-move landing gear and wing flap handles up and speed
-brake switch in. This action is to preclude structural
-damage in the event airspeed limits are exceeded
-during recovery.
-5. FULL OPPOSITE RUDDER, FULL AILERONS
-WITH SPIN, AND FULL AFT STICK.
-6. When rotation stops—Initiate stall recovery procedures.
-When rotation stops, aircraft is in a stall
-attitude; therefore, use prescribed stall recovery technique.
+4. Landing Gear—**UP**—Wing Flaps—**UP**—Speed Brake—**UP**—Retracting these surfaces prevents structural damage from excess airspeed during recover.
+5. Rudder—**FULL OPPOSITE**—Ailerons—**FULL WITH SPIN**—Flight Stick—**FULL AFT**
+6. When rotation stops—**STALL RECOVERY**—When rotation stops, recover the aircraft from its stall attitude.
 
-    !!! warning
-        Do not hold recovery controls after rotation
-        stops; otherwise, the aircraft will
-        spin in the opposite direction.
+!!! warning
+    Do not hold recovery controls after rotation stops; otherwise, the aircraft will spin in the opposite direction.
 
-    !!! warning
-        In attempting recovery from a spin, do not
-        d ailerons against the spin, because a flat
-        n may result. Ifa flat spin is entered, hold
-        mal recovery controls until rotation stops.
+!!! warning
+    While recovering, holding ailerons against the spin can rsult in a flat spin. In a flat spind, hold normal recovery controls until rotation stops.
 
-    !!! warning
-        If. spin is entered at less than 10,000 feet
-        above the terrain or if recovery from a
-        spin entered at a higher altitude has not
-        been completed by the time you pass
-        through 10,000 feet above the terrain,
-        eject. There will not be enough terrain
-        clearance if spin recovery is not completed
-        by 10,000 feet.
+!!! warning
+    If entering spin at less than 10,000 feet AGL, or spin recovery is not accomplished at 10,000 AGL, there will not be enough terrain clearance. Eject.

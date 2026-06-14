@@ -14,7 +14,7 @@ The Environmental Control System is everything that keeps the cabin comfortable 
 4. [IFF Antenna Selector Switch](#iff-antenna-selector-switch)
 5. [Cockpit Temperature Rheostat](#cockpit-temperature-rheostat)
 6. [Cockpit Temperature Master Switch](#cockpit-temperature-master-switch)
-7. Marker Beacon Volume Knob ***INOP***
+7. _Marker Beacon Volume Knob (INOP)_
 
 ### Cockpit Pressure Selector Switch
 

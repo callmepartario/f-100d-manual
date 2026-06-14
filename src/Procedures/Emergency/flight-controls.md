@@ -7,15 +7,17 @@
 
 The aztificial-feel system failure can be indicated by a lightening of stick forces (resulting in over-control), lack of trim response, and poor stick-centering characteristics. If failure of flight control artificial-feel is encountered, proceed as follows:
 
-1. Airspeed—Reduce. Reduction of airspeed may relieve severe oscillation of the aircraft.
+1. Airspeed—**REDUCE**—Until severe oscillation abates.
 2. If adequate control cannot be maintained—**EJECT**
 
 !!! warning
     Ejection is recommended whenever failure of the artificial-feel system is evident by loss of adequate control.
 
-## Flight Control Hydraulic System Failure.
+## Flight Control Hydraulic System Failure
 
-Failure of one flight control hydraulic system does not affect the operation of the other system, which assumes the entire load of flight control operation. (Refer to Flight Control Hydraulic Systems in section I.) The mission should be aborted and a landing made as soon as possible; however, under such a condition, flight control operation may be somewhat slower because of reduction of hydraulic flow. If either system fails, the flight system failure warning light will come on. Proceed as follows:
+Failure of one flight control hydraulic system does not affect the operation of the other system, which assumes the entire load of flight control operation. (Refer to Flight Control Hydraulic Systems in section I.) The mission should be aborted and a landing made as soon as possible; however, under such a condition, flight control operation can be somewhat slower because of reduction of hydraulic flow. If either system fails, the flight system failure warning light will come on.
+
+Proceed as follows:
 
 1. Determine which system has failed. Check each system hydraulic pressure to determine the nature of the failure. Low pressure indicates a pump or line failure with resultant loss of pressure. Normal pressure but with no fluctuation in response to fore-and-aft control movement indicates a blocked or run-around condition. The emergency hydraulic pump will not supplement the No. | system in case of a No. 2 system block.
 2. Land as soon as possible.

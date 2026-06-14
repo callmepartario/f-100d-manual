@@ -56,7 +56,9 @@ Advance checklist command is used to manually check items which are not automati
 
 The checklist structure is made from a json file listing the procedures and categories. When a `checklist.json` is provided in `C:/users/<you username>/Saved Games/DCS: F-100D` this custom checklist is used. As a starting point you can copy the built-in checklist which is found `DCS World/Mods/Aircraft/f-100d/checklist/default.json`.
 
-If this checklist fails to load because of a syntax error then that error is reported in your DCS log located in `C:/users/<you username>/Saved Games/DCS/Logs/dcs.log`. Example error may look like
+If this checklist fails to load because of a syntax error then that error is reported in your DCS log located in `C:/users/<you username>/Saved Games/DCS/Logs/dcs.log`.
+
+Here's an example error:
 
 ```text
 ERROR   F100 (Main): [Checklist Load Error]: [json.exception.parse_error.101] parse error at line 26, column 35: syntax error while parsing object - unexpected string literal; expected '}'
