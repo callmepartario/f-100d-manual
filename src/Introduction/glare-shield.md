@@ -1,15 +1,14 @@
 # Above the Glare Shield
-![replace image](./img/glareshield.png)
 
 This section covers general items on the above the glare shield in the cockpit. More specific items are covered elsewhere.
 
-| Reference | Name |
-|-----------|------|
-| 1         | [RHAW Vector Indicator and Control Panel](../RHAW/RHAW.md#controls-and-indicators) |
-| 2         | [Drag Chute Handle](#drag-chute-handle) |
-| 3         | [A-4 Gunsight](../Weapon_System/a-4-gunsight.md) |
-| 4         | [Status Display Lights](../Weapon_System/armament-control-panels.md#status-display-lights) |
-| 5         | [Wet Magnetic Compass](#wet-magnetic-compass) |
+![replace image](./img/glareshield.png)
+
+1. [RHAW Vector Indicator and Control Panel](../RHAW/RHAW.md#controls-and-indicators)
+2. [Drag Chute Handle](#drag-chute-handle)
+3. [A-4 Gunsight](../Weapon_System/a-4-gunsight.md)
+4. [Status Display Lights](../Weapon_System/armament-control-panels.md#status-display-lights)
+5. [Wet Magnetic Compass](#wet-magnetic-compass)
 
 ## Wet Magnetic Compass
 

@@ -8,14 +8,12 @@ The flight stick is mechanically connected to the aircraft's hydraulic systems f
 
 ![replace image](./img/stick.png)
 
-| Reference | Name |
-|-----------|------|
-| 1         | Damper Emergency Disconnect Switch Lever |
-| 2         | [Nose Wheel Steering Button](#nose-wheel-steering) |
-| 3         | [Trigger](../Weapon_System/guns.md) |
-| 4         | [Radar Reject Button](../Weapon_System/a-4-gunsight.md#radar-reject-button) |
-| 5         | [Pickle Button](../Weapon_System/introduction.md#air-to-ground) |
-| 6         | [Trim Hat](#trim-hat) |
+1. Damper Emergency Disconnect Switch Lever
+2. [Nose Wheel Steering Button](#nose-wheel-steering)
+3. [Trigger](../Weapon_System/guns.md)
+4. [Radar Reject Button](../Weapon_System/a-4-gunsight.md#radar-reject-button)
+5. [Pickle Button](../Weapon_System/introduction.md#air-to-ground)
+6. [Trim Hat](#trim-hat)
 
 !!! note
     Hide the flight stick by clicking the base.
@@ -44,12 +42,10 @@ Mechanically controls fuel flow to the engine. The engine fuel control system th
 
 ![replace image](./img/throttle.png)
 
-| Reference | Name |
-|-----------|------|
-| 1 | [Throttle Friction Lever](#throttle-friction-lever)|
-| 2 | [Speed Brake Switch](#speed-brake-switch) |
-| 3 | [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button) |
-| 4 | [Microphone Button](#microphone-button) |
+1. [Throttle Friction Lever](#throttle-friction-lever)
+2. [Speed Brake Switch](#speed-brake-switch)
+3. [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button)
+4. [Microphone Button](#microphone-button)
 
 ### Throttle Friction Lever
 

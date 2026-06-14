@@ -4,7 +4,7 @@
 
 ## Welcome
 
-**Grinnelli Designs is proud to present our DCS: F-100D Super Sabre.**
+**Grinnelli Designs is proud to present our DCS: F-100D Super Sabre!**
 
 The North American F-100D Super Sabre occupies a unique place in aviation history. As the first United States Air Force fighter capable of sustained supersonic level flight, it represented a major leap beyond the legendary F-86 Sabre. Designed during the dawn of the supersonic age, and refined through years of operational experience, the F-100D evolved into one of the most important fighter-bombers of the Cold War, and became a mainstay of U.S. Air Force operations during the Vietnam War.
 
@@ -26,7 +26,7 @@ The F-100D is not an aircraft that can be mastered overnight. It demands discipl
 
 We hope you enjoy learning, flying, and mastering the DCS: F-100D Super Sabre as much as we have enjoyed bringing it to life. Whether you are exploring Cold War operations, reliving the skies over Vietnam, or simply experiencing one of the most significant fighters ever built, we wish you success and many memorable flights ahead.
 
-*-The Grinnelli Designs F-100D Development Team*
+*—The Grinnelli Designs F-100D Development Team*
 
 ## History
 

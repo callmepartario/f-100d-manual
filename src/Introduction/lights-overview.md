@@ -1,4 +1,5 @@
 # Indicator, Caution, and Warning Lights
+
 Indicator, caution, and warning lights are placed throughout the cockpit in order to notify the pilot of the status of systems. Each category has a different meaning. Nearly all aircraft cockpit lights are powered by the primary bus.
 
 | Category | Meaning | Color |
@@ -10,7 +11,7 @@ Indicator, caution, and warning lights are placed throughout the cockpit in orde
 The three-position indicator light dimmer switch controls the brightness of the indicator, caution, and warning lights when the instrument panel lights are on. The in-flight control tester panel has its own integral brightness control.
 
 !!! note
-    The indicator light test switch changes the indicator lights to bright when released. To dim the indicator lights after using the indicator light test switch, move the indicator light dimmer switch to BRIGHT, then to DIM, and release to the center off position.
+    The indicator light test switch changes the indicator lights to bright when released. To dim the indicator lights after using the indicator light test switch, move the indicator light dimmer switch to **BRIGHT**, then **DIM**, and release to the center **OFF** position.
 
 ## Indicator, Caution, and Warning Light Panel
 
@@ -32,9 +33,11 @@ The three-position indicator light dimmer switch controls the brightness of the 
 | AIR REFUELING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
 
 ## Indicator Light Test Circuit
+
 The indicator light test circuit is a means of merely testing the integrity and operation of the bulbs. All indicator, caution, and warning lights illuminate simultaneously to exclude the engine compartment fire **FIRE ENG COMP** and overheat **OVERHEAT ENG BURN** warning lights, of which have a separate test circuit. All lights in the test circuit are powered by the primary bus. 
 
 ## Master Caution Light
+
 The master caution light indicated certain indicator or caution lights have illuminated. The master caution light must be put out in order to not inhibit the illumination of additional lights. To extinguish the master caution light, the pilot must press the respective indicator or caution light that caused the master caution to become illuminated.
 
 !!! note

@@ -1,18 +1,17 @@
 # Ejection Seat
-![replace image](./img/seat.png)
 
 Ejection can be initiated at any airspeed or attitude. The ballistic rocket ejection seat catapult provides the zero-altitude ejection capability, and a minimum airspeed and additional vertical stabilizer clearance during ejection of speeds up to Mach 1. 
 
-| Reference | Name |
-|-----------|------|
-| 1         | [Canopy Safety Pin](#canopy-and-seat-safety-pins) |
-| 2         | [Seat Safety Pin](#canopy-and-seat-safety-pins) |
-| 3         | [Ejection Seat Hand Grip](#ejection-seat-hand-grips) |
-| 4         | [Seat Height Position Switch](#seat-height-position) |
-| 5         | [Arm Rest](#armrest) |
-| 6         | [Arm Rest](#armrest) |
-| 7         | Shoulder Harness Inertia Reel Lock Lever ***INOP***|
-| 8         | [Ejection Seat Hand Grip](#ejection-seat-hand-grips) |
+![replace image](./img/seat.png)
+
+1. [Canopy Safety Pin](#canopy-and-seat-safety-pins)
+2. [Seat Safety Pin](#canopy-and-seat-safety-pins)
+3. [Ejection Seat Hand Grip](#ejection-seat-hand-grips)
+4. [Seat Height Position Switch](#seat-height-position)
+5. [Arm Rest](#armrest)
+6. [Arm Rest](#armrest)
+7. _Shoulder Harness Inertia Reel Lock Lever (INOP)_
+8. [Ejection Seat Hand Grip](#ejection-seat-hand-grips)
 
 ## Canopy and Seat Safety Pins
 

@@ -1,44 +1,42 @@
 # Instrument Panel
 The instrument panel of the F-100D contains a careful selection of essential gauges for basic operation, navigation, and system monitoring. All gauges suffer from installation error and other errors as a result of wear and tear. During the F-100D's service lifetime, it was common to leave a majority of the aircraft's gauges unmaintained. You might notice occasional frictional spikes and slight reading errors modeled by the simulation.
 
-![replace image](./img/mainpanel.png)
-
 This section covers flight instruments needed for basic aircraft operation. For more information, see the respective system's section.
 
-| Reference | Name |
-|-----------|------|
-| 1         | [Command Radio Remote Channel Indicator](../ARC-34%20Command%20Radio/command-radio.md#remote-channel-indicator) |
-| 2         | [Standby Attitude Indicator](#standby-attitude-indicator) |
-| 3         | [Clock](#clock) |
-| 4         | [Sight Selector Unit](../Weapon_System/a-4-gunsight.md#1-sight-selector-switch) |
-| 5         | [Tacan Range Indicator](../ARN-72%20TACAN/tacan.md#tacan-range-indicator) |
-| 6         | [Master Heading Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro) |
-| 7         | [Airspeed and Mach Indicator](#airspeed-and-mach-indicator) |
-| 8         | [AC Load Meter](../Electrical/electrical.md#ac-load-meter) |
-| 9         | [DC Load Meter](../Electrical/electrical.md#dc-load-meter) |
-| 10        | [Master Caution Light](./lights-overview.md#master-caution-light) |
-| 11        | [Attitude Indicator](#attitude-indicator) |
-| 12        | [Radio Magnetic Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro) |
-| 13        | [Course Indicator](../ARN-72%20TACAN/tacan.md) |
-| 14        | _Tacan ILS Light (Inoperative)_ |
-| 15        | [Altimeter](#altimeter) |
-| 16        | [Vertical Velocity Indicator](#vertical-velocity-indicator) |
-| 17        | [Gun Missile Switch](../Weapon_System/guns.md#gun-missile-switch) |
-| 18        | [Attitude Indicator Fast Erection Button](#attitude-indicator-fast-erection-button) |
-| 19        | [Fire and Overheat Warning Lights](./lights-overview.md#other) |
-| 20        | [Turn and Slip Indicator](#turn-and-slip-indicator) |
-| 21        | [LABS Dive and Roll Indicator](../Weapon_System/low-altitude-bombing-system.md#pitch-indicator) |
-| 22        | [LABS Release Indicator Light](../Weapon_System/low-altitude-bombing-system.md#pullup-light) |
-| 23        | [Accelerometer](#accelerometer) |
-| 24        | [Hydraulic Pressure Gauge Selector Switch](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
-| 25        | [Hydraulic Pressure Gauge](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
-| 26        | [Oil Pressure Gauge](../Engine/engine.md#oil-pressure-gauge) |
-| 27        | [Exhaust Temperature Gauge](../Engine/engine.md#exhaust-temperature-gauge) |
-| 28        | [Tachometer (RPM)](../Engine/engine.md#tachometer) |
-| 29        | [Engine Pressure Ratio Gauge](../Engine/engine.md#engine-pressure-ratio-gauge) |
-| 30        | [Fuel Flow Indicator](../Fuel/fuel.md#fuel-flow-indicator) |
-| 31        | [Fuel Quantity Gauges](../Fuel/fuel.md#forward-fuel-quantity-gauge) |
-| 32        | [Fuel BOOST PUMP INOP Light](../Fuel/fuel.md#fuel-boost-pump-light) |
+![replace image](./img/mainpanel.png)
+
+1. [Command Radio Remote Channel Indicator](../ARC-34%20Command%20Radio/command-radio.md#remote-channel-indicator)
+2. [Standby Attitude Indicator](#standby-attitude-indicator)
+3. [Clock](#clock)
+4. [Sight Selector Unit](../Weapon_System/a-4-gunsight.md#1-sight-selector-switch)
+5. [Tacan Range Indicator](../ARN-72%20TACAN/tacan.md#tacan-range-indicator)
+6. [Master Heading Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro)
+7. [Airspeed and Mach Indicator](#airspeed-and-mach-indicator)
+8. [AC Load Meter](../Electrical/electrical.md#ac-load-meter)
+9. [DC Load Meter](../Electrical/electrical.md#dc-load-meter)
+10. [Master Caution Light](./lights-overview.md#master-caution-light)
+11. [Attitude Indicator](#attitude-indicator)
+12. [Radio Magnetic Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro)
+13. [Course Indicator](../ARN-72%20TACAN/tacan.md)
+14. _Tacan ILS Light (Inoperative)_
+15. [Altimeter](#altimeter)
+16. [Vertical Velocity Indicator](#vertical-velocity-indicator)
+17. [Gun Missile Switch](../Weapon_System/guns.md#gun-missile-switch)
+18. [Attitude Indicator Fast Erection Button](#attitude-indicator-fast-erection-button)
+19. [Fire and Overheat Warning Lights](./lights-overview.md#other)
+20. [Turn and Slip Indicator](#turn-and-slip-indicator)
+21. [LABS Dive and Roll Indicator](../Weapon_System/low-altitude-bombing-system.md#pitch-indicator)
+22. [LABS Release Indicator Light](../Weapon_System/low-altitude-bombing-system.md#pullup-light)
+23. [Accelerometer](#accelerometer)
+24. [Hydraulic Pressure Gauge Selector Switch](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob)
+25. [Hydraulic Pressure Gauge](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob)
+26. [Oil Pressure Gauge](../Engine/engine.md#oil-pressure-gauge)
+27. [Exhaust Temperature Gauge](../Engine/engine.md#exhaust-temperature-gauge)
+28. [Tachometer (RPM)](../Engine/engine.md#tachometer)
+29. [Engine Pressure Ratio Gauge](../Engine/engine.md#engine-pressure-ratio-gauge)
+30. [Fuel Flow Indicator](../Fuel/fuel.md#fuel-flow-indicator)
+31. [Fuel Quantity Gauges](../Fuel/fuel.md#forward-fuel-quantity-gauge)
+32. [Fuel BOOST PUMP INOP Light](../Fuel/fuel.md#fuel-boost-pump-light)
 
 !!! caution
     If you enable the custom dashboard layout in the F-100D [Special Options](special-options.md), you can randomize the instrument panel layout each flight, or select one of your preference using the [Grinelli Designs F-100D Dash Creator](https://grinnellidesigns.com/dash-creator/) and entering the code into the menu.

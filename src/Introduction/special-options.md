@@ -1,14 +1,15 @@
 # Special Options
+
 Various special options have been added for user quality of life and customization. This section explains each special option in depth. 
 
 These options are located in the open the DCS options from the main menu, open the SPECIAL tab, then select the F-100D from the left column.
-
 
 ## Gameplay
 
 ![special options image](./img/special_options-1.png)
 
 ### Cockpit Camera Shake
+
 The cockpit camera shake can be adjusted on this slider as an overall multiplier to global cockpit camera shake.
 
 ### Pylon Control Armament Assistance
@@ -22,6 +23,7 @@ This decides how the [pylon loading control panel](../Weapon_System/armament-con
 | **FULL**     | Set automatically on spawn and after rearming complete.
 
 ### Autostart Mode
+
 | Setting         | Startup |
 |-----------------|---------|
 | **FULL**        | Opts out of any auto start assistance for a complete cold-and-dark start. |
