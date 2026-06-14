@@ -55,6 +55,7 @@ Definitions and abbreviations used in the manual are covered here.
 | DCS | Digital Combat Simulator |
 | ECSL | Electrically Caged Sight Line |
 | EPR | Engine Pressure Ratio |
+| FFAR | Folding Fin Aerial Rockets |
 | FRL | Fuselage Reference Line |
 | GHz | Gigahertz |
 | HI-FLO | High Flow |
