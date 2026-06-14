@@ -95,3 +95,4 @@ Definitions and abbreviations used in the manual are covered here.
 | USAF | United States Air Force |
 | VGI | Vertical Gyro Indicator |
 | WX | Weather |
+| ZELL | Zero-Length Launch |
