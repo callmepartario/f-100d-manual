@@ -119,13 +119,13 @@ An example is shown below.
 
 ![mode-sel](./img/mode-sel.png)
 
-| Position | Condition
-|----------|-----------
-| **OFF**      | 0
-| **SIGHT RADAR** | 1
-| **MANUAL** | 2
-| **LABS** | 3
-| **LABS ALT** | 4
+| Position        | Condition |
+|-----------------|-----------|
+| **OFF**         | 0         |
+| **SIGHT RADAR** | 1         |
+| **MANUAL**      | 2         |
+| **LABS**        | 3         |
+| **LABS ALT**    | 4         |
 
 The conditions can easily tested by seeing at which position the checklist automatically checks off your item, this can then be used to confirm your index is correct.
 
@@ -144,10 +144,10 @@ These are pre-programmed special conditions that can be used. All these conditio
 
 There are two methods of condition checking, the default method always checks the conditions no matter the current item in the checklist. If once is set to true then the condition is only checked when this item is the current item. This is useful for items which must happen once and then are reset. An example is the starter cartridge.
 
-| Item | State
-|------|--------------------
-| Starter Cartridge | Install
-| Engine Master Switch | On
-| Start and Ignition | Press Momentarily
+| Item                 | State |
+|----------------------|-------|
+| Starter Cartridge    | Install |
+| Engine Master Switch | On |
+| Start and Ignition   | Press Momentarily |
 
 The cartridge is burned when the ignition button is pressed so if we checked it continuously then it would uncheck itself. So we add the `"once" : true` key-value pair to this item. The same applies to the Start and Ignition button.

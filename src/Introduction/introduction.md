@@ -34,11 +34,11 @@ We hope you enjoy learning, flying, and mastering the DCS: F-100D Super Sabre as
 
 The F-100D Super Sabre entered service in 1956 as the U.S. Air Force's definitive fighter-bomber. Succeeding the legendary F-86, it was the first fighter aircraft capable of supersonic speed in level flight. Although developed as a day air-superiority fighter, the Super Sabre family eventually saw the F-100D repurposed as a ground-attack platform. Extensive use of the F-100D during the Vietnam War made it the most widely produced variant.
 
-Building on the legacy and performance of its predecessor, the F-100's distinctive 45-degree swept-wing design introduced unique handling challenges at low speeds. In particular, inexperienced pilots could encounter the notorious "Sabre Dance": A phenomenon resulting from increasing adverse yaw, inertial coupling, and wing-tip stall.
+Building on the legacy and performance of its predecessor, the F-100's distinctive 45° swept-wing design introduced unique handling challenges at low speeds. In particular, inexperienced pilots could encounter the notorious "Sabre Dance": A phenomenon resulting from increasing adverse yaw, inertial coupling, and wing-tip stall.
 
 The Super Sabre is equipped with four 20 mm Pontiac M39 cannons mounted in the lower fuselage beneath the cockpit, providing formidable firepower. It is capable of carrying up to four AIM-9 Sidewinder air-to-air, infrared-guided missiles for targeting enemy aircraft. The aircraft also features six underwing hardpoints that can carry a total payload of up to 7,040 lb of conventional bombs, rockets, napalm, and the AGM-45 Shrike anti-radiation missile used to attack radar installations. To support both aerial gunnery and air-to-ground bombing, the aircraft is equipped with a fire control system that helps the pilot accurately aim and release weapons.
 
-The Sabre features a 45-degree swept wing, supersonic level flight and in flight aerial refueling capability. Underwing stations can be used to maximize range with fuel tanks or add additional ordnance.
+The Sabre features a 45° swept wing, supersonic level flight and in flight aerial refueling capability. Underwing stations can be used to maximize range with fuel tanks or add additional ordnance.
 
 ### Project High Wire
 ![radio image](./img/banner2.png)

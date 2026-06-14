@@ -22,11 +22,11 @@ When the power switch is moved from **OFF** to **ON**, power is applied to the s
 
 The function switch controls decoding and coding of command radio voice reception and transmission.
 
-- With the switch at **PLAIN**, normal operation of the command radio is available, and only uncoded reception and transmission possible.
-- With the switch at **C/RAD 1**, the system decodes incoming voice communications, and codes outgoing voice communications through the command radio.
-
-!!! note
-    The **C/RAD 2** position has no function in these aircraft. A mechanical stop prevents the switch from being moved to this position.
+| Selection        | Description |
+|------------------|-------------|
+| **PLAIN**        | Normal operation of the command radio is available, and only uncoded reception and transmission possible. |
+| **C/RAD 1**      | The system decodes incoming voice communications, and codes outgoing voice communications through the command radio. |
+| _C/RAD 2 (INOP)_ | Inoperable in this simulated F-100D. A mechanical stop prevents the switch from being moved to this position. |
 
 ### Function Indicator Lights
 

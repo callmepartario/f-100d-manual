@@ -3,7 +3,7 @@
 
 !!! note
     Avoid extreme rudder pedal deflections
-    when nosewheel steering is engaged,
+    when nose wheel steering is engaged,
     since this may cause nose wheels to skid
     or skip sideways, and steering effectiveness
     is lost.

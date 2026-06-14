@@ -5,7 +5,7 @@ If the arresting hook is inadvertently released in flight, it
 will not introduce any problem while airborne, and a safe
 landing can be made with the hook extended. However,
 the following conditions must be considered:
-1. With a normal 3-degree final approach in normal
+1. With a normal 3° final approach in normal
 landing attitude, the tail hook extends approximately
 13 feet below the CG of the aircraft, and will contact the
 runway approximately 76 feet before the main landing

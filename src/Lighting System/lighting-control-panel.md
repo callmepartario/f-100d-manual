@@ -2,20 +2,25 @@
 
 ## Exterior Lighting
 
-A position light is on each wing tip, and two are in the trailing edge of the fuel vent outlet fairing above the rudder. The aircraft has two recognition lights, one on the upper fuselage and one on the lower fuselage. The aircraft also has two anti-collision or beacon lights, one on the upper fuselage and one on the lower fuselage. The retractable landing-taxi lights are in the lower surface of the fuselage. The lights extend for use as landing lights until the weight of the aircraft is on the nose gear; then the lights extend farther to provide taxi lighting. Some aircraft have a single floodlight in each wing. The lights face inboard and aft for illumination of the aft fuselage and empennage to facilitate visibility during night formation.
+A position light is on each wing tip, and two are in the trailing edge of the fuel vent outlet fairing above the rudder. The aircraft has two recognition lights, one on the upper fuselage and one on the lower fuselage. The aircraft also has two anti-collision or beacon lights, one on the upper fuselage and one on the lower fuselage.
+
+The retractable landing-taxi lights are in the lower surface of the fuselage.The lights extend for use as landing lights until the weight of the aircraft is on the nose gear, then the lights extend farther to provide taxi lighting.
+
+Some aircraft have a single floodlight in each wing. The lights face inboard and aft for illumination of the aft fuselage and empennage to facilitate visibility during night formation.
 
 ### Controls
 
 ![lighting controls image](./img/exteriorfloodlightpanel.png) 
 
 1. [Exterior Flood Lights](#exterior-flood-lights)
-
 2. [Beacon Lights](#beacon-lights)
 
 ### Exterior Flood Lights
+
 The exterior flood lights controlled by this switch and can operate in bright, dim, or off. They are located on the top of the wing inboard of each wing fence illuminating aft.
 
 ### Beacon Lights
+
 This switch controls the beacon lights on the top and bottom of the fuselage and only operate in on or off.
 
 ## Interior Lighting

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The fuel system includes three main tanks in the fuselage and a tank in each wing. Drop tanks may be installed on any of the six wing pylons.
+The fuel system includes three main tanks in the fuselage and a tank in each wing. Drop tanks can be installed on any of the six wing pylons.
 
 A series of valves and float triggered pumps automatically balances fuel in the aircraft by. All fuel ends up in the forward fuselage tank where it is then passed to the engine through the manifold and a 1.6-gallon inverted flight tank which gives fuel for short periods of negative or zero g.
 
@@ -76,7 +76,7 @@ This selects which external tanks are pressurized by the engine bleed air. In th
 
 ### Drop Tank Empty Indicator Light
 
-This indicates there is no longer any fuel pressure from the drop tanks. Because the external tank fuel line is shared with the internal wing tank scavenge pumps, this light extinguishes once the wing tanks begin to scavenge at about 4,000 pounds of fuel. This light illuminates again once wing tanks are empty (approximately 1,500 pounds of fuel remaining).
+This indicates there is no longer any fuel pressure from the drop tanks. Because the external tank fuel line is shared with the internal wing tank scavenge pumps, this light extinguishes once the wing tanks begin to scavenge at approximately 4,000 pounds of fuel. This light illuminates again once wing tanks are empty (approximately 1,500 pounds of fuel remaining).
 
 ### Fuel System Shutoff Valve Fail Light
 
@@ -87,7 +87,7 @@ This light illuminates if the fuel system shutoff valve is stuck as this could r
 This de-energizes the transfer control valves for the internal wing and external fuel tanks, allowing the single point pressure refueling system to refuel these tanks correctly.
 
 !!! warning
-    Do not position this to **READY** too soon as this prevents about 25 pounds per minute of fuel from being transferred from the internal wing tanks to the forward tank.
+    Do not position this to **READY** too soon as this prevents approximately 25 pounds per minute of fuel from being transferred from the internal wing tanks to the forward tank.
 
 ### Air Refueling Indicator Light
 

@@ -21,7 +21,7 @@
     Ignition is not available until the throttle is moved outboard and forward from the **OFF** position.
 
 !!! note
-    If during an air start the ignition-on and DC generator caution lights do not come on, the air start switch may be defective. Start attempt should then be made using the starter and ignition button to provide engine ignition. However, if this button is used, the DC generator switch should be turned OFF during ignition to prevent possible premature discharge of the battery.
+    If during an air start the ignition-on and DC generator caution lights do not come on, the air start switch can be defective. Start attempt should then be made using the starter and ignition button to provide engine ignition. However, if this button is used, the DC generator switch should be turned OFF during ignition to prevent possible premature discharge of the battery.
 
 !!! note
     Nonessential electrical equipment should be turned off to conserve battery power after the flame-out occurs. DC generator power (which controls the secondary and tertiary bus output) is not available at engine speeds below 40% RPM. When the air start switch is **ON**, the DC generator is cut out of the electrical system. This prevents the battery from powering the generator at low engine RPM if the reverse-current relay operation is faulty. DC generator output is restored when the air start switch is returned to **OFF**.

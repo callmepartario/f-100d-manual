@@ -67,19 +67,29 @@ When the command radio is operating, pressing and holding the tone button transm
 The frequency card notes channel presets and their frequencies.
 
 #### Default Preset Channels
-<!-- NOTE: There is an invisible character used to space the table -->
-| Preset Channel | Frequency (MHz) |⠀⠀⠀⠀| Preset Channel | Frequency (MHz) |
-|:--------------:|:---------------:|:---:|:--------------:|:---------------:| 
-| **Channel 1**  | 225.0           |     | **Channel 11** | 235.0           |
-| **Channel 2**  | 226.0           |     | **Channel 12** | 236.0           |
-| **Channel 3**  | 227.0           |     | **Channel 13** | 237.0           |
-| **Channel 4**  | 228.0           |     | **Channel 14** | 238.0           |
-| **Channel 5**  | 229.0           |     | **Channel 15** | 239.0           |
-| **Channel 6**  | 230.0           |     | **Channel 16** | 240.0           |
-| **Channel 7**  | 231.0           |     | **Channel 17** | 241.0           |
-| **Channel 8**  | 232.0           |     | **Channel 18** | 242.0           |
-| **Channel 9**  | 233.0           |     | **Channel 19** | 243.0           |
-| **Channel 10** | 234.0           |     | **Channel 20** | 244.0           |
+
+| Preset Channel | Frequency (MHz) |
+|----------------|-----------------|
+| **Channel 1**  | 225.0           |           
+| **Channel 2**  | 226.0           |           
+| **Channel 3**  | 227.0           |           
+| **Channel 4**  | 228.0           |           
+| **Channel 5**  | 229.0           |           
+| **Channel 6**  | 230.0           |           
+| **Channel 7**  | 231.0           |           
+| **Channel 8**  | 232.0           |           
+| **Channel 9**  | 233.0           |           
+| **Channel 10** | 234.0           |
+| **Channel 11** | 235.0           |
+| **Channel 12** | 236.0           |
+| **Channel 13** | 237.0           |
+| **Channel 14** | 238.0           |
+| **Channel 15** | 239.0           |
+| **Channel 16** | 240.0           |
+| **Channel 17** | 241.0           |
+| **Channel 18** | 242.0           |
+| **Channel 19** | 243.0           |
+| **Channel 20** | 244.0           |
 
 !!! note
   You can set new presets for each F-100D unit in the DCS mission editor.
@@ -88,18 +98,17 @@ The frequency card notes channel presets and their frequencies.
 
 The remote channel indicator is synchronized to the command radio control panel. When the radio is inoperative, its four display windows are blank. When the radio is in operation, they display information based on the [selector control](#manual-preset-guard-sliding-selector) position:
 
-| Selection     | Description |
-|---------------|-------------|
-| **PRESET**    | Preset command radio channel |
-| **MANUAL**    | Frequency (in MHz) of the selected channel |
-| **GUARD**     | GD |
+| Selection  | Description |
+|------------|-------------|
+| **PRESET** | Preset command radio channel |
+| **MANUAL** | Frequency (in MHz) of the selected channel |
+| **GUARD**  | GD |
 
 ![radio image](./img/remote-channel-indicator.png)
 
 ## Normal Operation
 
-A complete operational check of the command radio may
-be made as follows:
+A complete operational check of the command radio is performed as follows:
 
 1. Before takeoff, check frequencies to be used against those listed on [frequency card](#frequency-card).
 2. Check settings of buttons on frequency control drum with frequency card. To do this, open door to which frequency card is attached. The channel number which corresponds to the preset frequency appears in a window at the left of the buttons. The frequency numbers of this channel are listed above the buttons.
@@ -124,4 +133,4 @@ electrical power is available to complete selection.
 
 ### Radio Not Operating
 
-In the case of apparent failure of command radio, attempt operation in alternate positions of [sliding selector control](#manual-preset-guard-sliding-selector) and/or alternate positions of [function switch](#function-switch). Turn equipment off for several minutes; then turn [function switch](#function-switch) to type of operation desired. If the protective relay in the tuning mechanism was responsible, this action restores operation. Check the circuit breaker panel for tripped condition of the AN/AIC-10 amplifier.
+In the case of apparent failure of command radio, attempt operation in alternate positions of [sliding selector control](#manual-preset-guard-sliding-selector) or alternate positions of [function switch](#function-switch). Turn equipment off for several minutes; then turn [function switch](#function-switch) to type of operation desired. If the protective relay in the tuning mechanism was responsible, this action restores operation. Check the circuit breaker panel for tripped condition of the AN/AIC-10 amplifier.

@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-This manual is work in progress. Not all items may be completed, however included information should be accurate. If you find any inaccuracies please report them on our [github](https://github.com/grinnellidesigns/f-100d-manual).
+This manual is work in progress. Not all items are completed, however included information should be accurate. If you find any inaccuracies please report them on our [github](https://github.com/grinnellidesigns/f-100d-manual).
 
 ## Contents
 

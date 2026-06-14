@@ -28,7 +28,7 @@ The emergency lever should be in the center position at all times, unless an uns
 
 ### Diluter Lever
 
-The diluter lever should be at **NORMAL**, for normal oxygen use, or at the **100%** position for emergency oxygen use. With the lever at **NORMAL**, the regulator supplies a mixture of air and oxygen up to about 30,000 feet which is equivalent to normal breathing at sea level.
+The diluter lever should be at **NORMAL**, for normal oxygen use, or at the **100%** position for emergency oxygen use. With the lever at **NORMAL**, the regulator supplies a mixture of air and oxygen up to approximately 30,000 feet which is equivalent to normal breathing at sea level.
 
 !!! note
     Beyond 30,000 feet, 100% oxygen is supplied on either setting. These operating characteristics are related to the cockpit altitude only.
@@ -39,13 +39,13 @@ The supply lever is used to turn the regulator **ON** and **OFF**.
 
 ## Oxygen Duration
 
-- **Normal** → Diluter lever set to **NORMAL**  
-- **100%** → Diluter lever set to **100%**  
-- **Emerg ( )** → Diluter lever at **100%**, oxygen emergency lever at **EMERGENCY**, and **pressure suit used**  
-- **Times are in hours** (larger number = longer oxygen duration)  
-- **Liquid O₂ Quantity (L)** → each column heading shows remaining **liquid oxygen capacity** per crew member in **liters**  
-- **Emergency** row → In the event of depletion, **descend immediately** to a safe altitude not requiring supplemental oxygen  
-- Oxygen regulator gauge pressure: **constant 70 psi**  
+- **Normal**—Diluter lever set to **NORMAL**  
+- **100%**—Diluter lever set to **100%**  
+- **Emerg ( )**—Diluter lever at **100%**, oxygen emergency lever at the **EMERGENCY** position, and pressure suit used.
+- Times are in hours.
+- **Liquid O₂ Quantity (L)**—Each column heading shows remaining liquid oxygen capacity per crew member in liters.
+- **Emergency**—In the event of depletion, descend immediately to a safe altitude not requiring supplemental oxygen.
+- Oxygen regulator gauge pressure—**70 psi**  
 
 | Cockpit Altitude (ft) | 5 L Liquid O₂ | 4 L Liquid O₂ | 3 L Liquid O₂ | 2 L Liquid O₂ | 1 L Liquid O₂ | Below 1 L Liquid O₂ |
 |------------------------|----------------|----------------|----------------|----------------|----------------|-----------|
@@ -58,8 +58,8 @@ The supply lever is used to turn the regulator **ON** and **OFF**.
 | 5,000                  | Normal 30.2 / 100% 6.8 / Emerg (3.9)   | Normal 24.2 / 100% 5.4 / Emerg (3.1)   | Normal 18.1 / 100% 4.1 / Emerg (2.3)   | Normal 12.1 / 100% 2.7 / Emerg (1.6)   | Normal 6.0 / 100% 1.4 / Emerg (0.8)    | – |
 | 0                      | Normal 30.2 / 100% 5.5 / Emerg (3.2)   | Normal 24.2 / 100% 4.4 / Emerg (2.6)   | Normal 18.1 / 100% 3.3 / Emerg (1.9)   | Normal 12.1 / 100% 2.2 / Emerg (1.2)   | Normal 6.0 / 100% 1.1 / Emerg (0.7)    |—|
 
-
 ## Liquid Oxygen Quantity Gauge
+
 ![Liquid Oxygen Quantity Gauge](./img/loxquantity.png)
 
 The liquid oxygen quantity gauge is located at the top of the right side console and indicates the total quantity of liquid oxygen in liters. The liquid oxygen is stored in an insulated "thermos-bottle" type converter storage tank that is located forward of the cockpit on the right side.

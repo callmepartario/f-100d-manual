@@ -27,7 +27,7 @@ Actuates the lateral and longitudinal trim servos.
 The nose wheel steering button is located near your pinky finger on the flight stick. Pressing the button engages the nose wheel steering drops the mechanical link into the nose wheel assembly. Pressing it again disengages the system.
 
 !!! caution
-    If the nosewheel is not currently aligned with the mechanical linkage, move the linkage to the current nose wheel rotation by applying the rudder pedals in the desired direction until the system connects.
+    If the nose wheel is not currently aligned with the mechanical linkage, move the linkage to the current nose wheel rotation by applying the rudder pedals in the desired direction until the system connects.
 
 ### Trigger and Bomb Button
 

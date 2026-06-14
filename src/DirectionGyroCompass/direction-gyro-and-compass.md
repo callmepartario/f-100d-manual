@@ -93,7 +93,7 @@ The function selector switch is a two-position switch marked **MAG** and **DG**.
 The annunciator indicates the error between the direction gyro and the current sensed magnetic north, the [synchronizer control knob](#synchronizer-control-knob) can be used for rapid alignment of the heading pointer during slaved operation.
 
 !!! note
-    During turns or while accelerating the indication may be erroneous.
+    During turns or while accelerating the indication might be erroneous.
 
 ### Latitude Correction Knob
 

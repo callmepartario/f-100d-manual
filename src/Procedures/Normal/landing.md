@@ -93,7 +93,7 @@ On a slippery runway, braking action will vary immensely. Use anti-skid and aero
 
 ## Landing In Crosswinds
 
-When landing in crosswinds, approach and touchdown speeds should be increased. Increase speeds by ½ the crosswind velocity component plus ½ the gust factor. For example, a 45-degree off runway crosswind of 10 knots gusting 20 knots, approach speed should be increased by 10 knots. 
+When landing in crosswinds, approach and touchdown speeds should be increased. Increase speeds by ½ the crosswind velocity component plus ½ the gust factor. For example, a 45° off runway crosswind of 10 knots gusting 20 knots, approach speed should be increased by 10 knots. 
 
 On final, crab into the wind or forward slip to align the fuselage with the runway. If crabbing, perform a forward slip before touchdown. If the crosswind component exceeds 25 knots, perform a no-flap landing. At touchdown, lower the nose wheel and engage nose wheel steering. A higher tendency of weather vaning into the wind exists when the drag chute is deployed. Thus, careful consideration that the nose wheel steering is operating before deploying the drag chute is essential. If directional control is lost, the drag chute must be jettisoned. 
 
