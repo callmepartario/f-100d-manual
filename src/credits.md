@@ -87,8 +87,8 @@
 
 | Name | Role |
 |------|------|
-| Sloan Phillippi | Programmer |
 | Haydn Boul | Programmer |
+| Sloan Phillippi | Programmer |
 
 ## Art Department
 
@@ -96,11 +96,11 @@
 |------|------|
 | Andrei (Warped-Studios) | Artist |
 | Daniel Clark | Artist |
-| Sean Strike | Artist, Research, and Skins |
-| Spatz | Artist |
+| Evan Ashby | Artist |
 | Jamal Ingram | Artist |
 | Michael Carter | Artist |
-| Evan Ashby | Artist |
+| Sean Strike | Artist, Research, and Skins |
+| Spatz | Artist |
 
 ## Liveries & Skins
 
@@ -108,6 +108,7 @@
 |------|------|
 | Frog Man (Daniel Kaleikini) | Skins |
 | Mach 3 Design Studio | Skins |
+| Sean Strike | Artist, Research, and Skins |
 
 ## Audio
 
@@ -119,27 +120,25 @@
 
 | Name | Role |
 |------|------|
-| Sean Strike | Artist, Research, and Skins |
 | Mxstylie | Research |
+| Sean Strike | Artist, Research, and Skins |
 
-## Media
+## Media Digital Infrastructure
 
 | Name | Role |
 |------|------|
 | JJ Kirby | Video Producer |
+| Ripper | Social Media |
+| Ryan Gore | Systems, Web, and Digital Infrastructure |
 
-## Website
-
-| Name | Role |
-|------|------|
-| Ryan Gore | Systems, Web, Digital Infrastructure |
 
 ## Flight Sim Expo 2026 Demo Team
 | Name | Role |
 |------|------|
-| Roger "Dreadnaut" Sewell | Demo Team |
-| Ian "Burner" Roberts | Demo Team |
-| Robbie "Carl" Devergillo | Demo Team |
+| Daniel "Kujo" Kaleikini | Lead |
+| Ian "Burner" Roberts | Right Wing |
+| Robbie "Carl" Devergillo | Slot |
+| Roger "Dreadnaut" Sewell | Left Wing |
 
 ## Test Team
 
