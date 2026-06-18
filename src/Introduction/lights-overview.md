@@ -17,20 +17,20 @@ The three-position indicator light dimmer switch controls the brightness of the 
 
 ![replace image](./img/indicatorlights.png)
 
-| Light | Category | Cause | Procedure |
-|-------|-------|-----------|----------|
-| GUIDE VANE ANTI-ICE ON | Caution | The ice detector unit in the engine guide vane has detected ice or the guide vane anti-ice switch is on | |
-| ANTI-SKID OFF | Caution | The anti-skid switch is off or the system has failed | |
-| HEAT & VENT OVERHEATED | Caution | | |
-| ENG OIL OVERHEATED | Caution | Engine oil temperature is higher than 127°C (260°F)| |
-| EMER FUEL REG ON | Caution | Fuel flow is being scheduled by the emergency fuel regulator| |
-| FLIGHT SYS FAIL | Caution | One or both flight control hydraulic systems have failed (system 1 or 2) | |
-| INST A.C. POWER OFF | Caution | AC Instrument Buses are not Receiving sufficient electrical power | |
-| A.C. GENERATOR OFF | Caution | AC generator is off the line | |
-| D.C. GENERATOR OFF | Caution | DC generator is off the line | |
-| EQUIP AIR OVERHEAT | Caution | The aft electronic equipment compartment has overheated\n Indicates possible failure of the equipment cooling or compartment turbine, failure of the turbine control system, or the ram air is not cooling the compartment | |
-| SEL. DROP TANK EMPTY | Indicator | selected drop tanks are empty | |
-| AIR REFUELING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
+| Light | Category | Cause |
+|-------|-------|-----------|
+| GUIDE VANE ANTI-ICE ON | Caution | The ice detector unit in the engine guide vane has detected ice or the guide vane anti-ice switch is on |
+| ANTI-SKID OFF | Caution | The anti-skid switch is off or the system has failed |
+| HEAT & VENT OVERHEATED | Caution | 
+| ENG OIL OVERHEATED | Caution | Engine oil temperature is higher than 127°C (260°F)|
+| EMER FUEL REG ON | Caution | Fuel flow is being scheduled by the emergency fuel regulator|
+| FLIGHT SYS FAIL | Caution | One or both flight control hydraulic systems have failed (system 1 or 2) |
+| INST A.C. POWER OFF | Caution | AC Instrument Buses are not Receiving sufficient electrical power |
+| A.C. GENERATOR OFF | Caution | AC generator is off the line |
+| D.C. GENERATOR OFF | Caution | DC generator is off the line |
+| EQUIP AIR OVERHEAT | Caution | The aft electronic equipment compartment has overheated\n Indicates possible failure of the equipment cooling or compartment turbine, failure of the turbine control system, or the ram air is not cooling the compartment |
+| SEL. DROP TANK EMPTY | Indicator | selected drop tanks are empty |
+| AIR REFUELING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational|
 
 ## Indicator Light Test Circuit
 
@@ -52,9 +52,9 @@ The master caution light indicated certain indicator or caution lights have illu
 
 ## Other
 
-| Light | Category | Cause | Procedure |
-|-------|----------|-------|-----------|
-| CANOPY NOT LOCKED | Warning | The canopy is not fully closed and locked. | |
-| FIRE ENG COMP | Warning | An overheat or fire has been detected in the forward engine compartment or the fire system is being tested. | |
-| OVERHEAT ENG BURN | Warning | An overheat or fire has been detected in the aft engine compartment or the fire system is being tested. | |
-| TRIMMED FOR TAKEOFF | Indicator | The aircraft is trimmed for take off (260 KIAS condition). | |
+| Light | Category | Cause |
+|-------|----------|-------|
+| CANOPY NOT LOCKED | Warning | The canopy is not fully closed and locked. |
+| FIRE ENG COMP | Warning | An overheat or fire has been detected in the forward engine compartment or the fire system is being tested. |
+| OVERHEAT ENG BURN | Warning | An overheat or fire has been detected in the aft engine compartment or the fire system is being tested. |
+| TRIMMED FOR TAKEOFF | Indicator | The aircraft is trimmed for take off (260 KIAS condition). |
