@@ -53,7 +53,7 @@ These two readings are displayed as a combined Airspeed and Mach indicator. The 
 ## Attitude Indicator
 Driven by an electric motor, a double mounted gyro maintains its vertical upright alignment while the aircraft maneuvers, displaying its attitude. This indicator is subject to precession errors, but re-aligns itself with a self-erecting mechanism. 
 
-A knob provides reference adjustment up and down, aligingn it with the displayed artificial horizon.
+A knob provides reference adjustment up and down to align it with the displayed artificial horizon.
 
 ## Turn and Slip Indicator
 The turn and slip indicator provides turn direction and rate information on a vertical needle. A standard 4 minute instrument turn places the vertical turn needle over the corresponding direction's hash mark. 

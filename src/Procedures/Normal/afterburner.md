@@ -8,7 +8,7 @@ The afterburner can be operated at any throttle setting between 89%&plusmn;2 RPM
 
 1. Throttle—Outboard into AFTERBURNER position. Retard the throttle after light-up to minimize the possibility of engine overtemp. 
 
-!!! caution
-    If the exhaust nozzle fails to open when afterburner is selected, a loud explosion and surge may occur followed by RPM reduction and increase in exhaust temperature. 
+    !!! caution
+        If the exhaust nozzle fails to open when afterburner is selected, a loud explosion and surge may occur followed by RPM reduction and increase in exhaust temperature. 
 
 2. Throttle—Inboard, to shut down afterburner.

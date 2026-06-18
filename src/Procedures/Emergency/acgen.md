@@ -18,10 +18,10 @@ If the AC generator fails, try to return the generator to service as follows:
 3. If AC generator caution light extinguishes, Standby Instrument Inverter Switch—**OFF**
 4. If caution light remains on, repeat reset procedure up to twice.
 
-!!! caution
-    If the AC generator drive unit fails in such a manner as to break the case, oil in the unit is pumped overboard or into the engine intake duct, resulting in smoke or fumes in the cockpit.
+    !!! caution
+        If the AC generator drive unit fails in such a manner as to break the case, oil in the unit is pumped overboard or into the engine intake duct, resulting in smoke or fumes in the cockpit.
 
-If the generator light remains on after three reset attempts, assume that AC generator drive unit has failed. Proceed as follows:
+ If the generator light remains on after three reset attempts, assume that AC generator drive unit has failed. Proceed as follows:
 
 5. AC Generator Switch—**OFF**
 6. Stabilize engine **RPM**

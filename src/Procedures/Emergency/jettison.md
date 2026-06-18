@@ -11,11 +11,11 @@ All external loads, except the special weapon, can be jettisoned electrically by
 4. Armament Selector Switch—**JETTISON ALL (PYLON JETT)**—Press bomb button.
 5. External Load Auxiliary Release Buttons—**PRESS**—Press each button one at a time at at least a 1 second interval.
 
-!!! caution
-    Don't press more than one auxiliary release button at a time. Combined recoil of ejector cartridges for stores that require the full force of the ejector cartridges can damage the wing structure. Low-blow stores are exempt from this, as they don't require the full force of the ejector cartridge for release.
+    !!! caution
+        Don't press more than one auxiliary release button at a time. Combined recoil of ejector cartridges for stores that require the full force of the ejector cartridges can damage the wing structure. Low-blow stores are exempt from this, as they don't require the full force of the ejector cartridge for release.
 
-!!! note    
-    When using auxiliary release buttons, external loads (conventional weapons) are released armed or safe, depending on the position of the bomb arming switch. Hi-blow and low-blow stores are force ejected for clean separation. 275- and 335-gallon drop tanks are gravity released. Pylons are not released by the auxiliary release buttons.
+    !!! note    
+        When using auxiliary release buttons, external loads (conventional weapons) are released armed or safe, depending on the position of the bomb arming switch. Hi-blow and low-blow stores are force ejected for clean separation. 275- and 335-gallon drop tanks are gravity released. Pylons are not released by the auxiliary release buttons.
 
 ## External Load Jettison (Releasing Special Store)
 

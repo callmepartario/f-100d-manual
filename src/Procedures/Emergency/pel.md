@@ -23,20 +23,20 @@ Basic consideration when executing a PLP are:
 6. Landing Gear—**DOWN**.
 7. Airspeed—**220 KIAS**—Hold a constant speed of 220 KIAS in the pattern until on final. Fly a pattern. Varying flight path to make key points. Aim for one third point of runway.
 
-!!! warning
-    Avoid excess use of controls, especially ailerons: control is marginal due to reduced hydraulic flow.
+    !!! warning
+        Avoid excess use of controls, especially ailerons: control is marginal due to reduced hydraulic flow.
 
 8. Airspeed—**200 KIAS**—Hold pattern speed through final turn, playing the turn "long" or "short", for accurate touchdown. Reduce airspeed to 200 KIAS when straight in on final and maintain into flare.
 9. Wing Flaps—AS REQUIRED.
 
-!!! caution
-    With a dead engine, speed brake is inoperative.
+    !!! caution
+        With a dead engine, speed brake is inoperative.
 
 10. Drag Chute—**DEPLOY**.
 11. Nose Wheel Steering—**ENGAGE**.
 
-!!! warning
-    Nose wheel steering is unreliable due to reduced hydraulic flow at low windmill RPM during landing.
+    !!! warning
+        Nose wheel steering is unreliable due to reduced hydraulic flow at low windmill RPM during landing.
 
 12. Battery Switch—**OFF**.
 

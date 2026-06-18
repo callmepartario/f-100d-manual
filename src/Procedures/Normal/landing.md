@@ -18,11 +18,11 @@ On approach:
 3. Wing Flaps—**UP**
 4. Nose Wheel Steering—**ENGAGE**
 
-!!! caution
-    In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
+    !!! caution
+        In the event of a nose wheel steering system malfunction, disengage and maintain directional control with rudder and differential braking.
 
-!!! warning
-    If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting. To prevent nose wheel steering disengaging because of pitching, hold forward stick pressure on landing roll out.
+    !!! warning
+        If the rudder pedals are not neutral when the nose wheel steering button is pressed, the steering may not engage. If the steering does not engage, move the rudder pedals in the direction of the nose wheel setting. To prevent nose wheel steering disengaging because of pitching, hold forward stick pressure on landing roll out.
 
 5. Drag chute—**DEPLOY**
 6. Employ normal braking

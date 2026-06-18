@@ -107,11 +107,11 @@ nav:
       - Weapon Release Tables: ./Weapon_System/bomb-rockets.md
 
     - Normal Procedures:
-      - Cruise: ./Procedures/Normal/cruise.md
       - Preflight Check: ./Procedures/Normal/preflight.md
       - Startup: ./Procedures/Normal/start.md
       - Taxiing: ./Procedures/Normal/taxi.md
       - Takeoff: ./Procedures/Normal/takeoff.md
+      - Cruise: ./Procedures/Normal/cruise.md
       - Afterburner (AB) Operation During Flight: ./Procedures/Normal/afterburner.md
       - Descent: ./Procedures/Normal/descent.md
       - Landing: ./Procedures/Normal/landing.md

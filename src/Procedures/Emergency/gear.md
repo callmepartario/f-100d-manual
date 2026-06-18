@@ -63,8 +63,8 @@ If an unsafe condition is confirmed for the main gear after the emergency loweri
 2. Landing Gear—**UP**—Retract main gear so that landing can be made on nose gear and aft fuselage (or empty drop tanks).
 3. External load—**JETTISON**—If necessary.
 
-!!! note
-    Retain empty drop tanks to cushion landing shock and minimize aircraft damage.
+    !!! note
+        Retain empty drop tanks to cushion landing shock and minimize aircraft damage.
 
 4. Shoulder harness—**LOCK**
 5. Drag chute—**DEPLOY**—Deploy drag chute while airborne, just before touchdown.

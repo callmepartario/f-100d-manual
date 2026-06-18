@@ -22,7 +22,7 @@ Proceed as follows:
 1. Determine which system has failed. Check each system hydraulic pressure to determine the nature of the failure. Low pressure indicates a pump or line failure with resultant loss of pressure. Normal pressure but with no fluctuation in response to fore-and-aft control movement indicates a blocked or run-around condition. The emergency hydraulic pump will not supplement the No. | system in case of a No. 2 system block.
 2. Land as soon as possible.
 
-During landing approach:
+ During landing approach:
 
 3. Monitor the good system.
 4. Fly long final approach. A long, straight-in, final approach should be used, and rate of descent should be between 1000 and 1500 feet per minute (remaining above safe ejection altitude as long as practical). Reduce rate of descent to below 1000 feet per minute just before flare.

@@ -9,7 +9,7 @@ Once in the takeoff area:
 5. Pitot heat—**ON**
 6. Canopy—**CLOSED AND LOCKED**
 
-!!! note
-    Ensure a tight seal by holding the canopy control switch in the **CLOSE** position for a few seconds after the CANOPY NOT LOCKED warning light extinguishes.
+    !!! note
+        Ensure a tight seal by holding the canopy control switch in the **CLOSE** position for a few seconds after the CANOPY NOT LOCKED warning light extinguishes.
 
 7. Anti-Collision Lights—**AS REQUIRED**

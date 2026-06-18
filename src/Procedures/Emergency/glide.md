@@ -10,8 +10,8 @@ The glide ratio and glide distances of the aircraft without drop tanks but with 
 
 1. External Load—**JETTISON**
 
-!!! note 
-    If landing on a prepared surface, retain empty drop tanks to cushion landing shock. If time and conditions permit, fire all ammunition and expend excess fuel to lighten aircraft and minimize fire hazard.
+    !!! note 
+        If landing on a prepared surface, retain empty drop tanks to cushion landing shock. If time and conditions permit, fire all ammunition and expend excess fuel to lighten aircraft and minimize fire hazard.
 
 2. Landing Gear—**DOWN**
 3. Shoulder harness—**LOCK**

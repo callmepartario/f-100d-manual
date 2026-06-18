@@ -7,8 +7,8 @@ If a spin is inadvertently entered, proceed as follows:
 2. Flight Stick—**RELEASE**—Release all controls and determine spin direction.
 3. External Load—**JETTISON**
 
-!!! warning
-    If only pylons are installed, jettison the pylons.
+    !!! warning
+        If only pylons are installed, jettison the pylons.
     
 4. Landing Gear—**UP**—Wing Flaps—**UP**—Speed Brake—**UP**—Retracting these surfaces prevents structural damage from excess airspeed during recover.
 5. Rudder—**FULL OPPOSITE**—Ailerons—**FULL WITH SPIN**—Flight Stick—**FULL AFT**
