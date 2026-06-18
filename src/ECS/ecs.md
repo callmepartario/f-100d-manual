@@ -54,7 +54,7 @@ The IFF Antenna Selector Switch has three position:
 | Selection  | Description |
 |------------|-------------|
 | **TOP**    | Use only the upper antenna. |
-| **BOTH**   | Use both upper and lower antennae. |
+| **BOTH**   | Use both upper and lower antenna. |
 | **BOTTOM** | Use only the lower antenna. |
 
 _See also: [ARN-72 Tacan](../ARN-72%20TACAN/tacan.md)_
@@ -69,10 +69,10 @@ The Cockpit Temperature Master Switch has four positions. Setting this switch to
 
 | Selection  | Description |
 |------------|-------------|
-| **AUTO**   | |
-| **OFF**    | |
-| **COLD**   | |
-| **HOT**    | |
+| **AUTO**   | Will automatically adjust the temperature of the cockpit. |
+| **OFF**    | Will turn the temperature control system off. |
+| **COLD**   | Will set the temperature of the cockpit to cool. |
+| **HOT**    | Will set the temperature of the cockpit to hot. |
 
 ## Cockpit Pressure Altitude Indicator
 
