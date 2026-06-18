@@ -106,7 +106,7 @@
 
 | Name | Role |
 |------|------|
-| Frog Man (Daniel Kaleikini) | Skins |
+| Daniel "Kujo" Kaleikini | Skins |
 | Mach 3 Design Studio | Skins |
 | Sean Strike | Artist, Research, and Skins |
 
