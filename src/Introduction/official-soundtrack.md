@@ -11,7 +11,7 @@ Featuring ten original metal tracks, the album captures the raw energy and dange
 !!! note
     Music from *Death or Glory* is free to use in community videos and cinematics.
 
-<iframe width="560" height="315" src="https://youtu.be/x4NkS02D_ms?si=BM89MmNMIaPlgoQI" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4NkS02D_ms?si=u_8DXqIZchpncVzr" 
 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 
